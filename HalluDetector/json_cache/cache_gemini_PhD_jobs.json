@@ -1,0 +1,91 @@
+{
+  "iterations": [
+    {
+      "action_list_1": [
+        "Start working on the request to find suitable job opportunities.",
+        "Identify the official careers pages for OpenAI.",
+        "Identify the official careers pages for Google DeepMind.",
+        "Identify the official careers pages for Meta.",
+        "Search for the specified job titles on OpenAI's careers page.",
+        "Filter for full-time positions in the United States on OpenAI's careers page.",
+        "Extract the job title, direct link, and location for up to five relevant positions from OpenAI's careers page.",
+        "Search for the specified job titles on Google DeepMind's careers page.",
+        "Filter for full-time positions in the United States on Google DeepMind's careers page.",
+        "Extract the job title, direct link, and location for up to five relevant positions from Google DeepMind's careers page.",
+        "Search for the specified job titles on Meta's careers page.",
+        "Filter for full-time positions in the United States on Meta's careers page.",
+        "Extract the job title, direct link, and location for up to five relevant positions from Meta's careers page.",
+        "Search for the careers page of OpenAI.",
+        "Search for the careers page of Google DeepMind.",
+        "Search for the careers page of Meta."
+      ],
+      "search_list_1": [
+        "https://www.ziprecruiter.com/Jobs/Deepmind-Google/--in-California",
+        "https://www.metacareers.com/jobs/1014936436926274",
+        "https://www.google.com/about/careers/applications/jobs/results?q=machine+learning",
+        "https://www.metacareers.com/teams/technology?tab=AI",
+        "https://www.ziprecruiter.com/Jobs/Deepmind-Google",
+        "https://www.ziprecruiter.com/Jobs/Full-Time-Meta-Ai",
+        "https://boards.greenhouse.io/deepmind/jobs/6541427",
+        "https://jobs.towardsai.net/companies/meta",
+        "https://deepmind.google/about/careers/",
+        "https://www.ziprecruiter.com/Jobs/Meta-Ai",
+        "https://research.google/careers/",
+        "https://timesofindia.indiatimes.com/technology/tech-news/meta-hires-two-more-openai-top-researchers-amid-300-million-ai-talent-war-report/articleshow/122567069.cms",
+        "https://timesofindia.indiatimes.com/education/news/what-its-really-like-to-work-at-openai-no-emails-12-hour-days-and-the-push-for-perfection/articleshow/122620842.cms",
+        "https://openai.com/careers/",
+        "https://aijobs.ai/company/meta?page=2",
+        "https://openai.com/about/",
+        "https://www.ziprecruiter.com/Jobs/Openai",
+        "https://www.levels.fyi/companies/openai/jobs"
+      ],
+      "claim_list_1": [
+        "OpenAI's careers page lists the role 'ML Infrastructure Engineer' with a location in San Francisco.",
+        "OpenAI's careers page lists the role 'Model Designer' with a location in San Francisco.",
+        "OpenAI's careers page lists the role 'Performance & Systems Engineer, Codex' with a location in San Francisco.",
+        "OpenAI's careers page lists the role 'Research Empowerment Infrastructure Engineer' with a location in San Francisco.",
+        "OpenAI's careers page lists the role 'Research Engineer' with a location in San Francisco.",
+        "Google DeepMind's careers page lists the role 'Research Engineer, Applied Robotics' with a location in Mountain View, CA.",
+        "Google DeepMind's careers page lists the role 'Research Engineer, Applied Robotics' with a location in New York City, NY.",
+        "Google DeepMind's careers page lists the role 'Research Engineer/Scientist, Training Algorithms' with a location in Mountain View, CA.",
+        "Google DeepMind's careers page lists the role 'Research Engineer/Scientist, Training Algorithms' with a location in New York City, NY.",
+        "Google DeepMind's careers page lists the role 'Research Scientist, Multimodal Alignment, Safety, and Fairness' with a location in Mountain View, CA.",
+        "Google DeepMind's careers page lists the role 'Research Scientist, Multimodal Alignment, Safety, and Fairness' with a location in New York City, NY.",
+        "Google DeepMind's careers page lists the role 'Senior Software Engineer, Gemini Audio Inference' with a location in Mountain View, CA.",
+        "Google DeepMind's careers page lists the role 'Senior Software Engineer, Gemini Audio Inference' with a location in New York City, NY.",
+        "Meta's AI technology teams careers page lists the role 'AI Research Scientist, Language - Generative AI' with a location in Menlo Park, CA.",
+        "Meta's AI technology teams careers page lists the role 'AI Research Scientist, Language - Generative AI' with a location in Seattle, WA.",
+        "Meta's AI technology teams careers page lists the role 'Research Scientist, Computer Vision for Generative AI' with a location in Menlo Park, CA.",
+        "Meta's AI technology teams careers page lists the role 'Research Scientist, Computer Vision for Generative AI' with a location in Seattle, WA."
+      ]
+    },
+    {
+      "action_list_2": [
+        "Pull information directly from the official careers pages.",
+        "Provide the most accurate and up-to-date direct links.",
+        "Focus on the specific roles: Research Scientist, Machine Learning Engineer, and Research Engineer.",
+        "Filter for US-based positions.",
+        "Browse the official careers pages for OpenAI.",
+        "Browse the official careers pages for Google DeepMind.",
+        "Browse the official careers pages for Meta.",
+        "Browse the Greenhouse page for DeepMind.",
+        "Systematically extract five relevant job postings for OpenAI.",
+        "Systematically extract five relevant job postings for Google DeepMind.",
+        "Systematically extract five relevant job postings for Meta.",
+        "Capture direct links for the specified roles.",
+        "Capture US locations for the specified roles."
+      ],
+      "search_list_2": [
+        "https://openai.com/careers/",
+        "https://boards.greenhouse.io/deepmind/jobs/6541427",
+        "https://www.metacareers.com/teams/technology?tab=AI"
+      ],
+      "claim_list_2": [
+        "OpenAI has featured roles.",
+        "Google DeepMind has a list of Research Scientist roles in the US.",
+        "Google DeepMind has a list of Research Engineer roles in the US.",
+        "Meta has an AI careers page."
+      ]
+    }
+  ]
+}
