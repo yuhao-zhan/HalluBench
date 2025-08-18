@@ -1,0 +1,494 @@
+{
+  "report": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "# An Analysis of Simultaneous 2024 Theatrical Film Releases in the United States and Mainland China",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 2,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 3,
+      "paragraph_text": "### Key Points",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "*   The investigation successfully identified two major 2024 Hollywood films with simultaneous theatrical releases in the United States and mainland China: `Godzilla x Kong: The New Empire` and `Alien...",
+      "atomic_claims": [
+        "Godzilla x Kong: The New Empire was released on March 29, 2024, in the United States.",
+        "Godzilla x Kong: The New Empire was released on March 29, 2024, in mainland China.",
+        "Box Office Mojo verified the release date of Godzilla x Kong: The New Empire.",
+        "Alien: Romulus was released on August 16, 2024, in North America.",
+        "Alien: Romulus was released on August 16, 2024, in China.",
+        "Variety reported the release date of Alien: Romulus."
+      ]
+    },
+    {
+      "paragraph_index": 5,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "### Overview",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "The practice of simultaneous, or \"day-and-date,\" theatrical releases in the world's two largest film markets—the United States and mainland China—represents a significant strategic undertaking for Hol...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "This report presents a focused analysis of films released in 2024 that achieved an identical theatrical release date in both the U.S. and mainland China. The objective is to identify specific examples...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "### Detailed Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "The research identified two prominent 2024 films that met the strict criterion of a simultaneous wide theatrical release in both markets. The details of these films are examined below.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "#### Confirmed Simultaneous Releases",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 13,
+      "paragraph_text": "The investigation confirmed that two science-fiction/action blockbusters from major studios successfully coordinated their release schedules for the same day in the U.S. and China. This alignment is a...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 14,
+      "paragraph_text": "| Film Title | Shared Release Date | Verifying Source(s) |\n| :--- | :--- | :--- |\n| `Godzilla x Kong: The New Empire` | March 29, 2024 | Box Office Mojo |\n| `Alien: Romulus` | August 16, 2024 | Variet...",
+      "atomic_claims": [
+        "Godzilla x Kong: The New Empire had a theatrical release date of March 29, 2024 in mainland China",
+        "Godzilla x Kong: The New Empire had a theatrical release date of March 29, 2024 in the United States",
+        "Alien: Romulus had a theatrical release date of August 16, 2024 in mainland China",
+        "Alien: Romulus had a theatrical release date of August 16, 2024 in the United States"
+      ]
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "#### Case Study: `Godzilla x Kong: The New Empire`",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "`Godzilla x Kong: The New Empire` was released on March 29, 2024. The confirmation of this dual-market release is provided by Box Office Mojo, an authoritative source for theatrical release data. The ...",
+      "atomic_claims": [
+        "Godzilla x Kong: The New Empire was released on March 29, 2024.",
+        "Box Office Mojo confirms the theatrical release date for Godzilla x Kong: The New Empire."
+      ]
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "#### Case Study: `Alien: Romulus`",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "The sci-fi horror film `Alien: Romulus` also achieved a simultaneous release on August 16, 2024. This was explicitly reported by Variety, which noted the film's \"day-and-date\" debut in North America a...",
+      "atomic_claims": [
+        "https://variety.com is explicitly present in source text",
+        "The sci-fi horror film \"Alien: Romulus\" had a theatrical release date of August 16, 2024, in North America",
+        "The sci-fi horror film \"Alien: Romulus\" had a theatrical release date of August 16, 2024, in mainland China"
+      ]
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "### Survey Note",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "#### Literature Review & Theoretical Framework",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 22,
+      "paragraph_text": "The phenomenon of simultaneous U.S.-China film releases can be situated within the broader academic discourse on film globalization and the political economy of media. The strategic decision to pursue...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "#### Methodology & Data Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "The research methodology employed was a targeted investigation aimed at identifying specific instances of simultaneous theatrical releases. The primary objective was to locate a minimum of three quali...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "1.  **Data Collection**: The research utilized authoritative industry databases and trade journalism, specifically Box Office Mojo (an IMDb company) and Variety, to gather and confirm release date inf...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "A key limitation of this investigation is its scope. While two films were successfully identified, the initial target of three was not met. This suggests that either the phenomenon is less frequent th...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "#### Critical Discussion",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "The identification of `Godzilla x Kong: The New Empire` and `Alien: Romulus` is significant. Both are large-budget, effects-driven genre films, a category that has historically performed well in the C...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "The inability to readily identify a third film from the initial research pass highlights the complexities of the Chinese film market. The approval process for foreign films remains opaque, and release...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "#### Future Research Directions",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "Based on the current findings, several avenues for future research emerge:",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 32,
+      "paragraph_text": "1.  **Comprehensive Census**: A systematic, large-scale study could be undertaken to review the release schedules of all foreign films approved for theatrical distribution in China in 2024 to create a...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    }
+  ],
+  "chunk_score": {
+    "0-chunk_0_8452303923504390695": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Title: Godzilla x Kong: The New Empire URL Source: https://www.boxofficemojo.com/title/tt14539740 Markdown Content:\n! Image 1 https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_SY139_CR0,0,92,139_.jpg)",
+      "position": 0,
+      "chunk_id_original": "chunk_0_8452303923504390695",
+      "sentence_count": 4,
+      "sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scores": {}
+    },
+    "0-chunk_1_574504160698117835": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Image 1 https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_SY139_CR0,0,92,139_.jpg) Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries. All Releases Domestic 34.",
+      "position": 86,
+      "chunk_id_original": "chunk_1_574504160698117835",
+      "sentence_count": 4,
+      "sentence_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scores": {}
+    },
+    "0-chunk_2_-6727081804874465649": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Domestic 34. 3% $196,350,016 International 65.",
+      "position": 275,
+      "chunk_id_original": "chunk_2_-6727081804874465649",
+      "sentence_count": 4,
+      "sentence_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scores": {}
+    },
+    "0-chunk_3_8727519701094836441": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "International 65. 7% $375,700,000 Worldwide",
+      "position": 304,
+      "chunk_id_original": "chunk_3_8727519701094836441",
+      "sentence_count": 4,
+      "sentence_indices": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "scores": {}
+    },
+    "0-chunk_4_6457022347949212823": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Worldwide $572,050,016 Summary Details Domestic",
+      "position": 338,
+      "chunk_id_original": "chunk_4_6457022347949212823",
+      "sentence_count": 4,
+      "sentence_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scores": {}
+    },
+    "0-chunk_5_2127916063531555680": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Domestic Area Release Date Opening Gross Domestic https://www.boxofficemojo.com/release/rl3351937793/?ref_=bo_tt_gr_1) Mar 29, 2024 $80,006,561 $196,350,016 Europe, Middle East, and Africa",
+      "position": 378,
+      "chunk_id_original": "chunk_5_2127916063531555680",
+      "sentence_count": 4,
+      "sentence_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "scores": {}
+    },
+    "0-chunk_6_3609039035134800184": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Europe, Middle East, and Africa Area Release Date Opening Gross United Kingdom https://www.boxofficemojo.com/release/rl2371846145/?ref_=bo_tt_gr_1) Mar 29, 2024 $5,225,122 $18,433,119 France https://www.boxofficemojo.com/release/rl190939137/?ref_=bo_tt_gr_2) Apr 3, 2024 $2,942,548 $9,117,297",
+      "position": 487,
+      "chunk_id_original": "chunk_6_3609039035134800184",
+      "sentence_count": 4,
+      "sentence_indices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "scores": {}
+    },
+    "0-chunk_7_-2796183069570400083": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "France https://www.boxofficemojo.com/release/rl190939137/?ref_=bo_tt_gr_2) Apr 3, 2024 $2,942,548 $9,117,297 Spain https://www.boxofficemojo.com/release/rl2405400577/?ref_=bo_tt_gr_3) Mar 29, 2024 $2,054,194 $6,845,899 Germany https://www.boxofficemojo.com/release/rl3261169665/?ref_=bo_tt_gr_4) Apr 4, 2024 $2,260,330 $6,639,753 United Arab Emirates https://www.boxofficemojo.com/release/rl3193995265/?ref_=bo_tt_gr_5) Apr 11, 2024 $2,175,815 $4,898,456",
+      "position": 623,
+      "chunk_id_original": "chunk_7_-2796183069570400083",
+      "sentence_count": 4,
+      "sentence_indices": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "scores": {}
+    },
+    "0-chunk_8_-4579487976971025658": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "United Arab Emirates https://www.boxofficemojo.com/release/rl3193995265/?ref_=bo_tt_gr_5) Apr 11, 2024 $2,175,815 $4,898,456 Italy https://www.boxofficemojo.com/release/rl3814686721/?ref_=bo_tt_gr_6) Mar 28, 2024 $1,991,240 $4,470,737 Netherlands https://www.boxofficemojo.com/release/rl2053210113/?ref_=bo_tt_gr_7) Mar 28, 2024 – $3,313,159 Poland https://www.boxofficemojo.com/release/rl2505998337/?ref_=bo_tt_gr_8) Mar 28, 2024 $238,767 $1,695,740",
+      "position": 801,
+      "chunk_id_original": "chunk_8_-4579487976971025658",
+      "sentence_count": 4,
+      "sentence_indices": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "scores": {}
+    },
+    "0-chunk_9_6982994523508733010": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Poland https://www.boxofficemojo.com/release/rl2505998337/?ref_=bo_tt_gr_8) Mar 28, 2024 $238,767 $1,695,740 Türkiye https://www.boxofficemojo.com/release/rl2422308865/?ref_=bo_tt_gr_9) Apr 5, 2024 $249,469 $1,405,299 Norway https://www.boxofficemojo.com/release/rl2002681857/?ref_=bo_tt_gr_10) Mar 29, 2024 $206,654 $1,001,820 South Africa https://www.boxofficemojo.com/release/rl4284383233/?ref_=bo_tt_gr_11) Mar 29, 2024 $261,275 $864,760",
+      "position": 990,
+      "chunk_id_original": "chunk_9_6982994523508733010",
+      "sentence_count": 4,
+      "sentence_indices": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "scores": {}
+    },
+    "0-chunk_10_33737176481807592": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "South Africa https://www.boxofficemojo.com/release/rl4284383233/?ref_=bo_tt_gr_11) Mar 29, 2024 $261,275 $864,760 Portugal https://www.boxofficemojo.com/release/rl1566474241/?ref_=bo_tt_gr_12) Mar 28, 2024 $270,586 $864,235 Ukraine https://www.boxofficemojo.com/release/rl912687105/?ref_=bo_tt_gr_13) Mar 28, 2024 – $807,349 Romania https://www.boxofficemojo.com/release/rl106856449/?ref_=bo_tt_gr_14) Mar 29, 2024 $267,892 $792,588",
+      "position": 1167,
+      "chunk_id_original": "chunk_10_33737176481807592",
+      "sentence_count": 4,
+      "sentence_indices": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "scores": {}
+    },
+    "0-chunk_11_-4564341451431560966": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Romania https://www.boxofficemojo.com/release/rl106856449/?ref_=bo_tt_gr_14) Mar 29, 2024 $267,892 $792,588 Hungary https://www.boxofficemojo.com/release/rl190742529/?ref_=bo_tt_gr_15) Mar 28, 2024 $197,893 $539,055 Bulgaria https://www.boxofficemojo.com/release/rl358514689/?ref_=bo_tt_gr_16) Mar 29, 2024 $109,017 $440,650 Czech Republic https://www.boxofficemojo.com/release/rl2036236289/?ref_=bo_tt_gr_17) Mar 28, 2024 $142,732 $416,693",
+      "position": 1340,
+      "chunk_id_original": "chunk_11_-4564341451431560966",
+      "sentence_count": 4,
+      "sentence_indices": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "scores": {}
+    },
+    "0-chunk_12_3567286411354897954": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Czech Republic https://www.boxofficemojo.com/release/rl2036236289/?ref_=bo_tt_gr_17) Mar 28, 2024 $142,732 $416,693 Croatia https://www.boxofficemojo.com/release/rl4284448769/?ref_=bo_tt_gr_18) Mar 28, 2024 $98,612 $308,894 Slovakia https://www.boxofficemojo.com/release/rl6193153/?ref_=bo_tt_gr_19) Mar 28, 2024 $76,950 $206,161 Lithuania https://www.boxofficemojo.com/release/rl761167873/?ref_=bo_tt_gr_20) Mar 29, 2024 $30,290 $205,230",
+      "position": 1515,
+      "chunk_id_original": "chunk_12_3567286411354897954",
+      "sentence_count": 4,
+      "sentence_indices": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "scores": {}
+    },
+    "0-chunk_13_3285001971549727403": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Lithuania https://www.boxofficemojo.com/release/rl761167873/?ref_=bo_tt_gr_20) Mar 29, 2024 $30,290 $205,230 Serbia and Montenegro https://www.boxofficemojo.com/release/rl2422112257/?ref_=bo_tt_gr_21) Mar 28, 2024 $72,146 $170,346 Iceland https://www.boxofficemojo.com/release/rl744390657/?ref_=bo_tt_gr_22) Mar 29, 2024 $32,940 $142,193 Slovenia https://www.boxofficemojo.com/release/rl4032724993/?ref_=bo_tt_gr_23) Mar 28, 2024 $31,939 $99,698",
+      "position": 1695,
+      "chunk_id_original": "chunk_13_3285001971549727403",
+      "sentence_count": 4,
+      "sentence_indices": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "scores": {}
+    },
+    "0-chunk_14_2479500006173713201": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Slovenia https://www.boxofficemojo.com/release/rl4032724993/?ref_=bo_tt_gr_23) Mar 28, 2024 $31,939 $99,698 Latin America Area Release Date Opening Gross Mexico https://www.boxofficemojo.com/release/rl2338291713/?ref_=bo_tt_gr_1) Mar 29, 2024 $13,764,250 $33,878,508",
+      "position": 1882,
+      "chunk_id_original": "chunk_14_2479500006173713201",
+      "sentence_count": 4,
+      "sentence_indices": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "scores": {}
+    },
+    "0-chunk_15_303145715004070194": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Mexico https://www.boxofficemojo.com/release/rl2338291713/?ref_=bo_tt_gr_1) Mar 29, 2024 $13,764,250 $33,878,508 Brazil https://www.boxofficemojo.com/release/rl2170519553/?ref_=bo_tt_gr_2) Mar 28, 2024 $2,600,000 $8,400,000 Colombia https://www.boxofficemojo.com/release/rl979271681/?ref_=bo_tt_gr_3) Mar 28, 2024 $1,519,885 $4,797,983 Asia Pacific",
+      "position": 1988,
+      "chunk_id_original": "chunk_15_303145715004070194",
+      "sentence_count": 4,
+      "sentence_indices": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "scores": {}
+    },
+    "0-chunk_16_1263054727136005037": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Asia Pacific Area Release Date Opening Gross India https://www.boxofficemojo.com/release/rl2355068929/?ref_=bo_tt_gr_1) Mar 29, 2024 $5,600,000 $15,900,000 Australia https://www.boxofficemojo.com/release/rl2388623361/?ref_=bo_tt_gr_2) Mar 28, 2024 $3,649,963 $12,732,100",
+      "position": 2175,
+      "chunk_id_original": "chunk_16_1263054727136005037",
+      "sentence_count": 4,
+      "sentence_indices": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "scores": {}
+    },
+    "0-chunk_17_-7911383205709207027": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Australia https://www.boxofficemojo.com/release/rl2388623361/?ref_=bo_tt_gr_2) Mar 28, 2024 $3,649,963 $12,732,100 Japan https://www.boxofficemojo.com/release/rl2624028673/?ref_=bo_tt_gr_3) Apr 26, 2024 $2,950,060 $10,004,325 Indonesia https://www.boxofficemojo.com/release/rl2153742337/?ref_=bo_tt_gr_4) Mar 27, 2024 $3,100,000 $9,200,000 Taiwan https://www.boxofficemojo.com/release/rl4167008257/?ref_=bo_tt_gr_5) Mar 27, 2024 $3,000,000 $7,700,000",
+      "position": 2284,
+      "chunk_id_original": "chunk_17_-7911383205709207027",
+      "sentence_count": 4,
+      "sentence_indices": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "scores": {}
+    },
+    "0-chunk_18_-5345882701974886722": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Taiwan https://www.boxofficemojo.com/release/rl4167008257/?ref_=bo_tt_gr_5) Mar 27, 2024 $3,000,000 $7,700,000 Malaysia https://www.boxofficemojo.com/release/rl2204073985/?ref_=bo_tt_gr_6) Mar 28, 2024 $2,400,000 $6,000,000 Vietnam https://www.boxofficemojo.com/release/rl1046577153/?ref_=bo_tt_gr_7) Mar 28, 2024 – $5,408,959 Thailand https://www.boxofficemojo.com/release/rl2187296769/?ref_=bo_tt_gr_8) Mar 28, 2024 $2,500,000 $3,800,000",
+      "position": 2474,
+      "chunk_id_original": "chunk_18_-5345882701974886722",
+      "sentence_count": 4,
+      "sentence_indices": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "scores": {}
+    },
+    "0-chunk_19_3027716975378316139": {
+      "url": "https://www.boxofficemojo.com/title/tt14539740",
+      "chunk_text": "Thailand https://www.boxofficemojo.com/release/rl2187296769/?ref_=bo_tt_gr_8) Mar 28, 2024 $2,500,000 $3,800,000 South Korea https://www.boxofficemojo.com/release/rl2220851201/?ref_=bo_tt_gr_9) Mar 27, 2024 $1,791,813 $3,756,246 Hong Kong https://www.boxofficemojo.com/release/rl4133453825/?ref_=bo_tt_gr_10) Mar 28, 2024 $1,282,113 $3,161,167 New Zealand https://www.boxofficemojo.com/release/rl1079934977/?ref_=bo_tt_gr_11) Mar 28, 2024 $750,361 $2,430,746",
+      "position": 2651,
+      "chunk_id_original": "chunk_19_3027716975378316139",
+      "sentence_count": 4,
+      "sentence_indices": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "scores": {}
+    }
+  },
+  "related_query": {}
+}

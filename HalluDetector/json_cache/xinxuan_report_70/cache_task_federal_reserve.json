@@ -1,0 +1,3813 @@
+{
+  "report": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "# A Methodological Approach for Compiling and Analyzing Federal Reserve Chair Jerome H. Powell's Public Speeches and Associated Media Coverage for Q4 2024",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 2,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 3,
+      "paragraph_text": "### Key Points",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "*   The primary objective is to construct a comprehensive and verified dataset of all live, in-person speeches delivered by Federal Reserve Chair Jerome H. Powell during the fourth quarter of 2024 (Se...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 5,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "### Overview",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "The public statements of the Chair of the Federal Reserve are critical instruments of monetary policy and central bank communication. These speeches provide forward guidance, articulate the Federal Op...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "This document outlines a formal research plan to identify and collate all live, in-person speeches by Chair Jerome H. Powell for the final quarter of 2024. The plan details a structured methodology fo...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "### Detailed Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "#### Research Objectives and Scope",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "The scope of this research is strictly defined to encompass all publicly documented, in-person speeches delivered by Jerome H. Powell in his capacity as Chair of the Board of Governors of the Federal ...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 13,
+      "paragraph_text": "*   **Timeframe:** September 1, 2024, to December 31, 2024.\n*   **Deliverables for each event:**\n    1.  The canonical URL of the speech on the Federal Reserve website.\n    2.  A direct hyperlink to t...",
+      "atomic_claims": [
+        "The timeframe for the query starts on September 1, 2024.",
+        "The timeframe for the query ends on December 31, 2024.",
+        "Each event must include the canonical URL of the speech on the Federal Reserve website.",
+        "Each event must include a direct hyperlink to the official PDF transcript.",
+        "Each event must include a corresponding news article from Reuters covering the speech.",
+        "FOMC press conferences are excluded from the research.",
+        "Congressional testimony is excluded from the research.",
+        "Informal remarks not accompanied by an official transcript are excluded from the research."
+      ]
+    },
+    {
+      "paragraph_index": 14,
+      "paragraph_text": "#### Methodological Framework",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "A two-phase data collection protocol is proposed to ensure the accuracy and verifiability of the compiled information.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "**Phase 1: Primary Source Data Acquisition**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "This phase focuses on retrieving official documentation directly from the archival source.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "1.  **Systematic Search:** The initial step involves a systematic query of the Federal Reserve Board's website, specifically targeting the \"News & Events\" section and its \"Speeches\" subsection.\n2.  **...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "**Phase 2: Secondary Source Correlation**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "This phase links the official record to its media interpretation by a tier-one news source.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "1.  **Targeted Search Queries:** For each speech identified in Phase 1, a targeted search will be conducted on the Reuters website. Search queries will be constructed using key identifiers, such as: `...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 22,
+      "paragraph_text": "#### Proposed Data Structure",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "The final compiled data would be presented in a structured tabular format to facilitate analysis and comparison. This structure ensures clarity and accessibility of the correlated information.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "| Date of Speech | Event / Location | Federal Reserve Webpage | PDF Transcript Link | Reuters News Article Link |\n| :------------- | :--------------- | :---------------------- | :------------------ | ...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "#### Current Research Impediments",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "The execution of the research plan as described is currently untenable. Repeated attempts to access the Federal Reserve Board's website have resulted in a persistent technical failure. The system repo...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "This access issue constitutes a critical impediment, as it prevents the completion of Phase 1 of the methodology. Without the primary source data, secondary source correlation cannot be accurately per...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "### Survey Note",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "#### Literature Review & Theoretical Framework",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "This research is grounded in the economic literature on central bank communication as a policy tool. The theoretical framework of \"forward guidance\" posits that central bank statements about future po...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 32,
+      "paragraph_text": "#### Methodology & Data Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 33,
+      "paragraph_text": "The proposed dyadic data collection methodology integrates primary source archival research with secondary source media analysis. This approach allows for a subsequent comparative analysis between the...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 34,
+      "paragraph_text": "*   **Content Analysis:** Qualitative and quantitative examination of the thematic content of the speeches.\n*   **Sentiment Analysis:** Algorithmic assessment of the tone within the speech transcripts...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 35,
+      "paragraph_text": "#### Critical Discussion",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 36,
+      "paragraph_text": "A primary limitation, beyond the current technical access issues, is the potential for divergence between a speech as delivered and the official transcript, which may be revised for publication. Furth...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 37,
+      "paragraph_text": "#### Future Research Directions",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 38,
+      "paragraph_text": "Once the dataset is successfully compiled, it can serve as a basis for several avenues of future inquiry. A longitudinal study could compare the thematic content and market impact of Powell's Q4 2024 ...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    }
+  ],
+  "chunk_score": {
+    "0-chunk_0_-8875670804290301869": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Title: News & Events URL Source: https://www.federalreserve.gov/newsevents.htm Markdown Content: Federal Reserve Board News & Events",
+      "position": 0,
+      "chunk_id_original": "chunk_0_-8875670804290301869",
+      "sentence_count": 4,
+      "sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scores": {}
+    },
+    "0-chunk_1_7758521691474433049": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Board News & Events Skip to main content https://www.federalreserve.gov/newsevents.htm content Expand sub menu https://www.federalreserve.gov/aboutthefed.htm) About the Fed https://www.federalreserve.gov/aboutthefed.htm) Structure of the Federal Reserve System https://www.federalreserve.gov/aboutthefed/fedexplained/who-we-are.htm)",
+      "position": 67,
+      "chunk_id_original": "chunk_1_7758521691474433049",
+      "sentence_count": 4,
+      "sentence_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scores": {}
+    },
+    "0-chunk_2_-1791918295527324624": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Structure of the Federal Reserve System https://www.federalreserve.gov/aboutthefed/fedexplained/who-we-are.htm) The Fed Explained https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm) Board Members https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) Advisory Councils https://www.federalreserve.gov/aboutthefed/advisorydefault.htm)",
+      "position": 213,
+      "chunk_id_original": "chunk_2_-1791918295527324624",
+      "sentence_count": 4,
+      "sentence_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scores": {}
+    },
+    "0-chunk_3_-722824144378941912": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Advisory Councils https://www.federalreserve.gov/aboutthefed/advisorydefault.htm) Federal Reserve Banks https://www.federalreserve.gov/aboutthefed/federal-reserve-system.htm) Federal Reserve Bank and Branch Directors https://www.federalreserve.gov/aboutthefed/directors/about.htm) Federal Reserve Act https://www.federalreserve.gov/aboutthefed/fract.htm)",
+      "position": 336,
+      "chunk_id_original": "chunk_3_-722824144378941912",
+      "sentence_count": 4,
+      "sentence_indices": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "scores": {}
+    },
+    "0-chunk_4_5405464053066597384": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Act https://www.federalreserve.gov/aboutthefed/fract.htm) Currency https://www.federalreserve.gov/aboutthefed/currency.htm) Board Meetings https://www.federalreserve.gov/aboutthefed/boardmeetings/meetingdates.htm) Board Votes https://www.federalreserve.gov/aboutthefed/boardvotes.htm)",
+      "position": 469,
+      "chunk_id_original": "chunk_4_5405464053066597384",
+      "sentence_count": 4,
+      "sentence_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scores": {}
+    },
+    "0-chunk_5_-6205502222097108006": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Board Votes https://www.federalreserve.gov/aboutthefed/boardvotes.htm) Careers https://www.federalreserve.gov/careers.htm) Do Business with the Board https://www.federalreserve.gov/aboutthefed/procurement/tips.htm) Holidays Observed K.",
+      "position": 567,
+      "chunk_id_original": "chunk_5_-6205502222097108006",
+      "sentence_count": 4,
+      "sentence_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "scores": {}
+    },
+    "0-chunk_6_-8032659432713128715": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Holidays Observed K. 8 https://www.federalreserve.gov/aboutthefed/k8.htm) Ethics & Values https://www.federalreserve.gov/aboutthefed/ethics-values.htm) Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm)",
+      "position": 668,
+      "chunk_id_original": "chunk_6_-8032659432713128715",
+      "sentence_count": 4,
+      "sentence_indices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "scores": {}
+    },
+    "0-chunk_7_2650232692591758278": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm) Requesting Information FOIA https://www.federalreserve.gov/foia/about_foia.htm) FAQs https://www.federalreserve.gov/faqs.htm) Economic Education https://www.federalreserve.gov/aboutthefed/educational-tools/default.htm)",
+      "position": 742,
+      "chunk_id_original": "chunk_7_2650232692591758278",
+      "sentence_count": 4,
+      "sentence_indices": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "scores": {}
+    },
+    "0-chunk_8_-1011521631996228903": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Economic Education https://www.federalreserve.gov/aboutthefed/educational-tools/default.htm) Fed Financial Statements https://www.federalreserve.gov/aboutthefed/fed-financial-statements.htm) Financial Innovation https://www.federalreserve.gov/aboutthefed/financial-innovation.htm) Expand sub menu https://www.federalreserve.gov/newsevents.htm News & Events https://www.federalreserve.gov/newsevents.htm",
+      "position": 837,
+      "chunk_id_original": "chunk_8_-1011521631996228903",
+      "sentence_count": 4,
+      "sentence_indices": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "scores": {}
+    },
+    "0-chunk_9_-8214797126740549171": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Expand sub menu https://www.federalreserve.gov/newsevents.htm News & Events https://www.federalreserve.gov/newsevents.htm Press Releases https://www.federalreserve.gov/newsevents/pressreleases.htm) Speeches https://www.federalreserve.gov/newsevents/speeches.htm) Testimony https://www.federalreserve.gov/newsevents/testimony.htm)",
+      "position": 956,
+      "chunk_id_original": "chunk_9_-8214797126740549171",
+      "sentence_count": 4,
+      "sentence_indices": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "scores": {}
+    },
+    "0-chunk_10_-5288419874756986740": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Testimony https://www.federalreserve.gov/newsevents/testimony.htm) Calendar https://www.federalreserve.gov/newsevents/calendar.htm) Videos https://www.federalreserve.gov/videos.htm) Photo Gallery https://www.federalreserve.gov/photogallery.htm)",
+      "position": 1080,
+      "chunk_id_original": "chunk_10_-5288419874756986740",
+      "sentence_count": 4,
+      "sentence_indices": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "scores": {}
+    },
+    "0-chunk_11_-1211765475799556554": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Photo Gallery https://www.federalreserve.gov/photogallery.htm) Conferences https://www.federalreserve.gov/conferences.htm) Expand sub menu https://www.federalreserve.gov/monetarypolicy.htm) Monetary Policy https://www.federalreserve.gov/monetarypolicy.htm) Federal Open Market Committee",
+      "position": 1160,
+      "chunk_id_original": "chunk_11_-1211765475799556554",
+      "sentence_count": 4,
+      "sentence_indices": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "scores": {}
+    },
+    "0-chunk_12_-1581101120819605110": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Open Market Committee About the FOMC https://www.federalreserve.gov/monetarypolicy/fomc.htm) Meeting calendars and information https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) Transcripts and other historical materials https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)",
+      "position": 1289,
+      "chunk_id_original": "chunk_12_-1581101120819605110",
+      "sentence_count": 4,
+      "sentence_indices": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "scores": {}
+    },
+    "0-chunk_13_-2751871350099696836": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Transcripts and other historical materials https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm) FAQs https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm) Monetary Policy Principles and Practice Notes https://www.federalreserve.gov/monetarypolicy/monetary-policy-principles-and-practice.htm)",
+      "position": 1406,
+      "chunk_id_original": "chunk_13_-2751871350099696836",
+      "sentence_count": 4,
+      "sentence_indices": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "scores": {}
+    },
+    "0-chunk_14_5518060638265123074": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Notes https://www.federalreserve.gov/monetarypolicy/monetary-policy-principles-and-practice.htm) Policy Implementation Policy Normalization https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm) Policy Tools https://www.federalreserve.gov/monetarypolicy/policytools.htm)",
+      "position": 1532,
+      "chunk_id_original": "chunk_14_5518060638265123074",
+      "sentence_count": 4,
+      "sentence_indices": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "scores": {}
+    },
+    "0-chunk_15_-682814120916044701": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Policy Tools https://www.federalreserve.gov/monetarypolicy/policytools.htm) Reports Monetary Policy Report https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm) Beige Book https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)",
+      "position": 1619,
+      "chunk_id_original": "chunk_15_-682814120916044701",
+      "sentence_count": 4,
+      "sentence_indices": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "scores": {}
+    },
+    "0-chunk_16_4482230299962821379": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Beige Book https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm) Federal Reserve Balance Sheet Developments https://www.federalreserve.gov/monetarypolicy/publications/balance-sheet-developments-report.htm) Review of Monetary Policy Strategy, Tools, and Communications Overview https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-2025.htm)",
+      "position": 1701,
+      "chunk_id_original": "chunk_16_4482230299962821379",
+      "sentence_count": 4,
+      "sentence_indices": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "scores": {}
+    },
+    "0-chunk_17_-5780794162587916479": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Overview https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-2025.htm) Expand sub menu https://www.federalreserve.gov/supervisionreg.htm) Supervision & Regulation https://www.federalreserve.gov/supervisionreg.htm) Institution Supervision Novel Activities Supervision Program https://www.federalreserve.gov/supervisionreg/novel-activities-supervision-program.htm)",
+      "position": 1855,
+      "chunk_id_original": "chunk_17_-5780794162587916479",
+      "sentence_count": 4,
+      "sentence_indices": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "scores": {}
+    },
+    "0-chunk_18_-7631440255623544499": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Novel Activities Supervision Program https://www.federalreserve.gov/supervisionreg/novel-activities-supervision-program.htm) Community & Regional Financial Institutions https://www.federalreserve.gov/supervisionreg/community-and-regional-financial-institutions.htm) Large Financial Institutions https://www.federalreserve.gov/supervisionreg/large-financial-institutions.htm) Foreign Banking Organizations https://www.federalreserve.gov/supervisionreg/foreign-banking-organizations.htm)",
+      "position": 1984,
+      "chunk_id_original": "chunk_18_-7631440255623544499",
+      "sentence_count": 4,
+      "sentence_indices": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "scores": {}
+    },
+    "0-chunk_19_-484745697294889801": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Foreign Banking Organizations https://www.federalreserve.gov/supervisionreg/foreign-banking-organizations.htm) Financial Market Utilities https://www.federalreserve.gov/supervisionreg/financial-market-utility-supervision.htm) Consumer Compliance https://www.federalreserve.gov/supervisionreg/consumer-compliance.htm) State Member Banks Supervised by the Federal Reserve https://www.federalreserve.gov/supervisionreg/state-member-banks-supervised-federal-reserve.htm)",
+      "position": 2148,
+      "chunk_id_original": "chunk_19_-484745697294889801",
+      "sentence_count": 4,
+      "sentence_indices": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "scores": {}
+    },
+    "0-chunk_20_2043178135182866149": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "State Member Banks Supervised by the Federal Reserve https://www.federalreserve.gov/supervisionreg/state-member-banks-supervised-federal-reserve.htm) Reports Federal Reserve Supervision and Regulation Report https://www.federalreserve.gov/publications/supervision-and-regulation-report.htm) Reporting Forms",
+      "position": 2279,
+      "chunk_id_original": "chunk_20_2043178135182866149",
+      "sentence_count": 4,
+      "sentence_indices": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "scores": {}
+    },
+    "0-chunk_21_-8750800617111704553": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Reporting Forms All Reporting Forms https://www.federalreserve.gov/apps/reportingforms) Recent Updates https://www.federalreserve.gov/apps/reportingforms/recentupdates) Information collections under review https://www.federalreserve.gov/apps/reportingforms/home/review)",
+      "position": 2428,
+      "chunk_id_original": "chunk_21_-8750800617111704553",
+      "sentence_count": 4,
+      "sentence_indices": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "scores": {}
+    },
+    "0-chunk_22_-3041851332232296250": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Information collections under review https://www.federalreserve.gov/apps/reportingforms/home/review) Financial Statements https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %221%22 Applications/structure change https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %222%22 Federal Financial Institutions Examination Council FFIEC https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %223%22",
+      "position": 2517,
+      "chunk_id_original": "chunk_22_-3041851332232296250",
+      "sentence_count": 4,
+      "sentence_indices": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "scores": {}
+    },
+    "0-chunk_23_1423604335355711524": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Financial Institutions Examination Council FFIEC https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %223%22 Municipal & Government Securities https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %228%22 Supervision & Regulation Letters By Year https://www.federalreserve.gov/supervisionreg/srletters/srletters.htm)",
+      "position": 2677,
+      "chunk_id_original": "chunk_23_1423604335355711524",
+      "sentence_count": 4,
+      "sentence_indices": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "scores": {}
+    },
+    "0-chunk_24_6728693784006983489": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "By Year https://www.federalreserve.gov/supervisionreg/srletters/srletters.htm) By Topic https://www.federalreserve.gov/supervisionreg/topics/topics.htm) Banking Applications & Legal Developments Application Process https://www.federalreserve.gov/supervisionreg/application-process.htm)",
+      "position": 2857,
+      "chunk_id_original": "chunk_24_6728693784006983489",
+      "sentence_count": 4,
+      "sentence_indices": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "scores": {}
+    },
+    "0-chunk_25_-2353432920893980035": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Application Process https://www.federalreserve.gov/supervisionreg/application-process.htm) Board & Reserve Bank Action https://www.federalreserve.gov/supervisionreg/board-and-reserve-bank-actions.htm) Enforcement Actions & Legal Developments https://www.federalreserve.gov/supervisionreg/legal-developments.htm) Regulatory Resources",
+      "position": 2954,
+      "chunk_id_original": "chunk_25_-2353432920893980035",
+      "sentence_count": 4,
+      "sentence_indices": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "scores": {}
+    },
+    "0-chunk_26_-8227412067607701079": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Regulatory Resources Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm) Manuals https://www.federalreserve.gov/publications/supmanual.htm) Basel Regulatory Framework https://www.federalreserve.gov/supervisionreg/basel/basel-default.htm)",
+      "position": 3097,
+      "chunk_id_original": "chunk_26_-8227412067607701079",
+      "sentence_count": 4,
+      "sentence_indices": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "scores": {}
+    },
+    "0-chunk_27_-2399217851750234341": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Basel Regulatory Framework https://www.federalreserve.gov/supervisionreg/basel/basel-default.htm) Volcker Rule https://www.federalreserve.gov/supervisionreg/volcker-rule.htm) Education, Training, and Assistance https://www.federalreserve.gov/supervisionreg/training-and-assistance-landing.htm) Banking & Data Structure",
+      "position": 3176,
+      "chunk_id_original": "chunk_27_-2399217851750234341",
+      "sentence_count": 4,
+      "sentence_indices": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "scores": {}
+    },
+    "0-chunk_28_-8382971021919944116": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Banking & Data Structure Beneficial Ownership reports https://www.federalreserve.gov/apps/reportforms/insider.aspx) Large Commercial Banks https://www.federalreserve.gov/releases/lbr/) U.",
+      "position": 3306,
+      "chunk_id_original": "chunk_28_-8382971021919944116",
+      "sentence_count": 4,
+      "sentence_indices": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "scores": {}
+    },
+    "0-chunk_29_9198741974728603344": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "U. S. Offices of Foreign Entities https://www.federalreserve.gov/releases/iba/) Financial Holding Companies https://www.federalreserve.gov/supervisionreg/fhc.htm)",
+      "position": 3421,
+      "chunk_id_original": "chunk_29_9198741974728603344",
+      "sentence_count": 4,
+      "sentence_indices": [
+        87,
+        88,
+        89,
+        90
+      ],
+      "scores": {}
+    },
+    "0-chunk_30_-5843653007351298614": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Holding Companies https://www.federalreserve.gov/supervisionreg/fhc.htm) Interstate Branching https://www.federalreserve.gov/supervisionreg/isb-default.htm) Securities Underwriting & Dealing Subsidiaries https://www.federalreserve.gov/supervisionreg/suds.htm) Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm)",
+      "position": 3472,
+      "chunk_id_original": "chunk_30_-5843653007351298614",
+      "sentence_count": 4,
+      "sentence_indices": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "scores": {}
+    },
+    "0-chunk_31_-6453628074276083881": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm) Expand sub menu https://www.federalreserve.gov/financial-stability.htm) Financial Stability https://www.federalreserve.gov/financial-stability.htm) Financial Stability Assessments About Financial Stability https://www.federalreserve.gov/financial-stability/what-is-financial-stability.htm)",
+      "position": 3622,
+      "chunk_id_original": "chunk_31_-6453628074276083881",
+      "sentence_count": 4,
+      "sentence_indices": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "scores": {}
+    },
+    "0-chunk_32_-4455034967632017701": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "About Financial Stability https://www.federalreserve.gov/financial-stability/what-is-financial-stability.htm) Types of Financial System Vulnerabilities & Risks https://www.federalreserve.gov/financial-stability/types-of-financial-system-vulnerabilities-and-risks.htm) Monitoring Risk Across the Financial System https://www.federalreserve.gov/financial-stability/monitoring-risk-across-the-financial-system.htm) Proactive Monitoring of Markets & Institutions https://www.federalreserve.gov/financial-stability/proactive-monitoring-of-markets-and-institutions.htm)",
+      "position": 3778,
+      "chunk_id_original": "chunk_32_-4455034967632017701",
+      "sentence_count": 4,
+      "sentence_indices": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "scores": {}
+    },
+    "0-chunk_33_1491121906232314966": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Proactive Monitoring of Markets & Institutions https://www.federalreserve.gov/financial-stability/proactive-monitoring-of-markets-and-institutions.htm) Financial Stability & Stress Testing https://www.federalreserve.gov/financial-stability/financial-stability-and-stress-testing.htm) Financial Stability Coordination & Actions Responding to Financial System Emergencies https://www.federalreserve.gov/financial-stability/responding-to-financial-system-emergencies.htm)",
+      "position": 3952,
+      "chunk_id_original": "chunk_33_1491121906232314966",
+      "sentence_count": 4,
+      "sentence_indices": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "scores": {}
+    },
+    "0-chunk_34_-6752147805277193771": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Responding to Financial System Emergencies https://www.federalreserve.gov/financial-stability/responding-to-financial-system-emergencies.htm) Cooperation on Financial Stability https://www.federalreserve.gov/financial-stability/cooperation-on-financial-stability.htm) Reports Financial Stability Report https://www.federalreserve.gov/publications/financial-stability-report.htm)",
+      "position": 4117,
+      "chunk_id_original": "chunk_34_-6752147805277193771",
+      "sentence_count": 4,
+      "sentence_indices": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "scores": {}
+    },
+    "0-chunk_35_8695143504610677180": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Stability Report https://www.federalreserve.gov/publications/financial-stability-report.htm) Expand sub menu https://www.federalreserve.gov/paymentsystems.htm) Payment Systems https://www.federalreserve.gov/paymentsystems.htm) Regulations & Statutes Regulation CC Availability of Funds and Collection of Checks https://www.federalreserve.gov/paymentsystems/regcc-about.htm)",
+      "position": 4241,
+      "chunk_id_original": "chunk_35_8695143504610677180",
+      "sentence_count": 4,
+      "sentence_indices": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "scores": {}
+    },
+    "0-chunk_36_947388283262462733": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Regulation CC Availability of Funds and Collection of Checks https://www.federalreserve.gov/paymentsystems/regcc-about.htm) Regulation II Debit Card Interchange Fees and Routing https://www.federalreserve.gov/paymentsystems/regii-about.htm) Regulation HH Financial Market Utilities https://www.federalreserve.gov/paymentsystems/reghh-about.htm) Other Regulations and Statutes https://www.federalreserve.gov/paymentsystems/other-regulations.htm)",
+      "position": 4378,
+      "chunk_id_original": "chunk_36_947388283262462733",
+      "sentence_count": 4,
+      "sentence_indices": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "scores": {}
+    },
+    "0-chunk_37_2942542049380033268": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Other Regulations and Statutes https://www.federalreserve.gov/paymentsystems/other-regulations.htm) Payment Policies Federal Reserve's Key Policies for the Provision of Financial Services https://www.federalreserve.gov/paymentsystems/pfs_about.htm) Guidelines for Evaluating Joint Account Requests https://www.federalreserve.gov/paymentsystems/joint_requests.htm)",
+      "position": 4588,
+      "chunk_id_original": "chunk_37_2942542049380033268",
+      "sentence_count": 4,
+      "sentence_indices": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "scores": {}
+    },
+    "0-chunk_38_-3583113423785887064": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Guidelines for Evaluating Joint Account Requests https://www.federalreserve.gov/paymentsystems/joint_requests.htm) Overnight Overdrafts https://www.federalreserve.gov/paymentsystems/oo_about.htm) Payment System Risk https://www.federalreserve.gov/paymentsystems/psr_about.htm) Sponsorship for Priority Telecommunication Services https://www.federalreserve.gov/paymentsystems/telecomm.htm)",
+      "position": 4745,
+      "chunk_id_original": "chunk_38_-3583113423785887064",
+      "sentence_count": 4,
+      "sentence_indices": [
+        114,
+        115,
+        116,
+        117
+      ],
+      "scores": {}
+    },
+    "0-chunk_39_7403381389920307554": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Sponsorship for Priority Telecommunication Services https://www.federalreserve.gov/paymentsystems/telecomm.htm) Reserve Bank Payment Services & Data Automated Clearinghouse Services https://www.federalreserve.gov/paymentsystems/fedach_about.htm) Check Services https://www.federalreserve.gov/paymentsystems/check_about.htm)",
+      "position": 4889,
+      "chunk_id_original": "chunk_39_7403381389920307554",
+      "sentence_count": 4,
+      "sentence_indices": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "scores": {}
+    },
+    "0-chunk_40_4377330716763448106": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Check Services https://www.federalreserve.gov/paymentsystems/check_about.htm) Currency and Coin Services https://www.federalreserve.gov/paymentsystems/coin_about.htm) Daylight Overdrafts and Fees https://www.federalreserve.gov/paymentsystems/psr_data.htm) FedNow® Service https://www.federalreserve.gov/paymentsystems/fednow_about.htm)",
+      "position": 5051,
+      "chunk_id_original": "chunk_40_4377330716763448106",
+      "sentence_count": 4,
+      "sentence_indices": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "scores": {}
+    },
+    "0-chunk_41_7760288328895722078": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "FedNow® Service https://www.federalreserve.gov/paymentsystems/fednow_about.htm) Fedwire Funds Services https://www.federalreserve.gov/paymentsystems/fedfunds_about.htm) Fedwire Securities Services https://www.federalreserve.gov/paymentsystems/fedsecs_about.htm) Fiscal Agency Services https://www.federalreserve.gov/paymentsystems/fisagy_about.htm)",
+      "position": 5179,
+      "chunk_id_original": "chunk_41_7760288328895722078",
+      "sentence_count": 4,
+      "sentence_indices": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "scores": {}
+    },
+    "0-chunk_42_1398470156159171737": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Fiscal Agency Services https://www.federalreserve.gov/paymentsystems/fisagy_about.htm) Master Account and Services Database https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm) National Settlement Service https://www.federalreserve.gov/paymentsystems/natl_about.htm) Financial Market Utilities & Infrastructures",
+      "position": 5303,
+      "chunk_id_original": "chunk_42_1398470156159171737",
+      "sentence_count": 4,
+      "sentence_indices": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "scores": {}
+    },
+    "0-chunk_43_529175663847973529": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Market Utilities & Infrastructures Supervision & Oversight of Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/over_about.htm) Designated Financial Market Utilities https://www.federalreserve.gov/paymentsystems/designated_fmu_about.htm) International Standards for Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/int_standards.htm)",
+      "position": 5448,
+      "chunk_id_original": "chunk_43_529175663847973529",
+      "sentence_count": 4,
+      "sentence_indices": [
+        129,
+        130,
+        131,
+        132
+      ],
+      "scores": {}
+    },
+    "0-chunk_44_5569682322813777239": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "International Standards for Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/int_standards.htm) Research, Reports, & Committees Federal Reserve Payments Study FRPS https://www.federalreserve.gov/paymentsystems/fr-payments-study.htm) Payments Research https://www.federalreserve.gov/paymentsystems/payres_about.htm)",
+      "position": 5631,
+      "chunk_id_original": "chunk_44_5569682322813777239",
+      "sentence_count": 4,
+      "sentence_indices": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "scores": {}
+    },
+    "0-chunk_45_-4309096126147817633": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Payments Research https://www.federalreserve.gov/paymentsystems/payres_about.htm) Reports https://www.federalreserve.gov/paymentsystems/reports.htm) Payments System Policy Advisory Committee https://www.federalreserve.gov/paymentsystems/pspa_committee.htm) Expand sub menu https://www.federalreserve.gov/econres.htm) Economic Research https://www.federalreserve.gov/econres.htm)",
+      "position": 5800,
+      "chunk_id_original": "chunk_45_-4309096126147817633",
+      "sentence_count": 4,
+      "sentence_indices": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "scores": {}
+    },
+    "0-chunk_46_8994309475426197268": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Expand sub menu https://www.federalreserve.gov/econres.htm) Economic Research https://www.federalreserve.gov/econres.htm) Meet the Researchers https://www.federalreserve.gov/econres/researchers.htm) Working Papers and Notes Finance and Economics Discussion Series FEDS https://www.federalreserve.gov/econres/feds/index.htm)",
+      "position": 5925,
+      "chunk_id_original": "chunk_46_8994309475426197268",
+      "sentence_count": 4,
+      "sentence_indices": [
+        138,
+        139,
+        140,
+        141
+      ],
+      "scores": {}
+    },
+    "0-chunk_47_-4330565059206145520": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Finance and Economics Discussion Series FEDS https://www.federalreserve.gov/econres/feds/index.htm) FEDS Notes https://www.federalreserve.gov/econres/notes/feds-notes/default.htm) International Finance Discussion Papers IFDP https://www.federalreserve.gov/econres/ifdp/index.htm) Data, Models and Tools",
+      "position": 6063,
+      "chunk_id_original": "chunk_47_-4330565059206145520",
+      "sentence_count": 4,
+      "sentence_indices": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "scores": {}
+    },
+    "0-chunk_48_-8473773974685986670": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Data, Models and Tools Economic Research Data https://www.federalreserve.gov/econres/economic-research-data.htm) FRB/US Model https://www.federalreserve.gov/econres/us-models-about.htm) Estimated Dynamic Optimization EDO Model https://www.federalreserve.gov/econres/edo-models-about.htm)",
+      "position": 6221,
+      "chunk_id_original": "chunk_48_-8473773974685986670",
+      "sentence_count": 4,
+      "sentence_indices": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "scores": {}
+    },
+    "0-chunk_49_-2529848251210021875": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Estimated Dynamic Optimization EDO Model https://www.federalreserve.gov/econres/edo-models-about.htm) Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm) Expand sub menu https://www.federalreserve.gov/data.htm) Data https://www.federalreserve.gov/data.htm) Data Download Program https://www.federalreserve.gov/datadownload)",
+      "position": 6320,
+      "chunk_id_original": "chunk_49_-2529848251210021875",
+      "sentence_count": 4,
+      "sentence_indices": [
+        147,
+        148,
+        149,
+        150
+      ],
+      "scores": {}
+    },
+    "0-chunk_50_8876052754255317083": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Data Download Program https://www.federalreserve.gov/datadownload) Bank Assets and Liabilities Aggregate Reserves of Depository Institutions and the Monetary Base H. 3 https://www.federalreserve.gov/releases/h3/current/default.htm)",
+      "position": 6489,
+      "chunk_id_original": "chunk_50_8876052754255317083",
+      "sentence_count": 4,
+      "sentence_indices": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "scores": {}
+    },
+    "0-chunk_51_6114808756607253163": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "3 https://www.federalreserve.gov/releases/h3/current/default.htm) Assets and Liabilities of Commercial Banks in the U. S. H.",
+      "position": 6631,
+      "chunk_id_original": "chunk_51_6114808756607253163",
+      "sentence_count": 4,
+      "sentence_indices": [
+        153,
+        154,
+        155,
+        156
+      ],
+      "scores": {}
+    },
+    "0-chunk_52_-3564999100841487340": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "H. 8 https://www.federalreserve.gov/releases/h8/current/default.htm) Assets and Liabilities of U. S.",
+      "position": 6706,
+      "chunk_id_original": "chunk_52_-3564999100841487340",
+      "sentence_count": 4,
+      "sentence_indices": [
+        156,
+        157,
+        158,
+        159
+      ],
+      "scores": {}
+    },
+    "0-chunk_53_2556927728939970415": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "S. Branches and Agencies of Foreign Banks https://www.federalreserve.gov/data/assetliab/current.htm) Charge Off and Delinquency Rates on Loans and Leases at Commercial Banks https://www.federalreserve.gov/releases/chargeoff/) Senior Financial Officer Survey https://www.federalreserve.gov/data/sfos/sfos.htm)",
+      "position": 6758,
+      "chunk_id_original": "chunk_53_2556927728939970415",
+      "sentence_count": 4,
+      "sentence_indices": [
+        159,
+        160,
+        161,
+        162
+      ],
+      "scores": {}
+    },
+    "0-chunk_54_7469596213846632449": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Senior Financial Officer Survey https://www.federalreserve.gov/data/sfos/sfos.htm) Senior Loan Officer Opinion Survey on Bank Lending Practices https://www.federalreserve.gov/data/sloos.htm) Bank Structure Data Large Commercial Banks https://www.federalreserve.gov/releases/lbr/)",
+      "position": 6910,
+      "chunk_id_original": "chunk_54_7469596213846632449",
+      "sentence_count": 4,
+      "sentence_indices": [
+        162,
+        163,
+        164,
+        165
+      ],
+      "scores": {}
+    },
+    "0-chunk_55_-6464530432229418767": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Large Commercial Banks https://www.federalreserve.gov/releases/lbr/) Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm) Structure and Share Data for the U. S.",
+      "position": 7063,
+      "chunk_id_original": "chunk_55_-6464530432229418767",
+      "sentence_count": 4,
+      "sentence_indices": [
+        165,
+        166,
+        167,
+        168
+      ],
+      "scores": {}
+    },
+    "0-chunk_56_-3933561653549550153": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "S. Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm) Business Finance Commercial Paper https://www.federalreserve.gov/releases/cp/)",
+      "position": 7191,
+      "chunk_id_original": "chunk_56_-3933561653549550153",
+      "sentence_count": 4,
+      "sentence_indices": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "scores": {}
+    },
+    "0-chunk_57_-802353982402398730": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Commercial Paper https://www.federalreserve.gov/releases/cp/) Finance Companies G. 20 https://www.federalreserve.gov/releases/g20/current/default.htm) New Security Issues, State and Local Governments https://www.federalreserve.gov/data/govsecure/current.htm)",
+      "position": 7256,
+      "chunk_id_original": "chunk_57_-802353982402398730",
+      "sentence_count": 4,
+      "sentence_indices": [
+        171,
+        172,
+        173,
+        174
+      ],
+      "scores": {}
+    },
+    "0-chunk_58_-2325020593316685715": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "New Security Issues, State and Local Governments https://www.federalreserve.gov/data/govsecure/current.htm) New Security Issues, U. S. Corporations https://www.federalreserve.gov/data/corpsecure/current.htm)",
+      "position": 7334,
+      "chunk_id_original": "chunk_58_-2325020593316685715",
+      "sentence_count": 4,
+      "sentence_indices": [
+        174,
+        175,
+        176,
+        177
+      ],
+      "scores": {}
+    },
+    "0-chunk_59_-3716510746150669433": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Corporations https://www.federalreserve.gov/data/corpsecure/current.htm) Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms https://www.federalreserve.gov/data/scoos.htm) Exchange Rates and International Data",
+      "position": 7428,
+      "chunk_id_original": "chunk_59_-3716510746150669433",
+      "sentence_count": 4,
+      "sentence_indices": [
+        177,
+        178,
+        179,
+        180
+      ],
+      "scores": {}
+    },
+    "0-chunk_60_2962130845594575005": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Exchange Rates and International Data Foreign Exchange Rates H. 10/G. 5 https://www.federalreserve.gov/releases/h10/current/)",
+      "position": 7567,
+      "chunk_id_original": "chunk_60_2962130845594575005",
+      "sentence_count": 4,
+      "sentence_indices": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "scores": {}
+    },
+    "0-chunk_61_1543994382411530587": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "5 https://www.federalreserve.gov/releases/h10/current/) International Summary Statistics https://www.federalreserve.gov/data/intlsumm/current.htm) Securities Holdings and Transactions https://www.federalreserve.gov/data/secholdtrans/current.htm) Statistics Reported by Banks and Other Financial Firms in the United States https://www.federalreserve.gov/data/statbanksus/current.htm)",
+      "position": 7638,
+      "chunk_id_original": "chunk_61_1543994382411530587",
+      "sentence_count": 4,
+      "sentence_indices": [
+        183,
+        184,
+        185,
+        186
+      ],
+      "scores": {}
+    },
+    "0-chunk_62_6599420160499761574": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Statistics Reported by Banks and Other Financial Firms in the United States https://www.federalreserve.gov/data/statbanksus/current.htm) Structure and Share Data for U. S. Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm)",
+      "position": 7766,
+      "chunk_id_original": "chunk_62_6599420160499761574",
+      "sentence_count": 4,
+      "sentence_indices": [
+        186,
+        187,
+        188,
+        189
+      ],
+      "scores": {}
+    },
+    "0-chunk_63_6153467923896826316": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm) Financial Accounts Financial Accounts of the United States Z. 1 https://www.federalreserve.gov/releases/z1/default.htm)",
+      "position": 7895,
+      "chunk_id_original": "chunk_63_6153467923896826316",
+      "sentence_count": 4,
+      "sentence_indices": [
+        189,
+        190,
+        191,
+        192
+      ],
+      "scores": {}
+    },
+    "0-chunk_64_3052966805664608464": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "1 https://www.federalreserve.gov/releases/z1/default.htm) Household Finance Consumer Credit G. 19 https://www.federalreserve.gov/releases/g19/current/default.htm)",
+      "position": 8003,
+      "chunk_id_original": "chunk_64_3052966805664608464",
+      "sentence_count": 4,
+      "sentence_indices": [
+        192,
+        193,
+        194,
+        195
+      ],
+      "scores": {}
+    },
+    "0-chunk_65_5433600866220415185": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "19 https://www.federalreserve.gov/releases/g19/current/default.htm) Household Debt Service Ratios https://www.federalreserve.gov/releases/DSR) Mortgage Debt Outstanding https://www.federalreserve.gov/data/mortoutstand/current.htm) Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm)",
+      "position": 8062,
+      "chunk_id_original": "chunk_65_5433600866220415185",
+      "sentence_count": 4,
+      "sentence_indices": [
+        195,
+        196,
+        197,
+        198
+      ],
+      "scores": {}
+    },
+    "0-chunk_66_-1174322461095120804": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm) Survey of Household Economics and Decisionmaking https://www.federalreserve.gov/consumerscommunities/shed.htm) Industrial Activity Industrial Production and Capacity Utilization G.",
+      "position": 8177,
+      "chunk_id_original": "chunk_66_-1174322461095120804",
+      "sentence_count": 4,
+      "sentence_indices": [
+        198,
+        199,
+        200,
+        201
+      ],
+      "scores": {}
+    },
+    "0-chunk_67_-6123396861345291774": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Industrial Production and Capacity Utilization G. 17 https://www.federalreserve.gov/releases/g17/current/default.htm) Interest Rates Selected Interest Rates H.",
+      "position": 8318,
+      "chunk_id_original": "chunk_67_-6123396861345291774",
+      "sentence_count": 4,
+      "sentence_indices": [
+        201,
+        202,
+        203,
+        204
+      ],
+      "scores": {}
+    },
+    "0-chunk_68_-8525233258343585857": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Selected Interest Rates H. 15 https://www.federalreserve.gov/releases/h15/) Micro Data Reference Manual MDRM Micro and Macro Data Collections https://www.federalreserve.gov/data/mdrm.htm)",
+      "position": 8406,
+      "chunk_id_original": "chunk_68_-8525233258343585857",
+      "sentence_count": 4,
+      "sentence_indices": [
+        204,
+        205,
+        206,
+        207
+      ],
+      "scores": {}
+    },
+    "0-chunk_69_8227700806062444568": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Micro and Macro Data Collections https://www.federalreserve.gov/data/mdrm.htm) Money Stock and Reserve Balances Factors Affecting Reserve Balances H. 4.",
+      "position": 8489,
+      "chunk_id_original": "chunk_69_8227700806062444568",
+      "sentence_count": 4,
+      "sentence_indices": [
+        207,
+        208,
+        209,
+        210
+      ],
+      "scores": {}
+    },
+    "0-chunk_70_-7130475211763771898": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4. 1 https://www.federalreserve.gov/releases/h41/) Money Stock Measures H. 6 https://www.federalreserve.gov/releases/h6/current/default.htm)",
+      "position": 8614,
+      "chunk_id_original": "chunk_70_-7130475211763771898",
+      "sentence_count": 4,
+      "sentence_indices": [
+        210,
+        211,
+        212,
+        213
+      ],
+      "scores": {}
+    },
+    "0-chunk_71_-1364481300847231831": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "6 https://www.federalreserve.gov/releases/h6/current/default.htm) Other Yield Curve Models and Data https://www.federalreserve.gov/data/yield-curve-models.htm) Expand sub menu https://www.federalreserve.gov/consumerscommunities.htm) Consumers & Communities https://www.federalreserve.gov/consumerscommunities.htm)",
+      "position": 8660,
+      "chunk_id_original": "chunk_71_-1364481300847231831",
+      "sentence_count": 4,
+      "sentence_indices": [
+        213,
+        214,
+        215,
+        216
+      ],
+      "scores": {}
+    },
+    "0-chunk_72_1133109479601128424": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Expand sub menu https://www.federalreserve.gov/consumerscommunities.htm) Consumers & Communities https://www.federalreserve.gov/consumerscommunities.htm) Regulations Community Reinvestment Act CRA https://www.federalreserve.gov/consumerscommunities/cra_about.htm) All Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm)",
+      "position": 8735,
+      "chunk_id_original": "chunk_72_1133109479601128424",
+      "sentence_count": 4,
+      "sentence_indices": [
+        216,
+        217,
+        218,
+        219
+      ],
+      "scores": {}
+    },
+    "0-chunk_73_-3934994682770995022": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "All Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm) Supervision& Enforcement CA Letters https://www.federalreserve.gov/supervisionreg/caletters/caletters.htm) Enforcement Actions https://www.federalreserve.gov/apps/enforcementactions/default.aspx)",
+      "position": 8876,
+      "chunk_id_original": "chunk_73_-3934994682770995022",
+      "sentence_count": 4,
+      "sentence_indices": [
+        219,
+        220,
+        221,
+        222
+      ],
+      "scores": {}
+    },
+    "0-chunk_74_1185489390595248765": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Enforcement Actions https://www.federalreserve.gov/apps/enforcementactions/default.aspx) Independent Foreclosure Review https://www.federalreserve.gov/consumerscommunities/independent-foreclosure-review.htm) Community Development Housing and Neighborhood Revitalization https://www.federalreserve.gov/consumerscommunities/neighborhood-revitalization.htm)",
+      "position": 8967,
+      "chunk_id_original": "chunk_74_1185489390595248765",
+      "sentence_count": 4,
+      "sentence_indices": [
+        222,
+        223,
+        224,
+        225
+      ],
+      "scores": {}
+    },
+    "0-chunk_75_3226921665444891061": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Housing and Neighborhood Revitalization https://www.federalreserve.gov/consumerscommunities/neighborhood-revitalization.htm) Small Business and Entrepreneurship https://www.federalreserve.gov/consumerscommunities/small-business-and-entrepreneurship.htm) Employment and Workforce Development https://www.federalreserve.gov/consumerscommunities/workforce.htm) Community Development Finance https://www.federalreserve.gov/consumerscommunities/cdf.htm)",
+      "position": 9080,
+      "chunk_id_original": "chunk_75_3226921665444891061",
+      "sentence_count": 4,
+      "sentence_indices": [
+        225,
+        226,
+        227,
+        228
+      ],
+      "scores": {}
+    },
+    "0-chunk_76_5731137282953906192": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Community Development Finance https://www.federalreserve.gov/consumerscommunities/cdf.htm) Rural Community and Economic Development https://www.federalreserve.gov/consumerscommunities/rural-community-economic-development.htm) Conferences https://www.federalreserve.gov/conferences.htm) Research& Analysis",
+      "position": 9250,
+      "chunk_id_original": "chunk_76_5731137282953906192",
+      "sentence_count": 4,
+      "sentence_indices": [
+        228,
+        229,
+        230,
+        231
+      ],
+      "scores": {}
+    },
+    "0-chunk_77_388448811618981146": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Research& Analysis Survey of Household Economics and Decisionmaking https://www.federalreserve.gov/consumerscommunities/shed.htm) Research Publications & Data Analysis https://www.federalreserve.gov/consumerscommunities/community-development-publications.htm) Community Advisory Council https://www.federalreserve.gov/aboutthefed/cac.htm)",
+      "position": 9389,
+      "chunk_id_original": "chunk_77_388448811618981146",
+      "sentence_count": 4,
+      "sentence_indices": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "scores": {}
+    },
+    "0-chunk_78_-4813760550279634467": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Community Advisory Council https://www.federalreserve.gov/aboutthefed/cac.htm) Resources for Consumers Frauds and Scams https://www.federalreserve.gov/consumerscommunities/fraud-scams.htm) Mortgage and Foreclosure Resources https://www.federalreserve.gov/consumerscommunities/foreclosure.htm)",
+      "position": 9535,
+      "chunk_id_original": "chunk_78_-4813760550279634467",
+      "sentence_count": 4,
+      "sentence_indices": [
+        234,
+        235,
+        236,
+        237
+      ],
+      "scores": {}
+    },
+    "0-chunk_79_2123001291831872426": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Mortgage and Foreclosure Resources https://www.federalreserve.gov/consumerscommunities/foreclosure.htm) Federal Reserve Community Development Resources https://www.federalreserve.gov/consumerscommunities/comm-dev-system-map.htm)\n! Image 2: US Flag https://www.federalreserve.gov/images/icon-us-flag.svg) An official website of the United States Government",
+      "position": 9643,
+      "chunk_id_original": "chunk_79_2123001291831872426",
+      "sentence_count": 4,
+      "sentence_indices": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "scores": {}
+    },
+    "0-chunk_80_7498250844313473708": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "An official website of the United States Government Here's how you know! Image 3: Expand More https://www.federalreserve.gov/images/expand_more.svg)\n! Image 4: .",
+      "position": 9801,
+      "chunk_id_original": "chunk_80_7498250844313473708",
+      "sentence_count": 4,
+      "sentence_indices": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "scores": {}
+    },
+    "0-chunk_81_4199720572671630062": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Image 4: . gov icon https://designsystem.digital.gov/assets/img/icon-dot-gov.svg) Official websites use . gov",
+      "position": 9914,
+      "chunk_id_original": "chunk_81_4199720572671630062",
+      "sentence_count": 4,
+      "sentence_indices": [
+        243,
+        244,
+        245,
+        246
+      ],
+      "scores": {}
+    },
+    "0-chunk_82_-2068794262908041483": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "gov A . gov website belongs to an official government organization in the United States.\n! Image 5: HTTPS icon https://designsystem.digital.gov/assets/img/icon-https.svg)",
+      "position": 9976,
+      "chunk_id_original": "chunk_82_-2068794262908041483",
+      "sentence_count": 4,
+      "sentence_indices": [
+        246,
+        247,
+        248,
+        249
+      ],
+      "scores": {}
+    },
+    "0-chunk_83_6904033040203631511": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Image 5: HTTPS icon https://designsystem.digital.gov/assets/img/icon-https.svg) Secure . gov websites use HTTPS A lock or https://** means you've safely connected to the .",
+      "position": 10066,
+      "chunk_id_original": "chunk_83_6904033040203631511",
+      "sentence_count": 4,
+      "sentence_indices": [
+        249,
+        250,
+        251,
+        252
+      ],
+      "scores": {}
+    },
+    "0-chunk_84_4622682277516288361": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "A lock or https://** means you've safely connected to the . gov website. Share sensitive information only on official, secure websites. Back to Home https://www.federalreserve.gov/default.htm) Board of Governors of the Federal Reserve System https://www.federalreserve.gov/default.htm \"Link to Home Page\"",
+      "position": 10138,
+      "chunk_id_original": "chunk_84_4622682277516288361",
+      "sentence_count": 4,
+      "sentence_indices": [
+        252,
+        253,
+        254,
+        255
+      ],
+      "scores": {}
+    },
+    "0-chunk_85_7824664376044716885": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Back to Home https://www.federalreserve.gov/default.htm) Board of Governors of the Federal Reserve System https://www.federalreserve.gov/default.htm \"Link to Home Page\" Stay Connected Federal Reserve Facebook Page https://www.facebook.com/federalreserve) Federal Reserve Instagram Page https://www.instagram.com/federalreserveboard/)",
+      "position": 10280,
+      "chunk_id_original": "chunk_85_7824664376044716885",
+      "sentence_count": 4,
+      "sentence_indices": [
+        255,
+        256,
+        257,
+        258
+      ],
+      "scores": {}
+    },
+    "0-chunk_86_-5166629285043182516": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Instagram Page https://www.instagram.com/federalreserveboard/) Federal Reserve YouTube Page https://www.youtube.com/federalreserve) Federal Reserve Flickr Page https://www.flickr.com/photos/federalreserve/) Federal Reserve LinkedIn Page https://www.linkedin.com/company/federal-reserve-board)",
+      "position": 10465,
+      "chunk_id_original": "chunk_86_-5166629285043182516",
+      "sentence_count": 4,
+      "sentence_indices": [
+        258,
+        259,
+        260,
+        261
+      ],
+      "scores": {}
+    },
+    "0-chunk_87_-829386797076440381": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve LinkedIn Page https://www.linkedin.com/company/federal-reserve-board) Federal Reserve Threads Page https://www.threads.net/@federalreserveboard) Federal Reserve X Page https://x.com/federalreserve) Federal Reserve Bluesky Page https://bsky.app/profile/federalreserve.gov)",
+      "position": 10610,
+      "chunk_id_original": "chunk_87_-829386797076440381",
+      "sentence_count": 4,
+      "sentence_indices": [
+        261,
+        262,
+        263,
+        264
+      ],
+      "scores": {}
+    },
+    "0-chunk_88_-3734317831977188394": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Bluesky Page https://bsky.app/profile/federalreserve.gov) Subscribe to RSS https://www.federalreserve.gov/feeds/feeds.htm) Subscribe to Email https://www.federalreserve.gov/subscribe.htm) Recent Postings https://www.federalreserve.gov/recentpostings.htm)",
+      "position": 10749,
+      "chunk_id_original": "chunk_88_-3734317831977188394",
+      "sentence_count": 4,
+      "sentence_indices": [
+        264,
+        265,
+        266,
+        267
+      ],
+      "scores": {}
+    },
+    "0-chunk_89_8721578013274032340": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Recent Postings https://www.federalreserve.gov/recentpostings.htm) Calendar https://www.federalreserve.gov/newsevents/calendar.htm) Publications https://www.federalreserve.gov/publications.htm) Site Map https://www.federalreserve.gov/sitemap.htm)",
+      "position": 10871,
+      "chunk_id_original": "chunk_89_8721578013274032340",
+      "sentence_count": 4,
+      "sentence_indices": [
+        267,
+        268,
+        269,
+        270
+      ],
+      "scores": {}
+    },
+    "0-chunk_90_4179122732936737412": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Site Map https://www.federalreserve.gov/sitemap.htm) A Z index https://www.federalreserve.gov/azindex.htm) Careers https://www.federalreserve.gov/careers.htm) FAQs https://www.federalreserve.gov/faqs.htm)",
+      "position": 10965,
+      "chunk_id_original": "chunk_90_4179122732936737412",
+      "sentence_count": 4,
+      "sentence_indices": [
+        270,
+        271,
+        272,
+        273
+      ],
+      "scores": {}
+    },
+    "0-chunk_91_3950244347142712321": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "FAQs https://www.federalreserve.gov/faqs.htm) Videos https://www.federalreserve.gov/videos.htm) Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm) Search Submit Search Button",
+      "position": 11048,
+      "chunk_id_original": "chunk_91_3950244347142712321",
+      "sentence_count": 4,
+      "sentence_indices": [
+        273,
+        274,
+        275,
+        276
+      ],
+      "scores": {}
+    },
+    "0-chunk_92_2730535344988958963": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Search Submit Search Button Advanced https://www.fedsearch.org/board_public/) Toggle Dropdown Menu Recent Postings https://www.federalreserve.gov/recentpostings.htm)",
+      "position": 11122,
+      "chunk_id_original": "chunk_92_2730535344988958963",
+      "sentence_count": 4,
+      "sentence_indices": [
+        276,
+        277,
+        278,
+        279
+      ],
+      "scores": {}
+    },
+    "0-chunk_93_8721578013274032340": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Recent Postings https://www.federalreserve.gov/recentpostings.htm) Calendar https://www.federalreserve.gov/newsevents/calendar.htm) Publications https://www.federalreserve.gov/publications.htm) Site Map https://www.federalreserve.gov/sitemap.htm)",
+      "position": 11199,
+      "chunk_id_original": "chunk_93_8721578013274032340",
+      "sentence_count": 4,
+      "sentence_indices": [
+        279,
+        280,
+        281,
+        282
+      ],
+      "scores": {}
+    },
+    "0-chunk_94_4179122732936737412": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Site Map https://www.federalreserve.gov/sitemap.htm) A Z index https://www.federalreserve.gov/azindex.htm) Careers https://www.federalreserve.gov/careers.htm) FAQs https://www.federalreserve.gov/faqs.htm)",
+      "position": 11293,
+      "chunk_id_original": "chunk_94_4179122732936737412",
+      "sentence_count": 4,
+      "sentence_indices": [
+        282,
+        283,
+        284,
+        285
+      ],
+      "scores": {}
+    },
+    "0-chunk_95_3950244347142712321": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "FAQs https://www.federalreserve.gov/faqs.htm) Videos https://www.federalreserve.gov/videos.htm) Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm) Federal Reserve Facebook Page https://www.facebook.com/federalreserve)",
+      "position": 11376,
+      "chunk_id_original": "chunk_95_3950244347142712321",
+      "sentence_count": 4,
+      "sentence_indices": [
+        285,
+        286,
+        287,
+        288
+      ],
+      "scores": {}
+    },
+    "0-chunk_96_5313193219698553539": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Facebook Page https://www.facebook.com/federalreserve) Federal Reserve Instagram Page https://www.instagram.com/federalreserveboard/) Federal Reserve YouTube Page https://www.youtube.com/federalreserve) Federal Reserve Flickr Page https://www.flickr.com/photos/federalreserve/)",
+      "position": 11450,
+      "chunk_id_original": "chunk_96_5313193219698553539",
+      "sentence_count": 4,
+      "sentence_indices": [
+        288,
+        289,
+        290,
+        291
+      ],
+      "scores": {}
+    },
+    "0-chunk_97_6952751884407629553": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Flickr Page https://www.flickr.com/photos/federalreserve/) Federal Reserve LinkedIn Page https://www.linkedin.com/company/federal-reserve-board) Federal Reserve Threads Page https://www.threads.net/@federalreserveboard) Federal Reserve X Page https://x.com/federalreserve)",
+      "position": 11597,
+      "chunk_id_original": "chunk_97_6952751884407629553",
+      "sentence_count": 4,
+      "sentence_indices": [
+        291,
+        292,
+        293,
+        294
+      ],
+      "scores": {}
+    },
+    "0-chunk_98_371605133637602021": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve X Page https://x.com/federalreserve) Federal Reserve Bluesky Page https://bsky.app/profile/federalreserve.gov) Subscribe to RSS https://www.federalreserve.gov/feeds/feeds.htm) Subscribe to Email https://www.federalreserve.gov/subscribe.htm)",
+      "position": 11741,
+      "chunk_id_original": "chunk_98_371605133637602021",
+      "sentence_count": 4,
+      "sentence_indices": [
+        294,
+        295,
+        296,
+        297
+      ],
+      "scores": {}
+    },
+    "0-chunk_99_-8219369829495698134": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Subscribe to Email https://www.federalreserve.gov/subscribe.htm) Board of Governors of the Federal Reserve System The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system. https://www.federalreserve.gov/default.htm \"Link to Home Page\" Main Menu Toggle Button Sections Search Toggle Button",
+      "position": 11867,
+      "chunk_id_original": "chunk_99_-8219369829495698134",
+      "sentence_count": 4,
+      "sentence_indices": [
+        297,
+        298,
+        299,
+        300
+      ],
+      "scores": {}
+    },
+    "0-chunk_100_8289330492413825276": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Main Menu Toggle Button Sections Search Toggle Button Search Search Submit Button Submit About the Fed https://www.federalreserve.gov/aboutthefed.htm) Structure of the Federal Reserve System https://www.federalreserve.gov/aboutthefed/fedexplained/who-we-are.htm)",
+      "position": 12139,
+      "chunk_id_original": "chunk_100_8289330492413825276",
+      "sentence_count": 4,
+      "sentence_indices": [
+        300,
+        301,
+        302,
+        303
+      ],
+      "scores": {}
+    },
+    "0-chunk_101_-1791918295527324624": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Structure of the Federal Reserve System https://www.federalreserve.gov/aboutthefed/fedexplained/who-we-are.htm) The Fed Explained https://www.federalreserve.gov/aboutthefed/the-fed-explained.htm) Board Members https://www.federalreserve.gov/aboutthefed/bios/board/default.htm) Advisory Councils https://www.federalreserve.gov/aboutthefed/advisorydefault.htm)",
+      "position": 12259,
+      "chunk_id_original": "chunk_101_-1791918295527324624",
+      "sentence_count": 4,
+      "sentence_indices": [
+        303,
+        304,
+        305,
+        306
+      ],
+      "scores": {}
+    },
+    "0-chunk_102_-722824144378941912": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Advisory Councils https://www.federalreserve.gov/aboutthefed/advisorydefault.htm) Federal Reserve Banks https://www.federalreserve.gov/aboutthefed/federal-reserve-system.htm) Federal Reserve Bank and Branch Directors https://www.federalreserve.gov/aboutthefed/directors/about.htm) Federal Reserve Act https://www.federalreserve.gov/aboutthefed/fract.htm)",
+      "position": 12382,
+      "chunk_id_original": "chunk_102_-722824144378941912",
+      "sentence_count": 4,
+      "sentence_indices": [
+        306,
+        307,
+        308,
+        309
+      ],
+      "scores": {}
+    },
+    "0-chunk_103_5405464053066597384": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Act https://www.federalreserve.gov/aboutthefed/fract.htm) Currency https://www.federalreserve.gov/aboutthefed/currency.htm) Board Meetings https://www.federalreserve.gov/aboutthefed/boardmeetings/meetingdates.htm) Board Votes https://www.federalreserve.gov/aboutthefed/boardvotes.htm)",
+      "position": 12515,
+      "chunk_id_original": "chunk_103_5405464053066597384",
+      "sentence_count": 4,
+      "sentence_indices": [
+        309,
+        310,
+        311,
+        312
+      ],
+      "scores": {}
+    },
+    "0-chunk_104_-6205502222097108006": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Board Votes https://www.federalreserve.gov/aboutthefed/boardvotes.htm) Careers https://www.federalreserve.gov/careers.htm) Do Business with the Board https://www.federalreserve.gov/aboutthefed/procurement/tips.htm) Holidays Observed K.",
+      "position": 12613,
+      "chunk_id_original": "chunk_104_-6205502222097108006",
+      "sentence_count": 4,
+      "sentence_indices": [
+        312,
+        313,
+        314,
+        315
+      ],
+      "scores": {}
+    },
+    "0-chunk_105_-8032659432713128715": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Holidays Observed K. 8 https://www.federalreserve.gov/aboutthefed/k8.htm) Ethics & Values https://www.federalreserve.gov/aboutthefed/ethics-values.htm) Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm)",
+      "position": 12714,
+      "chunk_id_original": "chunk_105_-8032659432713128715",
+      "sentence_count": 4,
+      "sentence_indices": [
+        315,
+        316,
+        317,
+        318
+      ],
+      "scores": {}
+    },
+    "0-chunk_106_2650232692591758278": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm) Requesting Information FOIA https://www.federalreserve.gov/foia/about_foia.htm) FAQs https://www.federalreserve.gov/faqs.htm) Economic Education https://www.federalreserve.gov/aboutthefed/educational-tools/default.htm)",
+      "position": 12788,
+      "chunk_id_original": "chunk_106_2650232692591758278",
+      "sentence_count": 4,
+      "sentence_indices": [
+        318,
+        319,
+        320,
+        321
+      ],
+      "scores": {}
+    },
+    "0-chunk_107_-1011521631996228903": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Economic Education https://www.federalreserve.gov/aboutthefed/educational-tools/default.htm) Fed Financial Statements https://www.federalreserve.gov/aboutthefed/fed-financial-statements.htm) Financial Innovation https://www.federalreserve.gov/aboutthefed/financial-innovation.htm) News & Events https://www.federalreserve.gov/newsevents.htm",
+      "position": 12883,
+      "chunk_id_original": "chunk_107_-1011521631996228903",
+      "sentence_count": 4,
+      "sentence_indices": [
+        321,
+        322,
+        323,
+        324
+      ],
+      "scores": {}
+    },
+    "0-chunk_108_1267745519281456194": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "News & Events https://www.federalreserve.gov/newsevents.htm Press Releases https://www.federalreserve.gov/newsevents/pressreleases.htm) Speeches https://www.federalreserve.gov/newsevents/speeches.htm) Testimony https://www.federalreserve.gov/newsevents/testimony.htm)",
+      "position": 13002,
+      "chunk_id_original": "chunk_108_1267745519281456194",
+      "sentence_count": 4,
+      "sentence_indices": [
+        324,
+        325,
+        326,
+        327
+      ],
+      "scores": {}
+    },
+    "0-chunk_109_-5288419874756986740": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Testimony https://www.federalreserve.gov/newsevents/testimony.htm) Calendar https://www.federalreserve.gov/newsevents/calendar.htm) Videos https://www.federalreserve.gov/videos.htm) Photo Gallery https://www.federalreserve.gov/photogallery.htm)",
+      "position": 13094,
+      "chunk_id_original": "chunk_109_-5288419874756986740",
+      "sentence_count": 4,
+      "sentence_indices": [
+        327,
+        328,
+        329,
+        330
+      ],
+      "scores": {}
+    },
+    "0-chunk_110_-1211765475799556554": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Photo Gallery https://www.federalreserve.gov/photogallery.htm) Conferences https://www.federalreserve.gov/conferences.htm) Monetary Policy https://www.federalreserve.gov/monetarypolicy.htm) Federal Open Market Committee",
+      "position": 13174,
+      "chunk_id_original": "chunk_110_-1211765475799556554",
+      "sentence_count": 4,
+      "sentence_indices": [
+        330,
+        331,
+        332,
+        333
+      ],
+      "scores": {}
+    },
+    "0-chunk_111_-1581101120819605110": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Open Market Committee About the FOMC https://www.federalreserve.gov/monetarypolicy/fomc.htm) Meeting calendars and information https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) Transcripts and other historical materials https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)",
+      "position": 13270,
+      "chunk_id_original": "chunk_111_-1581101120819605110",
+      "sentence_count": 4,
+      "sentence_indices": [
+        333,
+        334,
+        335,
+        336
+      ],
+      "scores": {}
+    },
+    "0-chunk_112_-2751871350099696836": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Transcripts and other historical materials https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm) FAQs https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm) Monetary Policy Principles and Practice Notes https://www.federalreserve.gov/monetarypolicy/monetary-policy-principles-and-practice.htm)",
+      "position": 13387,
+      "chunk_id_original": "chunk_112_-2751871350099696836",
+      "sentence_count": 4,
+      "sentence_indices": [
+        336,
+        337,
+        338,
+        339
+      ],
+      "scores": {}
+    },
+    "0-chunk_113_5518060638265123074": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Notes https://www.federalreserve.gov/monetarypolicy/monetary-policy-principles-and-practice.htm) Policy Implementation Policy Normalization https://www.federalreserve.gov/monetarypolicy/policy-normalization.htm) Policy Tools https://www.federalreserve.gov/monetarypolicy/policytools.htm)",
+      "position": 13513,
+      "chunk_id_original": "chunk_113_5518060638265123074",
+      "sentence_count": 4,
+      "sentence_indices": [
+        339,
+        340,
+        341,
+        342
+      ],
+      "scores": {}
+    },
+    "0-chunk_114_-682814120916044701": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Policy Tools https://www.federalreserve.gov/monetarypolicy/policytools.htm) Reports Monetary Policy Report https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm) Beige Book https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm)",
+      "position": 13600,
+      "chunk_id_original": "chunk_114_-682814120916044701",
+      "sentence_count": 4,
+      "sentence_indices": [
+        342,
+        343,
+        344,
+        345
+      ],
+      "scores": {}
+    },
+    "0-chunk_115_4482230299962821379": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Beige Book https://www.federalreserve.gov/monetarypolicy/publications/beige-book-default.htm) Federal Reserve Balance Sheet Developments https://www.federalreserve.gov/monetarypolicy/publications/balance-sheet-developments-report.htm) Review of Monetary Policy Strategy, Tools, and Communications Overview https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-2025.htm)",
+      "position": 13682,
+      "chunk_id_original": "chunk_115_4482230299962821379",
+      "sentence_count": 4,
+      "sentence_indices": [
+        345,
+        346,
+        347,
+        348
+      ],
+      "scores": {}
+    },
+    "0-chunk_116_-5780794162587916479": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Overview https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-2025.htm) Supervision & Regulation https://www.federalreserve.gov/supervisionreg.htm) Institution Supervision Novel Activities Supervision Program https://www.federalreserve.gov/supervisionreg/novel-activities-supervision-program.htm)",
+      "position": 13836,
+      "chunk_id_original": "chunk_116_-5780794162587916479",
+      "sentence_count": 4,
+      "sentence_indices": [
+        348,
+        349,
+        350,
+        351
+      ],
+      "scores": {}
+    },
+    "0-chunk_117_-7631440255623544499": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Novel Activities Supervision Program https://www.federalreserve.gov/supervisionreg/novel-activities-supervision-program.htm) Community & Regional Financial Institutions https://www.federalreserve.gov/supervisionreg/community-and-regional-financial-institutions.htm) Large Financial Institutions https://www.federalreserve.gov/supervisionreg/large-financial-institutions.htm) Foreign Banking Organizations https://www.federalreserve.gov/supervisionreg/foreign-banking-organizations.htm)",
+      "position": 13932,
+      "chunk_id_original": "chunk_117_-7631440255623544499",
+      "sentence_count": 4,
+      "sentence_indices": [
+        351,
+        352,
+        353,
+        354
+      ],
+      "scores": {}
+    },
+    "0-chunk_118_-484745697294889801": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Foreign Banking Organizations https://www.federalreserve.gov/supervisionreg/foreign-banking-organizations.htm) Financial Market Utilities https://www.federalreserve.gov/supervisionreg/financial-market-utility-supervision.htm) Consumer Compliance https://www.federalreserve.gov/supervisionreg/consumer-compliance.htm) State Member Banks Supervised by the Federal Reserve https://www.federalreserve.gov/supervisionreg/state-member-banks-supervised-federal-reserve.htm)",
+      "position": 14096,
+      "chunk_id_original": "chunk_118_-484745697294889801",
+      "sentence_count": 4,
+      "sentence_indices": [
+        354,
+        355,
+        356,
+        357
+      ],
+      "scores": {}
+    },
+    "0-chunk_119_2043178135182866149": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "State Member Banks Supervised by the Federal Reserve https://www.federalreserve.gov/supervisionreg/state-member-banks-supervised-federal-reserve.htm) Reports Federal Reserve Supervision and Regulation Report https://www.federalreserve.gov/publications/supervision-and-regulation-report.htm) Reporting Forms",
+      "position": 14227,
+      "chunk_id_original": "chunk_119_2043178135182866149",
+      "sentence_count": 4,
+      "sentence_indices": [
+        357,
+        358,
+        359,
+        360
+      ],
+      "scores": {}
+    },
+    "0-chunk_120_-8750800617111704553": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Reporting Forms All Reporting Forms https://www.federalreserve.gov/apps/reportingforms) Recent Updates https://www.federalreserve.gov/apps/reportingforms/recentupdates) Information collections under review https://www.federalreserve.gov/apps/reportingforms/home/review)",
+      "position": 14376,
+      "chunk_id_original": "chunk_120_-8750800617111704553",
+      "sentence_count": 4,
+      "sentence_indices": [
+        360,
+        361,
+        362,
+        363
+      ],
+      "scores": {}
+    },
+    "0-chunk_121_-3041851332232296250": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Information collections under review https://www.federalreserve.gov/apps/reportingforms/home/review) Financial Statements https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %221%22 Applications/structure change https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %222%22 Federal Financial Institutions Examination Council FFIEC https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %223%22",
+      "position": 14465,
+      "chunk_id_original": "chunk_121_-3041851332232296250",
+      "sentence_count": 4,
+      "sentence_indices": [
+        363,
+        364,
+        365,
+        366
+      ],
+      "scores": {}
+    },
+    "0-chunk_122_1423604335355711524": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Financial Institutions Examination Council FFIEC https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %223%22 Municipal & Government Securities https://www.federalreserve.gov/apps/ReportingForms/?reportTypesIdsJson= %228%22 Supervision & Regulation Letters By Year https://www.federalreserve.gov/supervisionreg/srletters/srletters.htm)",
+      "position": 14625,
+      "chunk_id_original": "chunk_122_1423604335355711524",
+      "sentence_count": 4,
+      "sentence_indices": [
+        366,
+        367,
+        368,
+        369
+      ],
+      "scores": {}
+    },
+    "0-chunk_123_6728693784006983489": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "By Year https://www.federalreserve.gov/supervisionreg/srletters/srletters.htm) By Topic https://www.federalreserve.gov/supervisionreg/topics/topics.htm) Banking Applications & Legal Developments Application Process https://www.federalreserve.gov/supervisionreg/application-process.htm)",
+      "position": 14805,
+      "chunk_id_original": "chunk_123_6728693784006983489",
+      "sentence_count": 4,
+      "sentence_indices": [
+        369,
+        370,
+        371,
+        372
+      ],
+      "scores": {}
+    },
+    "0-chunk_124_-2353432920893980035": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Application Process https://www.federalreserve.gov/supervisionreg/application-process.htm) Board & Reserve Bank Action https://www.federalreserve.gov/supervisionreg/board-and-reserve-bank-actions.htm) Enforcement Actions & Legal Developments https://www.federalreserve.gov/supervisionreg/legal-developments.htm) Regulatory Resources",
+      "position": 14902,
+      "chunk_id_original": "chunk_124_-2353432920893980035",
+      "sentence_count": 4,
+      "sentence_indices": [
+        372,
+        373,
+        374,
+        375
+      ],
+      "scores": {}
+    },
+    "0-chunk_125_-8227412067607701079": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Regulatory Resources Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm) Manuals https://www.federalreserve.gov/publications/supmanual.htm) Basel Regulatory Framework https://www.federalreserve.gov/supervisionreg/basel/basel-default.htm)",
+      "position": 15045,
+      "chunk_id_original": "chunk_125_-8227412067607701079",
+      "sentence_count": 4,
+      "sentence_indices": [
+        375,
+        376,
+        377,
+        378
+      ],
+      "scores": {}
+    },
+    "0-chunk_126_-2399217851750234341": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Basel Regulatory Framework https://www.federalreserve.gov/supervisionreg/basel/basel-default.htm) Volcker Rule https://www.federalreserve.gov/supervisionreg/volcker-rule.htm) Education, Training, and Assistance https://www.federalreserve.gov/supervisionreg/training-and-assistance-landing.htm) Banking & Data Structure",
+      "position": 15124,
+      "chunk_id_original": "chunk_126_-2399217851750234341",
+      "sentence_count": 4,
+      "sentence_indices": [
+        378,
+        379,
+        380,
+        381
+      ],
+      "scores": {}
+    },
+    "0-chunk_127_-8382971021919944116": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Banking & Data Structure Beneficial Ownership reports https://www.federalreserve.gov/apps/reportforms/insider.aspx) Large Commercial Banks https://www.federalreserve.gov/releases/lbr/) U.",
+      "position": 15254,
+      "chunk_id_original": "chunk_127_-8382971021919944116",
+      "sentence_count": 4,
+      "sentence_indices": [
+        381,
+        382,
+        383,
+        384
+      ],
+      "scores": {}
+    },
+    "0-chunk_128_9198741974728603344": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "U. S. Offices of Foreign Entities https://www.federalreserve.gov/releases/iba/) Financial Holding Companies https://www.federalreserve.gov/supervisionreg/fhc.htm)",
+      "position": 15369,
+      "chunk_id_original": "chunk_128_9198741974728603344",
+      "sentence_count": 4,
+      "sentence_indices": [
+        384,
+        385,
+        386,
+        387
+      ],
+      "scores": {}
+    },
+    "0-chunk_129_-5843653007351298614": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Holding Companies https://www.federalreserve.gov/supervisionreg/fhc.htm) Interstate Branching https://www.federalreserve.gov/supervisionreg/isb-default.htm) Securities Underwriting & Dealing Subsidiaries https://www.federalreserve.gov/supervisionreg/suds.htm) Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm)",
+      "position": 15420,
+      "chunk_id_original": "chunk_129_-5843653007351298614",
+      "sentence_count": 4,
+      "sentence_indices": [
+        387,
+        388,
+        389,
+        390
+      ],
+      "scores": {}
+    },
+    "0-chunk_130_-6453628074276083881": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm) Financial Stability https://www.federalreserve.gov/financial-stability.htm) Financial Stability Assessments About Financial Stability https://www.federalreserve.gov/financial-stability/what-is-financial-stability.htm)",
+      "position": 15570,
+      "chunk_id_original": "chunk_130_-6453628074276083881",
+      "sentence_count": 4,
+      "sentence_indices": [
+        390,
+        391,
+        392,
+        393
+      ],
+      "scores": {}
+    },
+    "0-chunk_131_-4455034967632017701": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "About Financial Stability https://www.federalreserve.gov/financial-stability/what-is-financial-stability.htm) Types of Financial System Vulnerabilities & Risks https://www.federalreserve.gov/financial-stability/types-of-financial-system-vulnerabilities-and-risks.htm) Monitoring Risk Across the Financial System https://www.federalreserve.gov/financial-stability/monitoring-risk-across-the-financial-system.htm) Proactive Monitoring of Markets & Institutions https://www.federalreserve.gov/financial-stability/proactive-monitoring-of-markets-and-institutions.htm)",
+      "position": 15693,
+      "chunk_id_original": "chunk_131_-4455034967632017701",
+      "sentence_count": 4,
+      "sentence_indices": [
+        393,
+        394,
+        395,
+        396
+      ],
+      "scores": {}
+    },
+    "0-chunk_132_1491121906232314966": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Proactive Monitoring of Markets & Institutions https://www.federalreserve.gov/financial-stability/proactive-monitoring-of-markets-and-institutions.htm) Financial Stability & Stress Testing https://www.federalreserve.gov/financial-stability/financial-stability-and-stress-testing.htm) Financial Stability Coordination & Actions Responding to Financial System Emergencies https://www.federalreserve.gov/financial-stability/responding-to-financial-system-emergencies.htm)",
+      "position": 15867,
+      "chunk_id_original": "chunk_132_1491121906232314966",
+      "sentence_count": 4,
+      "sentence_indices": [
+        396,
+        397,
+        398,
+        399
+      ],
+      "scores": {}
+    },
+    "0-chunk_133_-6752147805277193771": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Responding to Financial System Emergencies https://www.federalreserve.gov/financial-stability/responding-to-financial-system-emergencies.htm) Cooperation on Financial Stability https://www.federalreserve.gov/financial-stability/cooperation-on-financial-stability.htm) Reports Financial Stability Report https://www.federalreserve.gov/publications/financial-stability-report.htm)",
+      "position": 16032,
+      "chunk_id_original": "chunk_133_-6752147805277193771",
+      "sentence_count": 4,
+      "sentence_indices": [
+        399,
+        400,
+        401,
+        402
+      ],
+      "scores": {}
+    },
+    "0-chunk_134_8695143504610677180": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Stability Report https://www.federalreserve.gov/publications/financial-stability-report.htm) Payment Systems https://www.federalreserve.gov/paymentsystems.htm) Regulations & Statutes Regulation CC Availability of Funds and Collection of Checks https://www.federalreserve.gov/paymentsystems/regcc-about.htm)",
+      "position": 16156,
+      "chunk_id_original": "chunk_134_8695143504610677180",
+      "sentence_count": 4,
+      "sentence_indices": [
+        402,
+        403,
+        404,
+        405
+      ],
+      "scores": {}
+    },
+    "0-chunk_135_947388283262462733": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Regulation CC Availability of Funds and Collection of Checks https://www.federalreserve.gov/paymentsystems/regcc-about.htm) Regulation II Debit Card Interchange Fees and Routing https://www.federalreserve.gov/paymentsystems/regii-about.htm) Regulation HH Financial Market Utilities https://www.federalreserve.gov/paymentsystems/reghh-about.htm) Other Regulations and Statutes https://www.federalreserve.gov/paymentsystems/other-regulations.htm)",
+      "position": 16260,
+      "chunk_id_original": "chunk_135_947388283262462733",
+      "sentence_count": 4,
+      "sentence_indices": [
+        405,
+        406,
+        407,
+        408
+      ],
+      "scores": {}
+    },
+    "0-chunk_136_2942542049380033268": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Other Regulations and Statutes https://www.federalreserve.gov/paymentsystems/other-regulations.htm) Payment Policies Federal Reserve's Key Policies for the Provision of Financial Services https://www.federalreserve.gov/paymentsystems/pfs_about.htm) Guidelines for Evaluating Joint Account Requests https://www.federalreserve.gov/paymentsystems/joint_requests.htm)",
+      "position": 16470,
+      "chunk_id_original": "chunk_136_2942542049380033268",
+      "sentence_count": 4,
+      "sentence_indices": [
+        408,
+        409,
+        410,
+        411
+      ],
+      "scores": {}
+    },
+    "0-chunk_137_-3583113423785887064": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Guidelines for Evaluating Joint Account Requests https://www.federalreserve.gov/paymentsystems/joint_requests.htm) Overnight Overdrafts https://www.federalreserve.gov/paymentsystems/oo_about.htm) Payment System Risk https://www.federalreserve.gov/paymentsystems/psr_about.htm) Sponsorship for Priority Telecommunication Services https://www.federalreserve.gov/paymentsystems/telecomm.htm)",
+      "position": 16627,
+      "chunk_id_original": "chunk_137_-3583113423785887064",
+      "sentence_count": 4,
+      "sentence_indices": [
+        411,
+        412,
+        413,
+        414
+      ],
+      "scores": {}
+    },
+    "0-chunk_138_7403381389920307554": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Sponsorship for Priority Telecommunication Services https://www.federalreserve.gov/paymentsystems/telecomm.htm) Reserve Bank Payment Services & Data Automated Clearinghouse Services https://www.federalreserve.gov/paymentsystems/fedach_about.htm) Check Services https://www.federalreserve.gov/paymentsystems/check_about.htm)",
+      "position": 16771,
+      "chunk_id_original": "chunk_138_7403381389920307554",
+      "sentence_count": 4,
+      "sentence_indices": [
+        414,
+        415,
+        416,
+        417
+      ],
+      "scores": {}
+    },
+    "0-chunk_139_4377330716763448106": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Check Services https://www.federalreserve.gov/paymentsystems/check_about.htm) Currency and Coin Services https://www.federalreserve.gov/paymentsystems/coin_about.htm) Daylight Overdrafts and Fees https://www.federalreserve.gov/paymentsystems/psr_data.htm) FedNow® Service https://www.federalreserve.gov/paymentsystems/fednow_about.htm)",
+      "position": 16933,
+      "chunk_id_original": "chunk_139_4377330716763448106",
+      "sentence_count": 4,
+      "sentence_indices": [
+        417,
+        418,
+        419,
+        420
+      ],
+      "scores": {}
+    },
+    "0-chunk_140_7760288328895722078": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "FedNow® Service https://www.federalreserve.gov/paymentsystems/fednow_about.htm) Fedwire Funds Services https://www.federalreserve.gov/paymentsystems/fedfunds_about.htm) Fedwire Securities Services https://www.federalreserve.gov/paymentsystems/fedsecs_about.htm) Fiscal Agency Services https://www.federalreserve.gov/paymentsystems/fisagy_about.htm)",
+      "position": 17061,
+      "chunk_id_original": "chunk_140_7760288328895722078",
+      "sentence_count": 4,
+      "sentence_indices": [
+        420,
+        421,
+        422,
+        423
+      ],
+      "scores": {}
+    },
+    "0-chunk_141_1398470156159171737": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Fiscal Agency Services https://www.federalreserve.gov/paymentsystems/fisagy_about.htm) Master Account and Services Database https://www.federalreserve.gov/paymentsystems/master-account-and-services-database-about.htm) National Settlement Service https://www.federalreserve.gov/paymentsystems/natl_about.htm) Financial Market Utilities & Infrastructures",
+      "position": 17185,
+      "chunk_id_original": "chunk_141_1398470156159171737",
+      "sentence_count": 4,
+      "sentence_indices": [
+        423,
+        424,
+        425,
+        426
+      ],
+      "scores": {}
+    },
+    "0-chunk_142_529175663847973529": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Market Utilities & Infrastructures Supervision & Oversight of Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/over_about.htm) Designated Financial Market Utilities https://www.federalreserve.gov/paymentsystems/designated_fmu_about.htm) International Standards for Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/int_standards.htm)",
+      "position": 17330,
+      "chunk_id_original": "chunk_142_529175663847973529",
+      "sentence_count": 4,
+      "sentence_indices": [
+        426,
+        427,
+        428,
+        429
+      ],
+      "scores": {}
+    },
+    "0-chunk_143_5569682322813777239": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "International Standards for Financial Market Infrastructures https://www.federalreserve.gov/paymentsystems/int_standards.htm) Research, Reports, & Committees Federal Reserve Payments Study FRPS https://www.federalreserve.gov/paymentsystems/fr-payments-study.htm) Payments Research https://www.federalreserve.gov/paymentsystems/payres_about.htm)",
+      "position": 17513,
+      "chunk_id_original": "chunk_143_5569682322813777239",
+      "sentence_count": 4,
+      "sentence_indices": [
+        429,
+        430,
+        431,
+        432
+      ],
+      "scores": {}
+    },
+    "0-chunk_144_-4309096126147817633": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Payments Research https://www.federalreserve.gov/paymentsystems/payres_about.htm) Reports https://www.federalreserve.gov/paymentsystems/reports.htm) Payments System Policy Advisory Committee https://www.federalreserve.gov/paymentsystems/pspa_committee.htm) Economic Research https://www.federalreserve.gov/econres.htm)",
+      "position": 17682,
+      "chunk_id_original": "chunk_144_-4309096126147817633",
+      "sentence_count": 4,
+      "sentence_indices": [
+        432,
+        433,
+        434,
+        435
+      ],
+      "scores": {}
+    },
+    "0-chunk_145_-2872742650110384276": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Economic Research https://www.federalreserve.gov/econres.htm) Meet the Researchers https://www.federalreserve.gov/econres/researchers.htm) Working Papers and Notes Finance and Economics Discussion Series FEDS https://www.federalreserve.gov/econres/feds/index.htm)",
+      "position": 17807,
+      "chunk_id_original": "chunk_145_-2872742650110384276",
+      "sentence_count": 4,
+      "sentence_indices": [
+        435,
+        436,
+        437,
+        438
+      ],
+      "scores": {}
+    },
+    "0-chunk_146_-4330565059206145520": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Finance and Economics Discussion Series FEDS https://www.federalreserve.gov/econres/feds/index.htm) FEDS Notes https://www.federalreserve.gov/econres/notes/feds-notes/default.htm) International Finance Discussion Papers IFDP https://www.federalreserve.gov/econres/ifdp/index.htm) Data, Models and Tools",
+      "position": 17911,
+      "chunk_id_original": "chunk_146_-4330565059206145520",
+      "sentence_count": 4,
+      "sentence_indices": [
+        438,
+        439,
+        440,
+        441
+      ],
+      "scores": {}
+    },
+    "0-chunk_147_-8473773974685986670": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Data, Models and Tools Economic Research Data https://www.federalreserve.gov/econres/economic-research-data.htm) FRB/US Model https://www.federalreserve.gov/econres/us-models-about.htm) Estimated Dynamic Optimization EDO Model https://www.federalreserve.gov/econres/edo-models-about.htm)",
+      "position": 18069,
+      "chunk_id_original": "chunk_147_-8473773974685986670",
+      "sentence_count": 4,
+      "sentence_indices": [
+        441,
+        442,
+        443,
+        444
+      ],
+      "scores": {}
+    },
+    "0-chunk_148_-2529848251210021875": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Estimated Dynamic Optimization EDO Model https://www.federalreserve.gov/econres/edo-models-about.htm) Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm) Data https://www.federalreserve.gov/data.htm) Data Download Program https://www.federalreserve.gov/datadownload)",
+      "position": 18168,
+      "chunk_id_original": "chunk_148_-2529848251210021875",
+      "sentence_count": 4,
+      "sentence_indices": [
+        444,
+        445,
+        446,
+        447
+      ],
+      "scores": {}
+    },
+    "0-chunk_149_8876052754255317083": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Data Download Program https://www.federalreserve.gov/datadownload) Bank Assets and Liabilities Aggregate Reserves of Depository Institutions and the Monetary Base H. 3 https://www.federalreserve.gov/releases/h3/current/default.htm)",
+      "position": 18303,
+      "chunk_id_original": "chunk_149_8876052754255317083",
+      "sentence_count": 4,
+      "sentence_indices": [
+        447,
+        448,
+        449,
+        450
+      ],
+      "scores": {}
+    },
+    "0-chunk_150_6114808756607253163": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "3 https://www.federalreserve.gov/releases/h3/current/default.htm) Assets and Liabilities of Commercial Banks in the U. S. H.",
+      "position": 18445,
+      "chunk_id_original": "chunk_150_6114808756607253163",
+      "sentence_count": 4,
+      "sentence_indices": [
+        450,
+        451,
+        452,
+        453
+      ],
+      "scores": {}
+    },
+    "0-chunk_151_-3564999100841487340": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "H. 8 https://www.federalreserve.gov/releases/h8/current/default.htm) Assets and Liabilities of U. S.",
+      "position": 18520,
+      "chunk_id_original": "chunk_151_-3564999100841487340",
+      "sentence_count": 4,
+      "sentence_indices": [
+        453,
+        454,
+        455,
+        456
+      ],
+      "scores": {}
+    },
+    "0-chunk_152_2556927728939970415": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "S. Branches and Agencies of Foreign Banks https://www.federalreserve.gov/data/assetliab/current.htm) Charge Off and Delinquency Rates on Loans and Leases at Commercial Banks https://www.federalreserve.gov/releases/chargeoff/) Senior Financial Officer Survey https://www.federalreserve.gov/data/sfos/sfos.htm)",
+      "position": 18572,
+      "chunk_id_original": "chunk_152_2556927728939970415",
+      "sentence_count": 4,
+      "sentence_indices": [
+        456,
+        457,
+        458,
+        459
+      ],
+      "scores": {}
+    },
+    "0-chunk_153_7469596213846632449": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Senior Financial Officer Survey https://www.federalreserve.gov/data/sfos/sfos.htm) Senior Loan Officer Opinion Survey on Bank Lending Practices https://www.federalreserve.gov/data/sloos.htm) Bank Structure Data Large Commercial Banks https://www.federalreserve.gov/releases/lbr/)",
+      "position": 18724,
+      "chunk_id_original": "chunk_153_7469596213846632449",
+      "sentence_count": 4,
+      "sentence_indices": [
+        459,
+        460,
+        461,
+        462
+      ],
+      "scores": {}
+    },
+    "0-chunk_154_-6464530432229418767": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Large Commercial Banks https://www.federalreserve.gov/releases/lbr/) Minority Depository Institutions https://www.federalreserve.gov/supervisionreg/minority-depository-institutions.htm) Structure and Share Data for the U. S.",
+      "position": 18877,
+      "chunk_id_original": "chunk_154_-6464530432229418767",
+      "sentence_count": 4,
+      "sentence_indices": [
+        462,
+        463,
+        464,
+        465
+      ],
+      "scores": {}
+    },
+    "0-chunk_155_-3933561653549550153": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "S. Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm) Business Finance Commercial Paper https://www.federalreserve.gov/releases/cp/)",
+      "position": 19005,
+      "chunk_id_original": "chunk_155_-3933561653549550153",
+      "sentence_count": 4,
+      "sentence_indices": [
+        465,
+        466,
+        467,
+        468
+      ],
+      "scores": {}
+    },
+    "0-chunk_156_-802353982402398730": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Commercial Paper https://www.federalreserve.gov/releases/cp/) Finance Companies G. 20 https://www.federalreserve.gov/releases/g20/current/default.htm) New Security Issues, State and Local Governments https://www.federalreserve.gov/data/govsecure/current.htm)",
+      "position": 19070,
+      "chunk_id_original": "chunk_156_-802353982402398730",
+      "sentence_count": 4,
+      "sentence_indices": [
+        468,
+        469,
+        470,
+        471
+      ],
+      "scores": {}
+    },
+    "0-chunk_157_-2325020593316685715": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "New Security Issues, State and Local Governments https://www.federalreserve.gov/data/govsecure/current.htm) New Security Issues, U. S. Corporations https://www.federalreserve.gov/data/corpsecure/current.htm)",
+      "position": 19148,
+      "chunk_id_original": "chunk_157_-2325020593316685715",
+      "sentence_count": 4,
+      "sentence_indices": [
+        471,
+        472,
+        473,
+        474
+      ],
+      "scores": {}
+    },
+    "0-chunk_158_-3716510746150669433": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Corporations https://www.federalreserve.gov/data/corpsecure/current.htm) Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms https://www.federalreserve.gov/data/scoos.htm) Exchange Rates and International Data",
+      "position": 19242,
+      "chunk_id_original": "chunk_158_-3716510746150669433",
+      "sentence_count": 4,
+      "sentence_indices": [
+        474,
+        475,
+        476,
+        477
+      ],
+      "scores": {}
+    },
+    "0-chunk_159_2962130845594575005": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Exchange Rates and International Data Foreign Exchange Rates H. 10/G. 5 https://www.federalreserve.gov/releases/h10/current/)",
+      "position": 19381,
+      "chunk_id_original": "chunk_159_2962130845594575005",
+      "sentence_count": 4,
+      "sentence_indices": [
+        477,
+        478,
+        479,
+        480
+      ],
+      "scores": {}
+    },
+    "0-chunk_160_1543994382411530587": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "5 https://www.federalreserve.gov/releases/h10/current/) International Summary Statistics https://www.federalreserve.gov/data/intlsumm/current.htm) Securities Holdings and Transactions https://www.federalreserve.gov/data/secholdtrans/current.htm) Statistics Reported by Banks and Other Financial Firms in the United States https://www.federalreserve.gov/data/statbanksus/current.htm)",
+      "position": 19452,
+      "chunk_id_original": "chunk_160_1543994382411530587",
+      "sentence_count": 4,
+      "sentence_indices": [
+        480,
+        481,
+        482,
+        483
+      ],
+      "scores": {}
+    },
+    "0-chunk_161_6599420160499761574": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Statistics Reported by Banks and Other Financial Firms in the United States https://www.federalreserve.gov/data/statbanksus/current.htm) Structure and Share Data for U. S. Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm)",
+      "position": 19580,
+      "chunk_id_original": "chunk_161_6599420160499761574",
+      "sentence_count": 4,
+      "sentence_indices": [
+        483,
+        484,
+        485,
+        486
+      ],
+      "scores": {}
+    },
+    "0-chunk_162_6153467923896826316": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Offices of Foreign Banks https://www.federalreserve.gov/releases/iba/default.htm) Financial Accounts Financial Accounts of the United States Z. 1 https://www.federalreserve.gov/releases/z1/default.htm)",
+      "position": 19709,
+      "chunk_id_original": "chunk_162_6153467923896826316",
+      "sentence_count": 4,
+      "sentence_indices": [
+        486,
+        487,
+        488,
+        489
+      ],
+      "scores": {}
+    },
+    "0-chunk_163_3052966805664608464": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "1 https://www.federalreserve.gov/releases/z1/default.htm) Household Finance Consumer Credit G. 19 https://www.federalreserve.gov/releases/g19/current/default.htm)",
+      "position": 19817,
+      "chunk_id_original": "chunk_163_3052966805664608464",
+      "sentence_count": 4,
+      "sentence_indices": [
+        489,
+        490,
+        491,
+        492
+      ],
+      "scores": {}
+    },
+    "0-chunk_164_5433600866220415185": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "19 https://www.federalreserve.gov/releases/g19/current/default.htm) Household Debt Service Ratios https://www.federalreserve.gov/releases/DSR) Mortgage Debt Outstanding https://www.federalreserve.gov/data/mortoutstand/current.htm) Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm)",
+      "position": 19876,
+      "chunk_id_original": "chunk_164_5433600866220415185",
+      "sentence_count": 4,
+      "sentence_indices": [
+        492,
+        493,
+        494,
+        495
+      ],
+      "scores": {}
+    },
+    "0-chunk_165_-1174322461095120804": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Survey of Consumer Finances SCF https://www.federalreserve.gov/econres/scfindex.htm) Survey of Household Economics and Decisionmaking https://www.federalreserve.gov/consumerscommunities/shed.htm) Industrial Activity Industrial Production and Capacity Utilization G.",
+      "position": 19991,
+      "chunk_id_original": "chunk_165_-1174322461095120804",
+      "sentence_count": 4,
+      "sentence_indices": [
+        495,
+        496,
+        497,
+        498
+      ],
+      "scores": {}
+    },
+    "0-chunk_166_-6123396861345291774": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Industrial Production and Capacity Utilization G. 17 https://www.federalreserve.gov/releases/g17/current/default.htm) Interest Rates Selected Interest Rates H.",
+      "position": 20132,
+      "chunk_id_original": "chunk_166_-6123396861345291774",
+      "sentence_count": 4,
+      "sentence_indices": [
+        498,
+        499,
+        500,
+        501
+      ],
+      "scores": {}
+    },
+    "0-chunk_167_-8525233258343585857": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Selected Interest Rates H. 15 https://www.federalreserve.gov/releases/h15/) Micro Data Reference Manual MDRM Micro and Macro Data Collections https://www.federalreserve.gov/data/mdrm.htm)",
+      "position": 20220,
+      "chunk_id_original": "chunk_167_-8525233258343585857",
+      "sentence_count": 4,
+      "sentence_indices": [
+        501,
+        502,
+        503,
+        504
+      ],
+      "scores": {}
+    },
+    "0-chunk_168_8227700806062444568": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Micro and Macro Data Collections https://www.federalreserve.gov/data/mdrm.htm) Money Stock and Reserve Balances Factors Affecting Reserve Balances H. 4.",
+      "position": 20303,
+      "chunk_id_original": "chunk_168_8227700806062444568",
+      "sentence_count": 4,
+      "sentence_indices": [
+        504,
+        505,
+        506,
+        507
+      ],
+      "scores": {}
+    },
+    "0-chunk_169_-7130475211763771898": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4. 1 https://www.federalreserve.gov/releases/h41/) Money Stock Measures H. 6 https://www.federalreserve.gov/releases/h6/current/default.htm)",
+      "position": 20428,
+      "chunk_id_original": "chunk_169_-7130475211763771898",
+      "sentence_count": 4,
+      "sentence_indices": [
+        507,
+        508,
+        509,
+        510
+      ],
+      "scores": {}
+    },
+    "0-chunk_170_-1364481300847231831": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "6 https://www.federalreserve.gov/releases/h6/current/default.htm) Other Yield Curve Models and Data https://www.federalreserve.gov/data/yield-curve-models.htm) Consumers & Communities https://www.federalreserve.gov/consumerscommunities.htm)",
+      "position": 20474,
+      "chunk_id_original": "chunk_170_-1364481300847231831",
+      "sentence_count": 4,
+      "sentence_indices": [
+        510,
+        511,
+        512,
+        513
+      ],
+      "scores": {}
+    },
+    "0-chunk_171_-3178902562148221081": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Consumers & Communities https://www.federalreserve.gov/consumerscommunities.htm) Regulations Community Reinvestment Act CRA https://www.federalreserve.gov/consumerscommunities/cra_about.htm) All Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm)",
+      "position": 20549,
+      "chunk_id_original": "chunk_171_-3178902562148221081",
+      "sentence_count": 4,
+      "sentence_indices": [
+        513,
+        514,
+        515,
+        516
+      ],
+      "scores": {}
+    },
+    "0-chunk_172_-3934994682770995022": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "All Regulations https://www.federalreserve.gov/supervisionreg/reglisting.htm) Supervision& Enforcement CA Letters https://www.federalreserve.gov/supervisionreg/caletters/caletters.htm) Enforcement Actions https://www.federalreserve.gov/apps/enforcementactions/default.aspx)",
+      "position": 20656,
+      "chunk_id_original": "chunk_172_-3934994682770995022",
+      "sentence_count": 4,
+      "sentence_indices": [
+        516,
+        517,
+        518,
+        519
+      ],
+      "scores": {}
+    },
+    "0-chunk_173_1185489390595248765": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Enforcement Actions https://www.federalreserve.gov/apps/enforcementactions/default.aspx) Independent Foreclosure Review https://www.federalreserve.gov/consumerscommunities/independent-foreclosure-review.htm) Community Development Housing and Neighborhood Revitalization https://www.federalreserve.gov/consumerscommunities/neighborhood-revitalization.htm)",
+      "position": 20747,
+      "chunk_id_original": "chunk_173_1185489390595248765",
+      "sentence_count": 4,
+      "sentence_indices": [
+        519,
+        520,
+        521,
+        522
+      ],
+      "scores": {}
+    },
+    "0-chunk_174_3226921665444891061": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Housing and Neighborhood Revitalization https://www.federalreserve.gov/consumerscommunities/neighborhood-revitalization.htm) Small Business and Entrepreneurship https://www.federalreserve.gov/consumerscommunities/small-business-and-entrepreneurship.htm) Employment and Workforce Development https://www.federalreserve.gov/consumerscommunities/workforce.htm) Community Development Finance https://www.federalreserve.gov/consumerscommunities/cdf.htm)",
+      "position": 20860,
+      "chunk_id_original": "chunk_174_3226921665444891061",
+      "sentence_count": 4,
+      "sentence_indices": [
+        522,
+        523,
+        524,
+        525
+      ],
+      "scores": {}
+    },
+    "0-chunk_175_5731137282953906192": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Community Development Finance https://www.federalreserve.gov/consumerscommunities/cdf.htm) Rural Community and Economic Development https://www.federalreserve.gov/consumerscommunities/rural-community-economic-development.htm) Conferences https://www.federalreserve.gov/conferences.htm) Research& Analysis",
+      "position": 21030,
+      "chunk_id_original": "chunk_175_5731137282953906192",
+      "sentence_count": 4,
+      "sentence_indices": [
+        525,
+        526,
+        527,
+        528
+      ],
+      "scores": {}
+    },
+    "0-chunk_176_388448811618981146": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Research& Analysis Survey of Household Economics and Decisionmaking https://www.federalreserve.gov/consumerscommunities/shed.htm) Research Publications & Data Analysis https://www.federalreserve.gov/consumerscommunities/community-development-publications.htm) Community Advisory Council https://www.federalreserve.gov/aboutthefed/cac.htm)",
+      "position": 21169,
+      "chunk_id_original": "chunk_176_388448811618981146",
+      "sentence_count": 4,
+      "sentence_indices": [
+        528,
+        529,
+        530,
+        531
+      ],
+      "scores": {}
+    },
+    "0-chunk_177_-4813760550279634467": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Community Advisory Council https://www.federalreserve.gov/aboutthefed/cac.htm) Resources for Consumers Frauds and Scams https://www.federalreserve.gov/consumerscommunities/fraud-scams.htm) Mortgage and Foreclosure Resources https://www.federalreserve.gov/consumerscommunities/foreclosure.htm)",
+      "position": 21315,
+      "chunk_id_original": "chunk_177_-4813760550279634467",
+      "sentence_count": 4,
+      "sentence_indices": [
+        531,
+        532,
+        533,
+        534
+      ],
+      "scores": {}
+    },
+    "0-chunk_178_2123001291831872426": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Mortgage and Foreclosure Resources https://www.federalreserve.gov/consumerscommunities/foreclosure.htm) Federal Reserve Community Development Resources https://www.federalreserve.gov/consumerscommunities/comm-dev-system-map.htm) 1. Home https://www.federalreserve.gov/default.htm)",
+      "position": 21423,
+      "chunk_id_original": "chunk_178_2123001291831872426",
+      "sentence_count": 4,
+      "sentence_indices": [
+        534,
+        535,
+        536,
+        537
+      ],
+      "scores": {}
+    },
+    "0-chunk_179_4813743392615352017": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Home https://www.federalreserve.gov/default.htm) News & Events Share https://www.federalreserve.gov/newsevents.htm https://twitter.com/share?url https://www.federalreserve.gov/newsevents.htm&text News%20&%20Events&via FederalReserve",
+      "position": 21546,
+      "chunk_id_original": "chunk_179_4813743392615352017",
+      "sentence_count": 4,
+      "sentence_indices": [
+        537,
+        538,
+        539,
+        540
+      ],
+      "scores": {}
+    },
+    "0-chunk_180_3450376677259814573": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "https://twitter.com/share?url https://www.federalreserve.gov/newsevents.htm&text News%20&%20Events&via FederalReserve https://www.facebook.com/sharer.php?u https://www.federalreserve.gov/newsevents.htm&name News%20&%20Events https://www.linkedin.com/shareArticle?url https://www.federalreserve.gov/newsevents.htm&title News%20&%20Events&mini true mailto:?",
+      "position": 21608,
+      "chunk_id_original": "chunk_180_3450376677259814573",
+      "sentence_count": 4,
+      "sentence_indices": [
+        540,
+        541,
+        542,
+        543
+      ],
+      "scores": {}
+    },
+    "0-chunk_181_1378539906051710482": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "mailto:? body https://www.federalreserve.gov/newsevents.htm&subject News%20&%20Events \n! Image 6 https://cf-images.us-east-1.prod.boltdns.net/v1/static/66043936001/425fc191-f8d5-4b2a-9608-e197cbf097bd/2b6ee2ba-9ef4-4bde-b27c-3570f57cfd1c/640x360/match/image.jpg) FOMC Press Conference July 30, 2025",
+      "position": 21815,
+      "chunk_id_original": "chunk_181_1378539906051710482",
+      "sentence_count": 4,
+      "sentence_indices": [
+        543,
+        544,
+        545,
+        546
+      ],
+      "scores": {}
+    },
+    "0-chunk_182_4775396745505435415": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "FOMC Press Conference July 30, 2025 Video Player is loading. Play Video Play Skip Backward Skip Forward",
+      "position": 21900,
+      "chunk_id_original": "chunk_182_4775396745505435415",
+      "sentence_count": 4,
+      "sentence_indices": [
+        546,
+        547,
+        548,
+        549
+      ],
+      "scores": {}
+    },
+    "0-chunk_183_-699876466224334471": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Play Skip Backward Skip Forward Mute Current Time 0:00 Duration 44:06",
+      "position": 21972,
+      "chunk_id_original": "chunk_183_-699876466224334471",
+      "sentence_count": 4,
+      "sentence_indices": [
+        549,
+        550,
+        551,
+        553
+      ],
+      "scores": {}
+    },
+    "0-chunk_184_-3256647709671719801": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Duration 44:06 Loaded: 0. 37% 00:00",
+      "position": 22029,
+      "chunk_id_original": "chunk_184_-3256647709671719801",
+      "sentence_count": 4,
+      "sentence_indices": [
+        553,
+        554,
+        555,
+        556
+      ],
+      "scores": {}
+    },
+    "0-chunk_185_-2509346007912966254": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "00:00 Stream Type LIVE Seek to live, currently behind live LIVE Remaining Time 44:06",
+      "position": 22058,
+      "chunk_id_original": "chunk_185_-2509346007912966254",
+      "sentence_count": 4,
+      "sentence_indices": [
+        556,
+        557,
+        558,
+        559
+      ],
+      "scores": {}
+    },
+    "0-chunk_186_1152786808635315122": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Remaining Time 44:06 1x Playback Rate Chapters",
+      "position": 22122,
+      "chunk_id_original": "chunk_186_1152786808635315122",
+      "sentence_count": 4,
+      "sentence_indices": [
+        559,
+        560,
+        561,
+        562
+      ],
+      "scores": {}
+    },
+    "0-chunk_187_-2559310578130505858": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Chapters Chapters Descriptions descriptions off, selected",
+      "position": 22160,
+      "chunk_id_original": "chunk_187_-2559310578130505858",
+      "sentence_count": 4,
+      "sentence_indices": [
+        562,
+        563,
+        564,
+        565
+      ],
+      "scores": {}
+    },
+    "0-chunk_188_303755485993641714": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "descriptions off, selected Captions captions settings, opens captions settings dialog captions off",
+      "position": 22192,
+      "chunk_id_original": "chunk_188_303755485993641714",
+      "sentence_count": 4,
+      "sentence_indices": [
+        565,
+        566,
+        567,
+        568
+      ],
+      "scores": {}
+    },
+    "0-chunk_189_-7347224940064277153": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "captions off en, selected Audio Track en Main , selected",
+      "position": 22280,
+      "chunk_id_original": "chunk_189_-7347224940064277153",
+      "sentence_count": 4,
+      "sentence_indices": [
+        568,
+        569,
+        570,
+        571
+      ],
+      "scores": {}
+    },
+    "0-chunk_190_5313314115201130575": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "en Main , selected Picture in Picture Fullscreen This is a modal window. Beginning of dialog window.",
+      "position": 22320,
+      "chunk_id_original": "chunk_190_5313314115201130575",
+      "sentence_count": 4,
+      "sentence_indices": [
+        571,
+        572,
+        573,
+        574
+      ],
+      "scores": {}
+    },
+    "0-chunk_191_6592736967355907553": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Beginning of dialog window. Escape will cancel and close the window. Text Color Opacity Text Background Color Opacity Caption Area Background Color Opacity Font Size Text Edge Style Font Family",
+      "position": 22394,
+      "chunk_id_original": "chunk_191_6592736967355907553",
+      "sentence_count": 4,
+      "sentence_indices": [
+        574,
+        575,
+        576,
+        577
+      ],
+      "scores": {}
+    },
+    "0-chunk_192_-6854980544097040295": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Font Size Text Edge Style Font Family Reset Done Close Modal Dialog End of dialog window.",
+      "position": 22551,
+      "chunk_id_original": "chunk_192_-6854980544097040295",
+      "sentence_count": 4,
+      "sentence_indices": [
+        577,
+        578,
+        579,
+        580
+      ],
+      "scores": {}
+    },
+    "0-chunk_193_113460396130621392": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "End of dialog window. Close Modal Dialog This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.",
+      "position": 22619,
+      "chunk_id_original": "chunk_193_113460396130621392",
+      "sentence_count": 4,
+      "sentence_indices": [
+        580,
+        581,
+        582,
+        583
+      ],
+      "scores": {}
+    },
+    "0-chunk_194_4111224586411898732": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "This modal can be closed by pressing the Escape key or activating the close button. Accessible Keys for Video Space Bar toggles play/pause; Right/Left Arrows seeks the video forwards and back 5 sec ;",
+      "position": 22683,
+      "chunk_id_original": "chunk_194_4111224586411898732",
+      "sentence_count": 4,
+      "sentence_indices": [
+        583,
+        584,
+        585,
+        586
+      ],
+      "scores": {}
+    },
+    "0-chunk_195_7706863727485401803": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Right/Left Arrows seeks the video forwards and back 5 sec ; Up/Down Arrows increase/decrease volume; M toggles mute on/off; F toggles fullscreen on/off Except IE 11 ;",
+      "position": 22827,
+      "chunk_id_original": "chunk_195_7706863727485401803",
+      "sentence_count": 4,
+      "sentence_indices": [
+        586,
+        587,
+        588,
+        589
+      ],
+      "scores": {}
+    },
+    "0-chunk_196_7381258198163707018": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "F toggles fullscreen on/off Except IE 11 ; The Tab key may be used in combination with the Enter/Return key to navigate and activate control buttons, such as caption on/off. FOMC Press Conference July 30, 2025",
+      "position": 22954,
+      "chunk_id_original": "chunk_196_7381258198163707018",
+      "sentence_count": 4,
+      "sentence_indices": [
+        589,
+        590,
+        591,
+        592
+      ],
+      "scores": {}
+    },
+    "0-chunk_197_4429514503661527256": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "July 30, 2025 FOMC Statement https://www.federalreserve.gov/newsevents/pressreleases/monetary20250730a.htm) Opening Statement PDF https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250730.pdf)\n! Image 7 https://www.federalreserve.gov/images/FedListens-Logotype-edt.png)",
+      "position": 23152,
+      "chunk_id_original": "chunk_197_4429514503661527256",
+      "sentence_count": 4,
+      "sentence_indices": [
+        592,
+        593,
+        594,
+        595
+      ],
+      "scores": {}
+    },
+    "0-chunk_198_-1357116149178854466": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Image 7 https://www.federalreserve.gov/images/FedListens-Logotype-edt.png) The Fed Listens initiative aims to engage a wide range of stakeholders to hear how the economy is progressing across the United States. Learn More https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-2025.htm) Press Releases",
+      "position": 23242,
+      "chunk_id_original": "chunk_198_-1357116149178854466",
+      "sentence_count": 4,
+      "sentence_indices": [
+        595,
+        596,
+        597,
+        598
+      ],
+      "scores": {}
+    },
+    "0-chunk_199_-8044854467613433450": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Press Releases Federal Reserve Board issues enforcement action https://www.federalreserve.gov/newsevents/pressreleases/enforcement20250812a.htm) 8/12/2025 Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee https://www.federalreserve.gov/newsevents/pressreleases/other20250807a.htm)",
+      "position": 23434,
+      "chunk_id_original": "chunk_199_-8044854467613433450",
+      "sentence_count": 4,
+      "sentence_indices": [
+        598,
+        599,
+        600,
+        601
+      ],
+      "scores": {}
+    },
+    "0-chunk_200_-8147718497904840030": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Reserve Board announces that it is seeking individuals to serve on its Insurance Policy Advisory Committee https://www.federalreserve.gov/newsevents/pressreleases/other20250807a.htm) 8/7/2025 Federal Reserve Board and FDIC release public sections of resolution plans for banking organizations https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250805a.htm) 8/5/2025",
+      "position": 23527,
+      "chunk_id_original": "chunk_200_-8147718497904840030",
+      "sentence_count": 4,
+      "sentence_indices": [
+        601,
+        602,
+        603,
+        604
+      ],
+      "scores": {}
+    },
+    "0-chunk_201_2633737510376353895": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "8/5/2025 Adriana D. Kugler submits resignation as a member of the Federal Reserve Board, effective August 8, 2025 https://www.federalreserve.gov/newsevents/pressreleases/other20250801a.htm) 8/1/2025",
+      "position": 23790,
+      "chunk_id_original": "chunk_201_2633737510376353895",
+      "sentence_count": 4,
+      "sentence_indices": [
+        604,
+        605,
+        606,
+        607
+      ],
+      "scores": {}
+    },
+    "0-chunk_202_6859476550880235776": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "8/1/2025 Federal Reserve Board joins other federal financial institution regulatory agencies in providing banks the flexibility to use an alternative method for collecting certain customer identification information https://www.federalreserve.gov/newsevents/pressreleases/bcreg20250731a.htm) 7/31/2025 View More https://www.federalreserve.gov/newsevents/pressreleases.htm)",
+      "position": 23923,
+      "chunk_id_original": "chunk_202_6859476550880235776",
+      "sentence_count": 4,
+      "sentence_indices": [
+        607,
+        608,
+        609,
+        610
+      ],
+      "scores": {}
+    },
+    "0-chunk_203_745325448277123306": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "View More https://www.federalreserve.gov/newsevents/pressreleases.htm) Speeches Speech by Vice Chair for Supervision Bowman on the economic outlook and community banking https://www.federalreserve.gov/newsevents/speech/bowman20250809a.htm) Vice Chair for Supervision Michelle W.",
+      "position": 24168,
+      "chunk_id_original": "chunk_203_745325448277123306",
+      "sentence_count": 4,
+      "sentence_indices": [
+        610,
+        611,
+        612,
+        613
+      ],
+      "scores": {}
+    },
+    "0-chunk_204_3279509079252577027": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Vice Chair for Supervision Michelle W. Bowman 8/9/2025 Statement by Vice Chair for Supervision Michelle W.",
+      "position": 24315,
+      "chunk_id_original": "chunk_204_3279509079252577027",
+      "sentence_count": 4,
+      "sentence_indices": [
+        613,
+        614,
+        615,
+        616
+      ],
+      "scores": {}
+    },
+    "0-chunk_205_-8282663958663550762": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Statement by Vice Chair for Supervision Michelle W. Bowman https://www.federalreserve.gov/newsevents/speech/bowman20250801a.htm) Vice Chair for Supervision Michelle W. Bowman",
+      "position": 24370,
+      "chunk_id_original": "chunk_205_-8282663958663550762",
+      "sentence_count": 4,
+      "sentence_indices": [
+        616,
+        617,
+        618,
+        619
+      ],
+      "scores": {}
+    },
+    "0-chunk_206_-6950547690717319078": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Bowman 8/1/2025 Statement by Governor Christopher J. Waller https://www.federalreserve.gov/newsevents/speech/waller20250801a.htm)",
+      "position": 24486,
+      "chunk_id_original": "chunk_206_-6950547690717319078",
+      "sentence_count": 4,
+      "sentence_indices": [
+        619,
+        620,
+        621,
+        622
+      ],
+      "scores": {}
+    },
+    "0-chunk_207_-8078170912001757011": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Waller https://www.federalreserve.gov/newsevents/speech/waller20250801a.htm) Governor Christopher J. Waller 8/1/2025",
+      "position": 24540,
+      "chunk_id_original": "chunk_207_-8078170912001757011",
+      "sentence_count": 4,
+      "sentence_indices": [
+        622,
+        623,
+        624,
+        625
+      ],
+      "scores": {}
+    },
+    "0-chunk_208_8115542222023574408": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "8/1/2025 Opening remarks by Chair Powell at the Integrated Review of the Capital Framework for Large Banks Conference https://www.federalreserve.gov/newsevents/speech/powell20250722a.htm) Chair Jerome H. Powell",
+      "position": 24597,
+      "chunk_id_original": "chunk_208_8115542222023574408",
+      "sentence_count": 4,
+      "sentence_indices": [
+        625,
+        626,
+        627,
+        628
+      ],
+      "scores": {}
+    },
+    "0-chunk_209_-5046872563778736217": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Powell 7/22/2025 Speech by Governor Waller on the economic outlook https://www.federalreserve.gov/newsevents/speech/waller20250717a.htm) Governor Christopher J.",
+      "position": 24749,
+      "chunk_id_original": "chunk_209_-5046872563778736217",
+      "sentence_count": 4,
+      "sentence_indices": [
+        628,
+        629,
+        630,
+        631
+      ],
+      "scores": {}
+    },
+    "0-chunk_210_3621113678274581393": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Governor Christopher J. Waller 7/17/2025 View More https://www.federalreserve.gov/newsevents/speeches.htm)",
+      "position": 24836,
+      "chunk_id_original": "chunk_210_3621113678274581393",
+      "sentence_count": 4,
+      "sentence_indices": [
+        631,
+        632,
+        633,
+        634
+      ],
+      "scores": {}
+    },
+    "0-chunk_211_-2506476917472111659": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "View More https://www.federalreserve.gov/newsevents/speeches.htm) Testimony Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress https://www.federalreserve.gov/newsevents/testimony/powell20250624a.htm) Chair Jerome H.",
+      "position": 24877,
+      "chunk_id_original": "chunk_211_-2506476917472111659",
+      "sentence_count": 4,
+      "sentence_indices": [
+        634,
+        635,
+        636,
+        637
+      ],
+      "scores": {}
+    },
+    "0-chunk_212_2502631932607445025": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Chair Jerome H. Powell 6/24/2025 Testimony by Governor Bowman at her nomination hearing https://www.federalreserve.gov/newsevents/testimony/bowman20250410a.htm)",
+      "position": 25018,
+      "chunk_id_original": "chunk_212_2502631932607445025",
+      "sentence_count": 4,
+      "sentence_indices": [
+        637,
+        638,
+        639,
+        640
+      ],
+      "scores": {}
+    },
+    "0-chunk_213_-2980492708682440697": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Testimony by Governor Bowman at her nomination hearing https://www.federalreserve.gov/newsevents/testimony/bowman20250410a.htm) Governor Michelle W. Bowman 4/10/2025",
+      "position": 25051,
+      "chunk_id_original": "chunk_213_-2980492708682440697",
+      "sentence_count": 4,
+      "sentence_indices": [
+        640,
+        641,
+        642,
+        643
+      ],
+      "scores": {}
+    },
+    "0-chunk_214_-1989714735764999943": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4/10/2025 Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress https://www.federalreserve.gov/newsevents/testimony/powell20250211a.htm) Chair Jerome H. Powell",
+      "position": 25153,
+      "chunk_id_original": "chunk_214_-1989714735764999943",
+      "sentence_count": 4,
+      "sentence_indices": [
+        643,
+        644,
+        645,
+        646
+      ],
+      "scores": {}
+    },
+    "0-chunk_215_6505617445554013581": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Powell 2/11/2025 Testimony by Vice Chair for Supervision Barr on supervision and regulation https://www.federalreserve.gov/newsevents/testimony/barr20241120a.htm) Vice Chair for Supervision Michael S.",
+      "position": 25280,
+      "chunk_id_original": "chunk_215_6505617445554013581",
+      "sentence_count": 4,
+      "sentence_indices": [
+        646,
+        647,
+        648,
+        649
+      ],
+      "scores": {}
+    },
+    "0-chunk_216_-7062052996179368888": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Vice Chair for Supervision Michael S. Barr 11/20/2024 Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress https://www.federalreserve.gov/newsevents/testimony/powell20240709a.htm)",
+      "position": 25392,
+      "chunk_id_original": "chunk_216_-7062052996179368888",
+      "sentence_count": 4,
+      "sentence_indices": [
+        649,
+        650,
+        651,
+        652
+      ],
+      "scores": {}
+    },
+    "0-chunk_217_-8888374153189233931": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Testimony by Chair Powell on the semiannual Monetary Policy Report to the Congress https://www.federalreserve.gov/newsevents/testimony/powell20240709a.htm) Chair Jerome H. Powell 7/9/2024",
+      "position": 25446,
+      "chunk_id_original": "chunk_217_-8888374153189233931",
+      "sentence_count": 4,
+      "sentence_indices": [
+        652,
+        653,
+        654,
+        655
+      ],
+      "scores": {}
+    },
+    "0-chunk_218_5293681935745936250": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "7/9/2024 View More https://www.federalreserve.gov/newsevents/testimony.htm) Calendar Fri 8/15",
+      "position": 25571,
+      "chunk_id_original": "chunk_218_5293681935745936250",
+      "sentence_count": 4,
+      "sentence_indices": [
+        655,
+        656,
+        657,
+        658
+      ],
+      "scores": {}
+    },
+    "0-chunk_219_-4855557819616420342": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Fri 8/15 9:15 a. m. G.",
+      "position": 25618,
+      "chunk_id_original": "chunk_219_-4855557819616420342",
+      "sentence_count": 4,
+      "sentence_indices": [
+        658,
+        659,
+        660,
+        661
+      ],
+      "scores": {}
+    },
+    "0-chunk_220_-739751282865463458": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "G. 17 Industrial Production and Capacity Utilization 1:00 p. m.",
+      "position": 25639,
+      "chunk_id_original": "chunk_220_-739751282865463458",
+      "sentence_count": 4,
+      "sentence_indices": [
+        661,
+        662,
+        663,
+        664
+      ],
+      "scores": {}
+    },
+    "0-chunk_221_6665201797418752460": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. CP Commercial Paper 4:15 p. m.",
+      "position": 25699,
+      "chunk_id_original": "chunk_221_6665201797418752460",
+      "sentence_count": 4,
+      "sentence_indices": [
+        664,
+        665,
+        666,
+        667
+      ],
+      "scores": {}
+    },
+    "0-chunk_222_-1942762087756906111": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. H. 15 Selected Interest Rates H.",
+      "position": 25730,
+      "chunk_id_original": "chunk_222_-1942762087756906111",
+      "sentence_count": 4,
+      "sentence_indices": [
+        667,
+        668,
+        669,
+        670
+      ],
+      "scores": {}
+    },
+    "0-chunk_223_-450838150024087365": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "H. 8 Assets and Liabilities of Commercial Banks in the U. S. Mon 8/18",
+      "position": 25762,
+      "chunk_id_original": "chunk_223_-450838150024087365",
+      "sentence_count": 4,
+      "sentence_indices": [
+        670,
+        671,
+        672,
+        673
+      ],
+      "scores": {}
+    },
+    "0-chunk_224_2789656503190337073": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Mon 8/18 1:00 p. m. CP Commercial Paper",
+      "position": 25821,
+      "chunk_id_original": "chunk_224_2789656503190337073",
+      "sentence_count": 4,
+      "sentence_indices": [
+        673,
+        674,
+        675,
+        676
+      ],
+      "scores": {}
+    },
+    "0-chunk_225_-7238981270343960449": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "CP Commercial Paper 4:15 p. m. H.",
+      "position": 25842,
+      "chunk_id_original": "chunk_225_-7238981270343960449",
+      "sentence_count": 4,
+      "sentence_indices": [
+        676,
+        677,
+        678,
+        679
+      ],
+      "scores": {}
+    },
+    "0-chunk_226_6388911771626398906": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "H. 10 Foreign Exchange Rates H. 15 Selected Interest Rates",
+      "position": 25873,
+      "chunk_id_original": "chunk_226_6388911771626398906",
+      "sentence_count": 4,
+      "sentence_indices": [
+        679,
+        680,
+        681,
+        682
+      ],
+      "scores": {}
+    },
+    "0-chunk_227_2503024123830089661": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "15 Selected Interest Rates Tue 8/19 1:00 p. m.",
+      "position": 25903,
+      "chunk_id_original": "chunk_227_2503024123830089661",
+      "sentence_count": 4,
+      "sentence_indices": [
+        682,
+        683,
+        684,
+        685
+      ],
+      "scores": {}
+    },
+    "0-chunk_228_-8637726861666902143": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. CP Commercial Paper 2:10 p. m.",
+      "position": 25948,
+      "chunk_id_original": "chunk_228_-8637726861666902143",
+      "sentence_count": 4,
+      "sentence_indices": [
+        685,
+        686,
+        687,
+        688
+      ],
+      "scores": {}
+    },
+    "0-chunk_229_-3758983903447595829": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. Speech Vice Chair for Supervision Michelle W. Bowman 4:15 p.",
+      "position": 25979,
+      "chunk_id_original": "chunk_229_-3758983903447595829",
+      "sentence_count": 4,
+      "sentence_indices": [
+        688,
+        689,
+        690,
+        691
+      ],
+      "scores": {}
+    },
+    "0-chunk_230_5423715893936694306": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4:15 p. m. H. 15 Selected Interest Rates",
+      "position": 26035,
+      "chunk_id_original": "chunk_230_5423715893936694306",
+      "sentence_count": 4,
+      "sentence_indices": [
+        691,
+        692,
+        693,
+        694
+      ],
+      "scores": {}
+    },
+    "0-chunk_231_7576247000657981789": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "15 Selected Interest Rates Wed 8/20 11:00 a. m.",
+      "position": 26048,
+      "chunk_id_original": "chunk_231_7576247000657981789",
+      "sentence_count": 4,
+      "sentence_indices": [
+        694,
+        695,
+        696,
+        697
+      ],
+      "scores": {}
+    },
+    "0-chunk_232_2626229490719632321": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. Speech Governor Christopher J. Waller 1:00 p.",
+      "position": 26094,
+      "chunk_id_original": "chunk_232_2626229490719632321",
+      "sentence_count": 4,
+      "sentence_indices": [
+        697,
+        698,
+        699,
+        700
+      ],
+      "scores": {}
+    },
+    "0-chunk_233_-6415299722831251225": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "1:00 p. m. CP Commercial Paper 2:00 p.",
+      "position": 26135,
+      "chunk_id_original": "chunk_233_-6415299722831251225",
+      "sentence_count": 4,
+      "sentence_indices": [
+        700,
+        701,
+        702,
+        703
+      ],
+      "scores": {}
+    },
+    "0-chunk_234_1527733139611680577": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "2:00 p. m. FOMC Minutes 4:15 p.",
+      "position": 26166,
+      "chunk_id_original": "chunk_234_1527733139611680577",
+      "sentence_count": 4,
+      "sentence_indices": [
+        703,
+        704,
+        705,
+        706
+      ],
+      "scores": {}
+    },
+    "0-chunk_235_5423715893936694306": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4:15 p. m. H. 15 Selected Interest Rates",
+      "position": 26190,
+      "chunk_id_original": "chunk_235_5423715893936694306",
+      "sentence_count": 4,
+      "sentence_indices": [
+        706,
+        707,
+        708,
+        709
+      ],
+      "scores": {}
+    },
+    "0-chunk_236_8843553279142638900": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "15 Selected Interest Rates Thu 8/21 1:00 p. m.",
+      "position": 26203,
+      "chunk_id_original": "chunk_236_8843553279142638900",
+      "sentence_count": 4,
+      "sentence_indices": [
+        709,
+        710,
+        711,
+        712
+      ],
+      "scores": {}
+    },
+    "0-chunk_237_6665201797418752460": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. CP Commercial Paper 4:15 p. m.",
+      "position": 26248,
+      "chunk_id_original": "chunk_237_6665201797418752460",
+      "sentence_count": 4,
+      "sentence_indices": [
+        712,
+        713,
+        714,
+        715
+      ],
+      "scores": {}
+    },
+    "0-chunk_238_-1898093966728541766": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "m. H. 15 Selected Interest Rates 4:30 p.",
+      "position": 26279,
+      "chunk_id_original": "chunk_238_-1898093966728541766",
+      "sentence_count": 4,
+      "sentence_indices": [
+        715,
+        716,
+        717,
+        718
+      ],
+      "scores": {}
+    },
+    "0-chunk_239_4536666030614224862": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4:30 p. m. H. 4.",
+      "position": 26311,
+      "chunk_id_original": "chunk_239_4536666030614224862",
+      "sentence_count": 4,
+      "sentence_indices": [
+        718,
+        719,
+        720,
+        721
+      ],
+      "scores": {}
+    },
+    "0-chunk_240_693508540669686962": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "4. 1 Factors Affecting Reserve Balances Next Week View Full Calendar https://www.federalreserve.gov/newsevents/calendar.htm)",
+      "position": 26324,
+      "chunk_id_original": "chunk_240_693508540669686962",
+      "sentence_count": 4,
+      "sentence_indices": [
+        721,
+        722,
+        723,
+        724
+      ],
+      "scores": {}
+    },
+    "0-chunk_241_7599907233151458623": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "View Full Calendar https://www.federalreserve.gov/newsevents/calendar.htm) Related Recent Postings https://www.federalreserve.gov/recentpostings.htm) Federal Open Market Committee Meetings https://www.federalreserve.gov/monetarypolicy/fomc.htm)",
+      "position": 26373,
+      "chunk_id_original": "chunk_241_7599907233151458623",
+      "sentence_count": 4,
+      "sentence_indices": [
+        724,
+        725,
+        726,
+        727
+      ],
+      "scores": {}
+    },
+    "0-chunk_242_-7971934207033130336": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Federal Open Market Committee Meetings https://www.federalreserve.gov/monetarypolicy/fomc.htm) Regulatory Reform https://www.federalreserve.gov/reform.htm) Proposals for Comment https://www.federalreserve.gov/apps/foia/proposedregs.aspx) Other Public Communication https://www.federalreserve.gov/newsevents/other-public-communications.htm)",
+      "position": 26454,
+      "chunk_id_original": "chunk_242_-7971934207033130336",
+      "sentence_count": 4,
+      "sentence_indices": [
+        727,
+        728,
+        729,
+        730
+      ],
+      "scores": {}
+    },
+    "0-chunk_243_-8153562106963785710": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Other Public Communication https://www.federalreserve.gov/newsevents/other-public-communications.htm) Conferences https://www.federalreserve.gov/conferences.htm) Recent Publications Monetary Policy Report https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm)",
+      "position": 26589,
+      "chunk_id_original": "chunk_243_-8153562106963785710",
+      "sentence_count": 4,
+      "sentence_indices": [
+        730,
+        731,
+        732,
+        733
+      ],
+      "scores": {}
+    },
+    "0-chunk_244_5040092230457974680": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Monetary Policy Report https://www.federalreserve.gov/monetarypolicy/publications/mpr_default.htm) Annual Report https://www.federalreserve.gov/publications/annual-report.htm) Last Update: August 12, 2025 Back to Top https://www.federalreserve.gov/newsevents.htm \"Scroll To Top\"",
+      "position": 26686,
+      "chunk_id_original": "chunk_244_5040092230457974680",
+      "sentence_count": 4,
+      "sentence_indices": [
+        733,
+        734,
+        735,
+        736
+      ],
+      "scores": {}
+    },
+    "0-chunk_245_4450851284348438028": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Back to Top https://www.federalreserve.gov/newsevents.htm \"Scroll To Top\" Board of Governors of the Federal Reserve System About the Fed https://www.federalreserve.gov/aboutthefed.htm) News & Events https://www.federalreserve.gov/newsevents.htm",
+      "position": 26791,
+      "chunk_id_original": "chunk_245_4450851284348438028",
+      "sentence_count": 4,
+      "sentence_indices": [
+        736,
+        737,
+        738,
+        739
+      ],
+      "scores": {}
+    },
+    "0-chunk_246_903543057144320": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "News & Events https://www.federalreserve.gov/newsevents.htm Monetary Policy https://www.federalreserve.gov/monetarypolicy.htm) Supervision & Regulation https://www.federalreserve.gov/supervisionreg.htm) Financial Stability https://www.federalreserve.gov/financial-stability.htm)",
+      "position": 26918,
+      "chunk_id_original": "chunk_246_903543057144320",
+      "sentence_count": 4,
+      "sentence_indices": [
+        739,
+        740,
+        741,
+        742
+      ],
+      "scores": {}
+    },
+    "0-chunk_247_-4689028222337104577": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Financial Stability https://www.federalreserve.gov/financial-stability.htm) Payment Systems https://www.federalreserve.gov/paymentsystems.htm) Economic Research https://www.federalreserve.gov/econres.htm) Data https://www.federalreserve.gov/data.htm)",
+      "position": 27027,
+      "chunk_id_original": "chunk_247_-4689028222337104577",
+      "sentence_count": 4,
+      "sentence_indices": [
+        742,
+        743,
+        744,
+        745
+      ],
+      "scores": {}
+    },
+    "0-chunk_248_3587387091870832703": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Data https://www.federalreserve.gov/data.htm) Consumers & Communities https://www.federalreserve.gov/consumerscommunities.htm) Connect with the Board https://www.federalreserve.gov/aboutthefed/aroundtheboard/stayconnected-qr-code-2.htm) Tools and Information",
+      "position": 27136,
+      "chunk_id_original": "chunk_248_3587387091870832703",
+      "sentence_count": 4,
+      "sentence_indices": [
+        745,
+        746,
+        747,
+        748
+      ],
+      "scores": {}
+    },
+    "0-chunk_249_-1328004721008869434": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Tools and Information Contact https://www.federalreserve.gov/aboutthefed/contact-us-topics.htm) Publications https://www.federalreserve.gov/publications.htm) Freedom of Information FOIA https://www.federalreserve.gov/foia/about_foia.htm)",
+      "position": 27245,
+      "chunk_id_original": "chunk_249_-1328004721008869434",
+      "sentence_count": 4,
+      "sentence_indices": [
+        748,
+        749,
+        750,
+        751
+      ],
+      "scores": {}
+    },
+    "0-chunk_250_652209473331942080": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Freedom of Information FOIA https://www.federalreserve.gov/foia/about_foia.htm) Office of Inspector General https://oig.federalreserve.gov/) Budget & Performance https://www.federalreserve.gov/publications/annual-report.htm) Audit https://www.federalreserve.gov/regreform/audit.htm) No FEAR Act https://www.federalreserve.gov/eeo.htm)",
+      "position": 27326,
+      "chunk_id_original": "chunk_250_652209473331942080",
+      "sentence_count": 4,
+      "sentence_indices": [
+        751,
+        752,
+        753,
+        754
+      ],
+      "scores": {}
+    },
+    "0-chunk_251_-1158191534753733898": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "No FEAR Act https://www.federalreserve.gov/eeo.htm) Español https://www.federalreserve.gov/espanol.htm) Website Policies https://www.federalreserve.gov/website-linking-policies.htm) Privacy Program https://www.federalreserve.gov/privacy.htm) Accessibility https://www.federalreserve.gov/accessibility.htm)",
+      "position": 27483,
+      "chunk_id_original": "chunk_251_-1158191534753733898",
+      "sentence_count": 4,
+      "sentence_indices": [
+        754,
+        755,
+        756,
+        757
+      ],
+      "scores": {}
+    },
+    "0-chunk_252_-3153699920520849202": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Accessibility https://www.federalreserve.gov/accessibility.htm) Stay Connected Federal Reserve Facebook Page https://www.facebook.com/federalreserve) Federal Reserve Instagram Page https://www.instagram.com/federalreserveboard/) Federal Reserve YouTube Page https://www.youtube.com/federalreserve) Federal Reserve Flickr Page https://www.flickr.com/photos/federalreserve/) Federal Reserve LinkedIn Page https://www.linkedin.com/company/federal-reserve-board) Federal Reserve Threads Page https://www.threads.net/@federalreserveboard) Link to Federal Reserve X Page https://x.com/federalreserve) Link to Federal Reserve Bluesky Page https://bsky.app/profile/federalreserve.gov) Subscribe to RSS https://www.federalreserve.gov/feeds/feeds. Image 8: Link to USA.",
+      "position": 27611,
+      "chunk_id_original": "chunk_252_-3153699920520849202",
+      "sentence_count": 4,
+      "sentence_indices": [
+        757,
+        758,
+        759,
+        761
+      ],
+      "scores": {}
+    },
+    "0-chunk_253_1283629870578030829": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Image 8: Link to USA. gov https://www.federalreserve.gov/images/USAGov%402x.png) https://www.usa.gov/ \"Link to USA. gov\" ! Image 9: Link to Open.",
+      "position": 28124,
+      "chunk_id_original": "chunk_253_1283629870578030829",
+      "sentence_count": 4,
+      "sentence_indices": [
+        761,
+        762,
+        763,
+        764
+      ],
+      "scores": {}
+    },
+    "0-chunk_254_2384691056799228923": {
+      "url": "https://www.federalreserve.gov/newsevents.htm",
+      "chunk_text": "Image 9: Link to Open. gov https://www.federalreserve.gov/images/OpenGov%402x.png) https://www.federalreserve.gov/open/open.htm \"Link to Open. gov\" Board of Governors of the Federal Reserve System",
+      "position": 28205,
+      "chunk_id_original": "chunk_254_2384691056799228923",
+      "sentence_count": 4,
+      "sentence_indices": [
+        764,
+        765,
+        766,
+        767
+      ],
+      "scores": {}
+    }
+  },
+  "related_query": {}
+}

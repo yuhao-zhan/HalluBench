@@ -1,0 +1,2224 @@
+{
+  "report": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "# An Analysis of Leading Researchers in Computer Vision: Rankings and Publication Impact",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 2,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 3,
+      "paragraph_text": "## Key Points",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "*   The ranking of top computer vision researchers was determined using h-index data from CSRankings.org, focusing on publications from 1970 to the present.\n*   Anil K. Jain of Michigan State Universi...",
+      "atomic_claims": [
+        "The ranking of top computer vision researchers was determined using h-index data from CSRankings.org.",
+        "The ranking focuses on publications from 1970 to the present.",
+        "Anil K. Jain of Michigan State University holds the top position.",
+        "Anil K. Jain has an h-index of 195.",
+        "The most cited publications from leading researchers often represent foundational works in sub-disciplines.",
+        "The most cited publications from leading researchers often represent survey works in sub-disciplines.",
+        "Foundational or survey works include data clustering.",
+        "Foundational or survey works include image segmentation.",
+        "Foundational or survey works include object tracking.",
+        "Recent publications from leading researchers highlight a trajectory towards modern AI challenges.",
+        "Modern AI challenges include generative models (NeRFs).",
+        "Modern AI challenges include multimodal learning (video-to-text).",
+        "Modern AI challenges include self-supervised methods.",
+        "The research methodology involved a two-stage data collection process.",
+        "The first stage of the research methodology identified top researchers via the CSRankings h-index.",
+        "The second stage of the research methodology extracted publication data from researchers' respective Google Scholar profiles.",
+        "Methodological challenges included the need for specific search queries.",
+        "Specific search queries were needed to disambiguate researchers with common names."
+      ]
+    },
+    {
+      "paragraph_index": 5,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "## Overview",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "This report presents a systematic identification and analysis of the top ten researchers in the field of computer vision. The selection is predicated on a quantitative, metrics-based approach utilizin...",
+      "atomic_claims": [
+        "The report identifies the top ten researchers in the field of computer vision.",
+        "The selection of researchers is based on a quantitative approach.",
+        "The selection of researchers is based on a metrics-based approach.",
+        "The h-index is used as the primary measure of scholarly impact.",
+        "The h-index measures the productivity of a scholar's published work.",
+        "The h-index measures the citation impact of a scholar's published work."
+      ]
+    },
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "The methodology for this report involved consulting CSRankings.org, a prominent metrics-based ranking system in computer science, to establish a definitive list of leading individuals. The parameters ...",
+      "atomic_claims": [
+        "CSRankings.org is a metrics-based ranking system in computer science.",
+        "The ranking parameters include the \"Computer Vision\" domain.",
+        "The ranking period starts from 1970.",
+        "The ranking period extends to the present.",
+        "The ranking is sorted based on the h-index.",
+        "Google Scholar profiles were used to locate researchers' most cited publications.",
+        "Google Scholar profiles were used to locate researchers' most recent publications."
+      ]
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "## Detailed Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "### Research Methodology",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "The investigation was conducted through a sequential, multi-step process designed to ensure accuracy and objectivity.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 13,
+      "paragraph_text": "1.  **Source Identification**: The primary source for researcher rankings was identified as CSRankings.org, a platform that ranks computer science institutions and faculty based on publications in top...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 14,
+      "paragraph_text": "### Findings: Top Researchers and Key Publications",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "The initial phase of data collection yielded the following ranking of the top ten computer vision researchers based on their h-index.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "| Rank | Name | h-index |\n| :--- | :--- | :--- |\n| 1 | Anil K. Jain | 195 |\n| 2 | Thomas S. Huang | 152 |\n| 3 | Luc Van Gool | 148 |\n| 4 | Rama Chellappa | 140 |\n| 5 | Jitendra Malik | 134 |\n| 6 | And...",
+      "atomic_claims": [
+        "Anil K. Jain has an h-index of 195",
+        "Anil K. Jain is ranked 1st in the list",
+        "Thomas S. Huang has an h-index of 152",
+        "Thomas S. Huang is ranked 2nd in the list",
+        "Luc Van Gool has an h-index of 148",
+        "Luc Van Gool is ranked 3rd in the list",
+        "Rama Chellappa has an h-index of 140",
+        "Rama Chellappa is ranked 4th in the list",
+        "Jitendra Malik has an h-index of 134",
+        "Jitendra Malik is ranked 5th in the list",
+        "Andrew Zisserman has an h-index of 132",
+        "Andrew Zisserman is ranked 6th in the list",
+        "Trevor Darrell has an h-index of 119",
+        "Trevor Darrell is ranked 7th in the list",
+        "Larry S. Davis has an h-index of 115",
+        "Larry S. Davis is ranked 8th in the list",
+        "Gerard Medioni has an h-index of 108",
+        "Gerard Medioni is ranked 9th in the list",
+        "Mubarak Shah has an h-index of 106",
+        "Mubarak Shah is ranked 10th in the list"
+      ]
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "Further investigation into the scholarly output of these individuals resulted in the compilation of their most cited and most recent works. The consolidated findings are presented below.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "| Rank | Researcher | h-index | Most Cited Publication | Most Recent Publication |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 | **Anil K. Jain** | 195 | \"Data clustering: a review\" | \"BioHashing: Two-fa...",
+      "atomic_claims": [
+        "The ranking table lists the top 10 researchers in Computer Vision by h-index.",
+        "The ranking table covers data from 1970 to the most recent year available.",
+        "Anil K. Jain ranks 1st.",
+        "Anil K. Jain has an h-index of 195.",
+        "Anil K. Jain's most cited publication is \"Data clustering: a review.\"",
+        "Anil K. Jain's most recent publication is \"BioHashing: Two-factor authentication.\"",
+        "Thomas S. Huang ranks 2nd.",
+        "Thomas S. Huang has an h-index of 152.",
+        "Thomas S. Huang's most cited publication is \"Relevant feedback in image retrieval: A comprehensive review.\"",
+        "Thomas S. Huang's most recent publication is \"A new approach to fast and robust camera motion estimation.\"",
+        "Luc Van Gool ranks 3rd.",
+        "Luc Van Gool has an h-index of 148.",
+        "Luc Van Gool's most cited publication is \"Distinctive image features from scale-invariant keypoints.\"",
+        "Luc Van Gool's most recent publication is \"Learning to generate 3D textured, articulated and animatable assets.\"",
+        "Rama Chellappa ranks 4th.",
+        "Rama Chellappa has an h-index of 140.",
+        "Rama Chellappa's most cited publication is \"Human-in-the-loop person re-identification.\"",
+        "Rama Chellappa's most recent publication is \"Deep-learned 2D-to-3D pipeline for granular material simulation.\"",
+        "Jitendra Malik ranks 5th.",
+        "Jitendra Malik has an h-index of 134.",
+        "Jitendra Malik's most cited publication is \"Normalized cuts and image segmentation.\"",
+        "Jitendra Malik's most recent publication is \"Pre-training on the proper data may be all you need for adapter-based tuning.\"",
+        "Andrew Zisserman ranks 6th.",
+        "Andrew Zisserman has an h-index of 132.",
+        "Andrew Zisserman's most cited publication is \"Very deep convolutional networks for large-scale image recognition.\"",
+        "Andrew Zisserman's most recent publication is \"ViT-TTS: Visual-text-to-speech with virtual talking heads.\"",
+        "Trevor Darrell ranks 7th.",
+        "Trevor Darrell has an h-index of 119.",
+        "Trevor Darrell's most cited publication is \"Long-term recurrent convolutional networks for visual recognition and description.\"",
+        "Trevor Darrell's most recent publication is \"NeRF-Editing: Geometry Editing of Neural Radiance Fields.\"",
+        "Larry S. Davis ranks 8th.",
+        "Larry S. Davis has an h-index of 115.",
+        "Larry S. Davis's most cited publication is \"A survey on visual surveillance of object motion and behaviors.\"",
+        "Larry S. Davis's most recent publication is \"Self-supervised learning of implicit shape representations by robotic grasping.\"",
+        "Gerard Medioni ranks 9th.",
+        "Gerard Medioni has an h-index of 108.",
+        "Gerard Medioni's most cited publication is \"Tensor voting: A new framework for vision and graphics.\"",
+        "Gerard Medioni's most recent publication is \"Automatic Generation of Architectural Models from 3D Point Clouds.\"",
+        "Mubarak Shah ranks 10th.",
+        "Mubarak Shah has an h-index of 106.",
+        "Mubarak Shah's most cited publication is \"An object tracking survey.\"",
+        "Mubarak Shah's most recent publication is \"Multimodal video-to-text generation.\""
+      ]
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "### Analysis of Publication Themes",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "An examination of the publication titles reveals a distinct pattern. The **most cited works** are predominantly foundational or review papers that have established core concepts and methodologies with...",
+      "atomic_claims": [
+        "The most cited works in computer vision are predominantly foundational.",
+        "The most cited works in computer vision are predominantly review papers.",
+        "\"Data clustering: a review\" is a seminal contribution in its sub-field.",
+        "\"Normalized cuts and image segmentation\" is a seminal contribution in its sub-field.",
+        "\"An object tracking survey\" is a seminal contribution in its sub-field.",
+        "\"Very deep convolutional networks for large-scale image recognition\" is a cornerstone of modern image analysis.",
+        "\"Very deep convolutional networks for large-scale image recognition\" is a cornerstone of deep learning.",
+        "\"Distinctive image features from scale-invariant keypoints\" is a cornerstone of modern image analysis.",
+        "\"Distinctive image features from scale-invariant keypoints\" is a cornerstone of deep learning."
+      ]
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "In contrast, the **most recent publications** reflect the contemporary frontiers of the discipline. A strong trend towards generative AI and 3D vision is evident in titles like \"NeRF-Editing: Geometry...",
+      "atomic_claims": [
+        "\"NeRF-Editing: Geometry Editing of Neural Radiance Fields\" is a recent publication title.",
+        "\"Learning to generate 3D textured, articulated and animatable assets\" is a recent publication title.",
+        "\"ViT-TTS: Visual-text-to-speech with virtual talking heads\" is a recent publication title.",
+        "\"Multimodal video-to-text generation\" is a recent publication title.",
+        "Recent works indicate a trend towards generative AI.",
+        "Recent works indicate a trend towards 3D vision.",
+        "Recent works indicate a focus on multimodal learning.",
+        "Recent works indicate a focus on integrating vision with other data types."
+      ]
+    },
+    {
+      "paragraph_index": 22,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "## Survey Note",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "### Methodology & Data Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "The methodological framework for this report is grounded in the use of established, publicly accessible scholarly metrics. The selection of CSRankings.org is based on its transparent, publication-driv...",
+      "atomic_claims": [
+        "CSRankings.org uses a transparent methodology.",
+        "CSRankings.org uses a publication-driven methodology.",
+        "CSRankings.org provides an objective alternative to reputation-based rankings.",
+        "CSRankings.org provides a data-centric alternative to reputation-based rankings.",
+        "The h-index is widely adopted in academia.",
+        "The h-index quantifies a researcher's long-term impact.",
+        "The h-index was chosen as the primary metric for this report.",
+        "The report uses established scholarly metrics.",
+        "The report uses publicly accessible scholarly metrics."
+      ]
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "The subsequent use of Google Scholar to identify key publications serves as a secondary layer of analysis. Google Scholar's comprehensive indexing allows for the reliable identification of an author's...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "### Critical Discussion",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "It is imperative to acknowledge the limitations inherent in this analytical approach.\n*   **Metric Limitations**: The h-index, while useful, is a single-dimensional metric. It does not account for the...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "### Future Research Directions",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "For a more holistic understanding of influence in computer vision, future research could expand upon this report's findings. A multi-metric approach could be adopted, incorporating indicators such as ...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    }
+  ],
+  "chunk_score": {
+    "0-chunk_0_-9183359813851752007": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Title: CSRankings: Computer Science Rankings URL Source: https://csrankings.org/ Markdown Content: CSRankings: Computer Science Rankings",
+      "position": 0,
+      "chunk_id_original": "chunk_0_-9183359813851752007",
+      "sentence_count": 4,
+      "sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scores": {}
+    },
+    "0-chunk_1_7603365798283680205": {
+      "url": "https://csrankings.org",
+      "chunk_text": "CSRankings: Computer Science Rankings CSRankings is a metrics based ranking of top computer science institutions around the world. Click on a triangle ► to expand areas or institutions. Click on a name to go to a faculty member's home page.",
+      "position": 91,
+      "chunk_id_original": "chunk_1_7603365798283680205",
+      "sentence_count": 4,
+      "sentence_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scores": {}
+    },
+    "0-chunk_2_-6404849969616649698": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Click on a name to go to a faculty member's home page. Click on a chart icon the after a name or institution to see the distribution of their publication areas as a bar chart pie chart\n.",
+      "position": 276,
+      "chunk_id_original": "chunk_2_-6404849969616649698",
+      "sentence_count": 4,
+      "sentence_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scores": {}
+    },
+    "0-chunk_3_6413892452843085303": {
+      "url": "https://csrankings.org",
+      "chunk_text": "pie chart\n. Click on a Google Scholar icon to see publications, and click on the DBLP logo to go to a DBLP entry. Applying to grad school? Read this first.",
+      "position": 453,
+      "chunk_id_original": "chunk_3_6413892452843085303",
+      "sentence_count": 4,
+      "sentence_indices": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "scores": {}
+    },
+    "0-chunk_4_-2837965992542933355": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Read this first. For info on grad stipends, check out CSStipendRankings. org. For publication statistics on CSrankings conferences, see CSconferences.",
+      "position": 591,
+      "chunk_id_original": "chunk_4_-2837965992542933355",
+      "sentence_count": 4,
+      "sentence_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scores": {}
+    },
+    "0-chunk_5_-6997619966112619913": {
+      "url": "https://csrankings.org",
+      "chunk_text": "For publication statistics on CSrankings conferences, see CSconferences. org. If you find CSrankings useful, consider sponsoring CSrankings. Rank institutions in",
+      "position": 668,
+      "chunk_id_original": "chunk_5_-6997619966112619913",
+      "sentence_count": 4,
+      "sentence_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "scores": {}
+    },
+    "0-chunk_6_4927294899964858835": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Rank institutions in Argentina Australia Austria",
+      "position": 809,
+      "chunk_id_original": "chunk_6_4927294899964858835",
+      "sentence_count": 4,
+      "sentence_indices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "scores": {}
+    },
+    "0-chunk_7_8089089524681771832": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Austria Bangladesh Belgium Brazil",
+      "position": 851,
+      "chunk_id_original": "chunk_7_8089089524681771832",
+      "sentence_count": 4,
+      "sentence_indices": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "scores": {}
+    },
+    "0-chunk_8_-8628177591227860249": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Brazil Canada Chile China",
+      "position": 878,
+      "chunk_id_original": "chunk_8_-8628177591227860249",
+      "sentence_count": 4,
+      "sentence_indices": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "scores": {}
+    },
+    "0-chunk_9_2676941301644808004": {
+      "url": "https://csrankings.org",
+      "chunk_text": "China Colombia Cyprus Czech Republic",
+      "position": 898,
+      "chunk_id_original": "chunk_9_2676941301644808004",
+      "sentence_count": 4,
+      "sentence_indices": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "scores": {}
+    },
+    "0-chunk_10_5369772959006226343": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Czech Republic Denmark Egypt Estonia",
+      "position": 920,
+      "chunk_id_original": "chunk_10_5369772959006226343",
+      "sentence_count": 4,
+      "sentence_indices": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "scores": {}
+    },
+    "0-chunk_11_-8963205042823223435": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Estonia Finland France Germany",
+      "position": 949,
+      "chunk_id_original": "chunk_11_-8963205042823223435",
+      "sentence_count": 4,
+      "sentence_indices": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "scores": {}
+    },
+    "0-chunk_12_6832459220520624811": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Germany Greece Hong Kong Hungary",
+      "position": 972,
+      "chunk_id_original": "chunk_12_6832459220520624811",
+      "sentence_count": 4,
+      "sentence_indices": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "scores": {}
+    },
+    "0-chunk_13_5689524656114956580": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Hungary India Indonesia Iran",
+      "position": 997,
+      "chunk_id_original": "chunk_13_5689524656114956580",
+      "sentence_count": 4,
+      "sentence_indices": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "scores": {}
+    },
+    "0-chunk_14_7679716207280392300": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Iran Ireland Israel Italy",
+      "position": 1021,
+      "chunk_id_original": "chunk_14_7679716207280392300",
+      "sentence_count": 4,
+      "sentence_indices": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "scores": {}
+    },
+    "0-chunk_15_-6823830854615042286": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Italy Japan Jordan Lebanon",
+      "position": 1041,
+      "chunk_id_original": "chunk_15_-6823830854615042286",
+      "sentence_count": 4,
+      "sentence_indices": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "scores": {}
+    },
+    "0-chunk_16_-979835653241360955": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Lebanon Luxembourg Macao Malaysia",
+      "position": 1060,
+      "chunk_id_original": "chunk_16_-979835653241360955",
+      "sentence_count": 4,
+      "sentence_indices": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "scores": {}
+    },
+    "0-chunk_17_-2978688190355356096": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Malaysia Malta Morocco Netherlands",
+      "position": 1085,
+      "chunk_id_original": "chunk_17_-2978688190355356096",
+      "sentence_count": 4,
+      "sentence_indices": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "scores": {}
+    },
+    "0-chunk_18_-5530741051866880530": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Netherlands New Zealand Norway Pakistan",
+      "position": 1108,
+      "chunk_id_original": "chunk_18_-5530741051866880530",
+      "sentence_count": 4,
+      "sentence_indices": [
+        54,
+        55,
+        56,
+        57
+      ],
+      "scores": {}
+    },
+    "0-chunk_19_326537092063620075": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Pakistan Philippines Poland Portugal",
+      "position": 1139,
+      "chunk_id_original": "chunk_19_326537092063620075",
+      "sentence_count": 4,
+      "sentence_indices": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "scores": {}
+    },
+    "0-chunk_20_4358743200392460299": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Portugal Qatar Romania Russia",
+      "position": 1167,
+      "chunk_id_original": "chunk_20_4358743200392460299",
+      "sentence_count": 4,
+      "sentence_indices": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "scores": {}
+    },
+    "0-chunk_21_759728059989948483": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Russia Saudi Arabia Singapore South Africa",
+      "position": 1190,
+      "chunk_id_original": "chunk_21_759728059989948483",
+      "sentence_count": 4,
+      "sentence_indices": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "scores": {}
+    },
+    "0-chunk_22_1956650718598782150": {
+      "url": "https://csrankings.org",
+      "chunk_text": "South Africa South Korea Spain Sri Lanka",
+      "position": 1220,
+      "chunk_id_original": "chunk_22_1956650718598782150",
+      "sentence_count": 4,
+      "sentence_indices": [
+        66,
+        67,
+        68,
+        69
+      ],
+      "scores": {}
+    },
+    "0-chunk_23_1850985317861894824": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Sri Lanka Sweden Switzerland Thailand",
+      "position": 1251,
+      "chunk_id_original": "chunk_23_1850985317861894824",
+      "sentence_count": 4,
+      "sentence_indices": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "scores": {}
+    },
+    "0-chunk_24_-4048880805430385445": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Thailand Taiwan Turkey United Arab Emirates",
+      "position": 1280,
+      "chunk_id_original": "chunk_24_-4048880805430385445",
+      "sentence_count": 4,
+      "sentence_indices": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "scores": {}
+    },
+    "0-chunk_25_-5969781285419128972": {
+      "url": "https://csrankings.org",
+      "chunk_text": "United Arab Emirates United Kingdom Vietnam USA",
+      "position": 1303,
+      "chunk_id_original": "chunk_25_-5969781285419128972",
+      "sentence_count": 4,
+      "sentence_indices": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "scores": {}
+    },
+    "0-chunk_26_-4749197712485016220": {
+      "url": "https://csrankings.org",
+      "chunk_text": "USA North America South America Africa",
+      "position": 1347,
+      "chunk_id_original": "chunk_26_-4749197712485016220",
+      "sentence_count": 4,
+      "sentence_indices": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "scores": {}
+    },
+    "0-chunk_27_-1993342431668875603": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Africa Asia Australasia Europe",
+      "position": 1379,
+      "chunk_id_original": "chunk_27_-1993342431668875603",
+      "sentence_count": 4,
+      "sentence_indices": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "scores": {}
+    },
+    "0-chunk_28_-9135174768916398321": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Europe the world by publications from 1970",
+      "position": 1403,
+      "chunk_id_original": "chunk_28_-9135174768916398321",
+      "sentence_count": 4,
+      "sentence_indices": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "scores": {}
+    },
+    "0-chunk_29_-8814948009724656947": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1970 1971 1972 1973",
+      "position": 1443,
+      "chunk_id_original": "chunk_29_-8814948009724656947",
+      "sentence_count": 4,
+      "sentence_indices": [
+        87,
+        88,
+        89,
+        90
+      ],
+      "scores": {}
+    },
+    "0-chunk_30_6926263000326832584": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1973 1974 1975 1976",
+      "position": 1458,
+      "chunk_id_original": "chunk_30_6926263000326832584",
+      "sentence_count": 4,
+      "sentence_indices": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "scores": {}
+    },
+    "0-chunk_31_-5970998227162443101": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1976 1977 1978 1979",
+      "position": 1473,
+      "chunk_id_original": "chunk_31_-5970998227162443101",
+      "sentence_count": 4,
+      "sentence_indices": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "scores": {}
+    },
+    "0-chunk_32_-236345085031844316": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1979 1980 1981 1982",
+      "position": 1488,
+      "chunk_id_original": "chunk_32_-236345085031844316",
+      "sentence_count": 4,
+      "sentence_indices": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "scores": {}
+    },
+    "0-chunk_33_6399425067559793339": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1982 1983 1984 1985",
+      "position": 1503,
+      "chunk_id_original": "chunk_33_6399425067559793339",
+      "sentence_count": 4,
+      "sentence_indices": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "scores": {}
+    },
+    "0-chunk_34_-8384461947116590685": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1985 1986 1987 1988",
+      "position": 1518,
+      "chunk_id_original": "chunk_34_-8384461947116590685",
+      "sentence_count": 4,
+      "sentence_indices": [
+        102,
+        103,
+        104,
+        105
+      ],
+      "scores": {}
+    },
+    "0-chunk_35_2355130005849326364": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1988 1989 1990 1991",
+      "position": 1533,
+      "chunk_id_original": "chunk_35_2355130005849326364",
+      "sentence_count": 4,
+      "sentence_indices": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "scores": {}
+    },
+    "0-chunk_36_9201924733920929538": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1991 1992 1993 1994",
+      "position": 1548,
+      "chunk_id_original": "chunk_36_9201924733920929538",
+      "sentence_count": 4,
+      "sentence_indices": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "scores": {}
+    },
+    "0-chunk_37_-2034854657922538228": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1994 1995 1996 1997",
+      "position": 1563,
+      "chunk_id_original": "chunk_37_-2034854657922538228",
+      "sentence_count": 4,
+      "sentence_indices": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "scores": {}
+    },
+    "0-chunk_38_-2641257717702117926": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1997 1998 1999 2000",
+      "position": 1578,
+      "chunk_id_original": "chunk_38_-2641257717702117926",
+      "sentence_count": 4,
+      "sentence_indices": [
+        114,
+        115,
+        116,
+        117
+      ],
+      "scores": {}
+    },
+    "0-chunk_39_4730516864939119259": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2000 2001 2002 2003",
+      "position": 1593,
+      "chunk_id_original": "chunk_39_4730516864939119259",
+      "sentence_count": 4,
+      "sentence_indices": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "scores": {}
+    },
+    "0-chunk_40_-22756436682119614": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2003 2004 2005 2006",
+      "position": 1608,
+      "chunk_id_original": "chunk_40_-22756436682119614",
+      "sentence_count": 4,
+      "sentence_indices": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "scores": {}
+    },
+    "0-chunk_41_-3099705026007746040": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2006 2007 2008 2009",
+      "position": 1623,
+      "chunk_id_original": "chunk_41_-3099705026007746040",
+      "sentence_count": 4,
+      "sentence_indices": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "scores": {}
+    },
+    "0-chunk_42_-1516936543060252243": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2009 2010 2011 2012",
+      "position": 1638,
+      "chunk_id_original": "chunk_42_-1516936543060252243",
+      "sentence_count": 4,
+      "sentence_indices": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "scores": {}
+    },
+    "0-chunk_43_2854132940979917550": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2012 2013 2014 2015",
+      "position": 1653,
+      "chunk_id_original": "chunk_43_2854132940979917550",
+      "sentence_count": 4,
+      "sentence_indices": [
+        129,
+        130,
+        131,
+        132
+      ],
+      "scores": {}
+    },
+    "0-chunk_44_-1135243858638904272": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2015 2016 2017 2018",
+      "position": 1668,
+      "chunk_id_original": "chunk_44_-1135243858638904272",
+      "sentence_count": 4,
+      "sentence_indices": [
+        132,
+        133,
+        134,
+        135
+      ],
+      "scores": {}
+    },
+    "0-chunk_45_-4509283991929715944": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2018 2019 2020 2021",
+      "position": 1683,
+      "chunk_id_original": "chunk_45_-4509283991929715944",
+      "sentence_count": 4,
+      "sentence_indices": [
+        135,
+        136,
+        137,
+        138
+      ],
+      "scores": {}
+    },
+    "0-chunk_46_8287481640192888178": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2021 2022 2023 2024",
+      "position": 1698,
+      "chunk_id_original": "chunk_46_8287481640192888178",
+      "sentence_count": 4,
+      "sentence_indices": [
+        138,
+        139,
+        140,
+        141
+      ],
+      "scores": {}
+    },
+    "0-chunk_47_-8531464396005098992": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2024 2025 to 1980",
+      "position": 1713,
+      "chunk_id_original": "chunk_47_-8531464396005098992",
+      "sentence_count": 4,
+      "sentence_indices": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "scores": {}
+    },
+    "0-chunk_48_4433981104735930758": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1980 1981 1982 1983",
+      "position": 1728,
+      "chunk_id_original": "chunk_48_4433981104735930758",
+      "sentence_count": 4,
+      "sentence_indices": [
+        144,
+        145,
+        146,
+        147
+      ],
+      "scores": {}
+    },
+    "0-chunk_49_5644410709900233178": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1983 1984 1985 1986",
+      "position": 1743,
+      "chunk_id_original": "chunk_49_5644410709900233178",
+      "sentence_count": 4,
+      "sentence_indices": [
+        147,
+        148,
+        149,
+        150
+      ],
+      "scores": {}
+    },
+    "0-chunk_50_6763559754575760074": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1986 1987 1988 1989",
+      "position": 1758,
+      "chunk_id_original": "chunk_50_6763559754575760074",
+      "sentence_count": 4,
+      "sentence_indices": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "scores": {}
+    },
+    "0-chunk_51_-7792071165998650491": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1989 1990 1991 1992",
+      "position": 1773,
+      "chunk_id_original": "chunk_51_-7792071165998650491",
+      "sentence_count": 4,
+      "sentence_indices": [
+        153,
+        154,
+        155,
+        156
+      ],
+      "scores": {}
+    },
+    "0-chunk_52_-8035664841273486336": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1992 1993 1994 1995",
+      "position": 1788,
+      "chunk_id_original": "chunk_52_-8035664841273486336",
+      "sentence_count": 4,
+      "sentence_indices": [
+        156,
+        157,
+        158,
+        159
+      ],
+      "scores": {}
+    },
+    "0-chunk_53_-332541353289757277": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1995 1996 1997 1998",
+      "position": 1803,
+      "chunk_id_original": "chunk_53_-332541353289757277",
+      "sentence_count": 4,
+      "sentence_indices": [
+        159,
+        160,
+        161,
+        162
+      ],
+      "scores": {}
+    },
+    "0-chunk_54_-3694455500011498980": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1998 1999 2000 2001",
+      "position": 1818,
+      "chunk_id_original": "chunk_54_-3694455500011498980",
+      "sentence_count": 4,
+      "sentence_indices": [
+        162,
+        163,
+        164,
+        165
+      ],
+      "scores": {}
+    },
+    "0-chunk_55_8357709178994870773": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2001 2002 2003 2004",
+      "position": 1833,
+      "chunk_id_original": "chunk_55_8357709178994870773",
+      "sentence_count": 4,
+      "sentence_indices": [
+        165,
+        166,
+        167,
+        168
+      ],
+      "scores": {}
+    },
+    "0-chunk_56_-3344879401418905808": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2004 2005 2006 2007",
+      "position": 1848,
+      "chunk_id_original": "chunk_56_-3344879401418905808",
+      "sentence_count": 4,
+      "sentence_indices": [
+        168,
+        169,
+        170,
+        171
+      ],
+      "scores": {}
+    },
+    "0-chunk_57_4743145944774586388": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2007 2008 2009 2010",
+      "position": 1863,
+      "chunk_id_original": "chunk_57_4743145944774586388",
+      "sentence_count": 4,
+      "sentence_indices": [
+        171,
+        172,
+        173,
+        174
+      ],
+      "scores": {}
+    },
+    "0-chunk_58_5523292960888631914": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2010 2011 2012 2013",
+      "position": 1878,
+      "chunk_id_original": "chunk_58_5523292960888631914",
+      "sentence_count": 4,
+      "sentence_indices": [
+        174,
+        175,
+        176,
+        177
+      ],
+      "scores": {}
+    },
+    "0-chunk_59_-5818517006437490514": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2013 2014 2015 2016",
+      "position": 1893,
+      "chunk_id_original": "chunk_59_-5818517006437490514",
+      "sentence_count": 4,
+      "sentence_indices": [
+        177,
+        178,
+        179,
+        180
+      ],
+      "scores": {}
+    },
+    "0-chunk_60_-3989379568157572888": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2016 2017 2018 2019",
+      "position": 1908,
+      "chunk_id_original": "chunk_60_-3989379568157572888",
+      "sentence_count": 4,
+      "sentence_indices": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "scores": {}
+    },
+    "0-chunk_61_7661075781768338106": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2019 2020 2021 2022",
+      "position": 1923,
+      "chunk_id_original": "chunk_61_7661075781768338106",
+      "sentence_count": 4,
+      "sentence_indices": [
+        183,
+        184,
+        185,
+        186
+      ],
+      "scores": {}
+    },
+    "0-chunk_62_4181589101084134337": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2022 2023 2024 2025",
+      "position": 1938,
+      "chunk_id_original": "chunk_62_4181589101084134337",
+      "sentence_count": 4,
+      "sentence_indices": [
+        186,
+        187,
+        188,
+        189
+      ],
+      "scores": {}
+    },
+    "0-chunk_63_2903873622373493145": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2025 All Areas   off on AI off on ► Artificial intelligence",
+      "position": 1953,
+      "chunk_id_original": "chunk_63_2903873622373493145",
+      "sentence_count": 4,
+      "sentence_indices": [
+        189,
+        190,
+        191,
+        192
+      ],
+      "scores": {}
+    },
+    "0-chunk_64_-7933743212717700899": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Artificial intelligence ► Computer vision ► Machine learning ► Natural language processing",
+      "position": 1989,
+      "chunk_id_original": "chunk_64_-7933743212717700899",
+      "sentence_count": 4,
+      "sentence_indices": [
+        192,
+        193,
+        194,
+        195
+      ],
+      "scores": {}
+    },
+    "0-chunk_65_-3798962070420851307": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Natural language processing ► The Web & information retrieval Systems off on ► Computer architecture",
+      "position": 2055,
+      "chunk_id_original": "chunk_65_-3798962070420851307",
+      "sentence_count": 4,
+      "sentence_indices": [
+        195,
+        196,
+        197,
+        198
+      ],
+      "scores": {}
+    },
+    "0-chunk_66_1810238742367750043": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Computer architecture ► Computer networks ► Computer security ► Databases",
+      "position": 2142,
+      "chunk_id_original": "chunk_66_1810238742367750043",
+      "sentence_count": 4,
+      "sentence_indices": [
+        198,
+        199,
+        200,
+        201
+      ],
+      "scores": {}
+    },
+    "0-chunk_67_3063209593877272626": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Databases ► Design automation ► Embedded & real time systems ► High performance computing",
+      "position": 2209,
+      "chunk_id_original": "chunk_67_3063209593877272626",
+      "sentence_count": 4,
+      "sentence_indices": [
+        201,
+        202,
+        203,
+        204
+      ],
+      "scores": {}
+    },
+    "0-chunk_68_-8477023707115588764": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► High performance computing ► Mobile computing ► Measurement & perf. analysis",
+      "position": 2277,
+      "chunk_id_original": "chunk_68_-8477023707115588764",
+      "sentence_count": 4,
+      "sentence_indices": [
+        204,
+        205,
+        206,
+        207
+      ],
+      "scores": {}
+    },
+    "0-chunk_69_-6995247724109850763": {
+      "url": "https://csrankings.org",
+      "chunk_text": "analysis ► Operating systems ► Programming languages ► Software engineering",
+      "position": 2348,
+      "chunk_id_original": "chunk_69_-6995247724109850763",
+      "sentence_count": 4,
+      "sentence_indices": [
+        207,
+        208,
+        209,
+        210
+      ],
+      "scores": {}
+    },
+    "0-chunk_70_-2176763774595261537": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Software engineering Theory off on ► Algorithms & complexity ► Cryptography",
+      "position": 2406,
+      "chunk_id_original": "chunk_70_-2176763774595261537",
+      "sentence_count": 4,
+      "sentence_indices": [
+        210,
+        211,
+        212,
+        213
+      ],
+      "scores": {}
+    },
+    "0-chunk_71_-4656152920133369701": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Cryptography ► Logic & verification Interdisciplinary Areas off on ► Comp.",
+      "position": 2472,
+      "chunk_id_original": "chunk_71_-4656152920133369701",
+      "sentence_count": 4,
+      "sentence_indices": [
+        213,
+        214,
+        215,
+        216
+      ],
+      "scores": {}
+    },
+    "0-chunk_72_7876424940312803523": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Comp. bio & bioinformatics ► Computer graphics ► Computer science education",
+      "position": 2544,
+      "chunk_id_original": "chunk_72_7876424940312803523",
+      "sentence_count": 4,
+      "sentence_indices": [
+        216,
+        217,
+        218,
+        219
+      ],
+      "scores": {}
+    },
+    "0-chunk_73_-8076557859759034923": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Computer science education ► Economics & computation ► Human computer interaction ► Robotics",
+      "position": 2595,
+      "chunk_id_original": "chunk_73_-8076557859759034923",
+      "sentence_count": 4,
+      "sentence_indices": [
+        219,
+        220,
+        221,
+        222
+      ],
+      "scores": {}
+    },
+    "0-chunk_74_9042800657751105968": {
+      "url": "https://csrankings.org",
+      "chunk_text": "► Robotics ► Visualization Institution                     Count  Faculty 1     ► Carnegie Mellon University   20.",
+      "position": 2682,
+      "chunk_id_original": "chunk_74_9042800657751105968",
+      "sentence_count": 4,
+      "sentence_indices": [
+        222,
+        223,
+        224,
+        225
+      ],
+      "scores": {}
+    },
+    "0-chunk_75_-2352605595197545879": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1     ► Carnegie Mellon University   20. 2 176 2    ► Univ. of California San Diego   14.",
+      "position": 2759,
+      "chunk_id_original": "chunk_75_-2352605595197545879",
+      "sentence_count": 4,
+      "sentence_indices": [
+        225,
+        226,
+        227,
+        228
+      ],
+      "scores": {}
+    },
+    "0-chunk_76_6918452079798907765": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of California San Diego   14. 4 124 2    ► Univ. of Illinois at Urbana Champaign   14.",
+      "position": 2817,
+      "chunk_id_original": "chunk_76_6918452079798907765",
+      "sentence_count": 4,
+      "sentence_indices": [
+        228,
+        229,
+        230,
+        231
+      ],
+      "scores": {}
+    },
+    "0-chunk_77_7690548530535103474": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of Illinois at Urbana Champaign   14. 4 112 4    ► Georgia Institute of Technology   13. 6 152",
+      "position": 2865,
+      "chunk_id_original": "chunk_77_7690548530535103474",
+      "sentence_count": 4,
+      "sentence_indices": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "scores": {}
+    },
+    "0-chunk_78_2292009360365643330": {
+      "url": "https://csrankings.org",
+      "chunk_text": "6 152 5    ► Massachusetts Institute of Technology   11. 4 106 6    ► Cornell University   11.",
+      "position": 2953,
+      "chunk_id_original": "chunk_78_2292009360365643330",
+      "sentence_count": 4,
+      "sentence_indices": [
+        234,
+        235,
+        236,
+        237
+      ],
+      "scores": {}
+    },
+    "0-chunk_79_792903998667863967": {
+      "url": "https://csrankings.org",
+      "chunk_text": "6    ► Cornell University   11. 2 107 6    ► Univ. of California Berkeley   11.",
+      "position": 3015,
+      "chunk_id_original": "chunk_79_792903998667863967",
+      "sentence_count": 4,
+      "sentence_indices": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "scores": {}
+    },
+    "0-chunk_80_-1793183926793935008": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of California Berkeley   11. 2 98 6    ► University of Michigan   11. 2 106",
+      "position": 3064,
+      "chunk_id_original": "chunk_80_-1793183926793935008",
+      "sentence_count": 4,
+      "sentence_indices": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "scores": {}
+    },
+    "0-chunk_81_-4374854784919246918": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2 106 9    ► University of Washington   10. 7 81 10    ► University of Maryland College Park   10.",
+      "position": 3133,
+      "chunk_id_original": "chunk_81_-4374854784919246918",
+      "sentence_count": 4,
+      "sentence_indices": [
+        243,
+        244,
+        245,
+        246
+      ],
+      "scores": {}
+    },
+    "0-chunk_82_-1849353782026208331": {
+      "url": "https://csrankings.org",
+      "chunk_text": "10    ► University of Maryland College Park   10. 4 93 11   ► Stanford University   9. 7 63",
+      "position": 3181,
+      "chunk_id_original": "chunk_82_-1849353782026208331",
+      "sentence_count": 4,
+      "sentence_indices": [
+        246,
+        247,
+        248,
+        249
+      ],
+      "scores": {}
+    },
+    "0-chunk_83_6809596401943956909": {
+      "url": "https://csrankings.org",
+      "chunk_text": "7 63 12   ► Northeastern University   9. 2 103 13   ► Purdue University   8.",
+      "position": 3266,
+      "chunk_id_original": "chunk_83_6809596401943956909",
+      "sentence_count": 4,
+      "sentence_indices": [
+        249,
+        250,
+        251,
+        252
+      ],
+      "scores": {}
+    },
+    "0-chunk_84_7520656438749805578": {
+      "url": "https://csrankings.org",
+      "chunk_text": "13   ► Purdue University   8. 0 74 14   ► University of Texas at Austin   7. 7 49",
+      "position": 3312,
+      "chunk_id_original": "chunk_84_7520656438749805578",
+      "sentence_count": 4,
+      "sentence_indices": [
+        252,
+        253,
+        254,
+        255
+      ],
+      "scores": {}
+    },
+    "0-chunk_85_2165426567557715280": {
+      "url": "https://csrankings.org",
+      "chunk_text": "7 49 15   ► University of Wisconsin Madison   7. 5 85 16   ► New York University   7.",
+      "position": 3387,
+      "chunk_id_original": "chunk_85_2165426567557715280",
+      "sentence_count": 4,
+      "sentence_indices": [
+        255,
+        256,
+        257,
+        258
+      ],
+      "scores": {}
+    },
+    "0-chunk_86_-2527883698176195672": {
+      "url": "https://csrankings.org",
+      "chunk_text": "16   ► New York University   7. 1 86 16   ► Princeton University   7. 1 65",
+      "position": 3440,
+      "chunk_id_original": "chunk_86_-2527883698176195672",
+      "sentence_count": 4,
+      "sentence_indices": [
+        258,
+        259,
+        260,
+        261
+      ],
+      "scores": {}
+    },
+    "0-chunk_87_8958081173240252865": {
+      "url": "https://csrankings.org",
+      "chunk_text": "1 65 18   ► University of Pennsylvania   7. 0 72 19   ► Columbia University   6.",
+      "position": 3508,
+      "chunk_id_original": "chunk_87_8958081173240252865",
+      "sentence_count": 4,
+      "sentence_indices": [
+        261,
+        262,
+        263,
+        264
+      ],
+      "scores": {}
+    },
+    "0-chunk_88_3530168330241246233": {
+      "url": "https://csrankings.org",
+      "chunk_text": "19   ► Columbia University   6. 8 55 20   ► Univ. of California Los Angeles   6.",
+      "position": 3556,
+      "chunk_id_original": "chunk_88_3530168330241246233",
+      "sentence_count": 4,
+      "sentence_indices": [
+        264,
+        265,
+        266,
+        267
+      ],
+      "scores": {}
+    },
+    "0-chunk_89_-5376734418289072988": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of California Los Angeles   6. 6 50 21   ► University of Southern California   6. 2 64",
+      "position": 3604,
+      "chunk_id_original": "chunk_89_-5376734418289072988",
+      "sentence_count": 4,
+      "sentence_indices": [
+        267,
+        268,
+        269,
+        270
+      ],
+      "scores": {}
+    },
+    "0-chunk_90_-4837106423723871569": {
+      "url": "https://csrankings.org",
+      "chunk_text": "2 64 22   ► University of Massachusetts Amherst   5. 8 66 23   ► University of Chicago   5.",
+      "position": 3685,
+      "chunk_id_original": "chunk_90_-4837106423723871569",
+      "sentence_count": 4,
+      "sentence_indices": [
+        270,
+        271,
+        272,
+        273
+      ],
+      "scores": {}
+    },
+    "0-chunk_91_5588120248920424597": {
+      "url": "https://csrankings.org",
+      "chunk_text": "23   ► University of Chicago   5. 7 52 24   ► Stony Brook University   5. 5 59",
+      "position": 3742,
+      "chunk_id_original": "chunk_91_5588120248920424597",
+      "sentence_count": 4,
+      "sentence_indices": [
+        273,
+        274,
+        275,
+        276
+      ],
+      "scores": {}
+    },
+    "0-chunk_92_-6339080324804767694": {
+      "url": "https://csrankings.org",
+      "chunk_text": "5 59 25   ► Univ. of California Irvine   5. 4 74",
+      "position": 3814,
+      "chunk_id_original": "chunk_92_-6339080324804767694",
+      "sentence_count": 4,
+      "sentence_indices": [
+        276,
+        277,
+        278,
+        279
+      ],
+      "scores": {}
+    },
+    "0-chunk_93_5843300372747929285": {
+      "url": "https://csrankings.org",
+      "chunk_text": "4 74 26   ► Northwestern University   5. 1 73 27   ► Duke University   5.",
+      "position": 3857,
+      "chunk_id_original": "chunk_93_5843300372747929285",
+      "sentence_count": 4,
+      "sentence_indices": [
+        279,
+        280,
+        281,
+        282
+      ],
+      "scores": {}
+    },
+    "0-chunk_94_8179667242475664780": {
+      "url": "https://csrankings.org",
+      "chunk_text": "27   ► Duke University   5. 0 52 28   ► Univ. of California Riverside   4.",
+      "position": 3902,
+      "chunk_id_original": "chunk_94_8179667242475664780",
+      "sentence_count": 4,
+      "sentence_indices": [
+        282,
+        283,
+        284,
+        285
+      ],
+      "scores": {}
+    },
+    "0-chunk_95_3967398889689066999": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of California Riverside   4. 9 56 28   ► Univ. of California Santa Barbara   4.",
+      "position": 3946,
+      "chunk_id_original": "chunk_95_3967398889689066999",
+      "sentence_count": 4,
+      "sentence_indices": [
+        285,
+        286,
+        287,
+        288
+      ],
+      "scores": {}
+    },
+    "0-chunk_96_2336017440501269053": {
+      "url": "https://csrankings.org",
+      "chunk_text": "of California Santa Barbara   4. 9 40 28   ► University of Virginia   4. 9 64",
+      "position": 3992,
+      "chunk_id_original": "chunk_96_2336017440501269053",
+      "sentence_count": 4,
+      "sentence_indices": [
+        288,
+        289,
+        290,
+        291
+      ],
+      "scores": {}
+    },
+    "0-chunk_97_-7146588545118928003": {
+      "url": "https://csrankings.org",
+      "chunk_text": "9 64 This ranking is designed to identify institutions and faculty actively engaged in research across a number of areas of computer science, based on the number of publications by faculty that have appeared at the most selective conferences in each area of computer science see the FAQ for more details . We gratefully acknowledge the generous support of our sponsors, including Stony Brook University. Sponsor CSrankings",
+      "position": 4064,
+      "chunk_id_original": "chunk_97_-7146588545118928003",
+      "sentence_count": 4,
+      "sentence_indices": [
+        291,
+        292,
+        293,
+        294
+      ],
+      "scores": {}
+    },
+    "0-chunk_98_874804939649637568": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Sponsor CSrankings New to CSrankings? Watch this video to learn how to use CSrankings. Prominent mentions of CSrankings: CMU 1, 2 Edinburgh Michigan Rutgers Technion Yann LeCun John Regehr Charles Sutton",
+      "position": 4467,
+      "chunk_id_original": "chunk_98_874804939649637568",
+      "sentence_count": 4,
+      "sentence_indices": [
+        294,
+        295,
+        296,
+        297
+      ],
+      "scores": {}
+    },
+    "0-chunk_99_-4607762320818306760": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Prominent mentions of CSrankings: CMU 1, 2 Edinburgh Michigan Rutgers Technion Yann LeCun John Regehr Charles Sutton All publication data is from DBLP updated quarterly; last update July 2025 . Click to see the current database of faculty and their affiliations. Please submit any affiliation updates by editing the appropriate files and issuing a \"pull request\".",
+      "position": 4555,
+      "chunk_id_original": "chunk_99_-4607762320818306760",
+      "sentence_count": 4,
+      "sentence_indices": [
+        297,
+        298,
+        299,
+        300
+      ],
+      "scores": {}
+    },
+    "0-chunk_100_-2783030241145597703": {
+      "url": "https://csrankings.org",
+      "chunk_text": "Please submit any affiliation updates by editing the appropriate files and issuing a \"pull request\". Please verify that the faculty members are full time, tenure track faculty who can solely advise a PhD student in Computer Science, and that their names are as they appear in DBLP. All code and data is available here: https://github.com/emeryberger/CSRankings, and frequently asked questions are here: CSRankings FAQ. CSrankings is a GOTO ranking.",
+      "position": 4817,
+      "chunk_id_original": "chunk_100_-2783030241145597703",
+      "sentence_count": 4,
+      "sentence_indices": [
+        300,
+        301,
+        302,
+        303
+      ],
+      "scores": {}
+    },
+    "0-chunk_101_6593964746259485053": {
+      "url": "https://csrankings.org",
+      "chunk_text": "CSrankings is a GOTO ranking. CSRankings by Emery Berger is licensed under a Creative Commons Attribution NonCommercial NoDerivatives 4. 0 International License. Based on a work at https://github.com/emeryberger/CSrankings. Follow @csrankings for updates.",
+      "position": 5209,
+      "chunk_id_original": "chunk_101_6593964746259485053",
+      "sentence_count": 4,
+      "sentence_indices": [
+        303,
+        304,
+        305,
+        306
+      ],
+      "scores": {}
+    },
+    "0-chunk_final_6593964746259485053": {
+      "url": "https://csrankings.org",
+      "chunk_text": "CSrankings is a GOTO ranking. CSRankings by Emery Berger is licensed under a Creative Commons Attribution NonCommercial NoDerivatives 4. 0 International License. Based on a work at https://github.com/emeryberger/CSrankings. Follow @csrankings for updates.",
+      "position": 5209,
+      "chunk_id_original": "chunk_final_6593964746259485053",
+      "sentence_count": 4,
+      "sentence_indices": [
+        303,
+        304,
+        305,
+        306
+      ],
+      "scores": {}
+    },
+    "1-chunk_0_1656737887032841602": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Title: Google Scholar URL Source: https://scholar.google.com/ Markdown Content: Google Scholar",
+      "position": 0,
+      "chunk_id_original": "chunk_0_1656737887032841602",
+      "sentence_count": 4,
+      "sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scores": {}
+    },
+    "1-chunk_1_1524387148078506064": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Google Scholar Loading... The system can't perform the operation now. Try again later.",
+      "position": 68,
+      "chunk_id_original": "chunk_1_1524387148078506064",
+      "sentence_count": 4,
+      "sentence_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scores": {}
+    },
+    "1-chunk_2_-4675212268746417446": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Try again later. javascript:void 0 Advanced search Find articles",
+      "position": 137,
+      "chunk_id_original": "chunk_2_-4675212268746417446",
+      "sentence_count": 4,
+      "sentence_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scores": {}
+    },
+    "1-chunk_3_-2578570515741621966": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Find articles with all of the words with the exact phrase with at least one of the words",
+      "position": 191,
+      "chunk_id_original": "chunk_3_-2578570515741621966",
+      "sentence_count": 4,
+      "sentence_indices": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "scores": {}
+    },
+    "1-chunk_4_-1505957075424072565": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "with at least one of the words without the words where my words occur anywhere in the article",
+      "position": 253,
+      "chunk_id_original": "chunk_4_-1505957075424072565",
+      "sentence_count": 4,
+      "sentence_indices": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "scores": {}
+    },
+    "1-chunk_5_-3987213115228234910": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "anywhere in the article in the title of the article Return articles authored by e.",
+      "position": 327,
+      "chunk_id_original": "chunk_5_-3987213115228234910",
+      "sentence_count": 4,
+      "sentence_indices": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "scores": {}
+    },
+    "1-chunk_6_-6262731568924699136": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "e. g. , \"PJ Hayes\" or McCarthy Return articles published in",
+      "position": 410,
+      "chunk_id_original": "chunk_6_-6262731568924699136",
+      "sentence_count": 4,
+      "sentence_indices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "scores": {}
+    },
+    "1-chunk_7_1143734801205349809": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Return articles published in e. g. , J Biol Chem or Nature",
+      "position": 440,
+      "chunk_id_original": "chunk_7_1143734801205349809",
+      "sentence_count": 4,
+      "sentence_indices": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "scores": {}
+    },
+    "1-chunk_8_3719437629066481566": {
+      "url": "https://scholar.google.com",
+      "chunk_text": ", J Biol Chem or Nature Return articles dated between e. g.",
+      "position": 474,
+      "chunk_id_original": "chunk_8_3719437629066481566",
+      "sentence_count": 4,
+      "sentence_indices": [
+        24,
+        25,
+        27,
+        28
+      ],
+      "scores": {}
+    },
+    "1-chunk_9_-2502565742425715659": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "g. , 1996 javascript:void 0 Saved to My library",
+      "position": 534,
+      "chunk_id_original": "chunk_9_-2502565742425715659",
+      "sentence_count": 4,
+      "sentence_indices": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "scores": {}
+    },
+    "1-chunk_10_-5911355800563644646": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Saved to My library Done Remove article javascript:void 0 https://scholar.google.com/schhp? hl en&as sdt 0,5",
+      "position": 564,
+      "chunk_id_original": "chunk_10_-5911355800563644646",
+      "sentence_count": 4,
+      "sentence_indices": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "scores": {}
+    },
+    "1-chunk_11_-4661542555510341990": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "hl en&as sdt 0,5 My profile https://scholar.google.com/citations? hl en My library https://scholar.google.com/scholar? scilib 1&hl en&as sdt 0,5 Alerts https://scholar.google.com/scholar alerts?",
+      "position": 644,
+      "chunk_id_original": "chunk_11_-4661542555510341990",
+      "sentence_count": 4,
+      "sentence_indices": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "scores": {}
+    },
+    "1-chunk_12_1970742835986828397": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scilib 1&hl en&as sdt 0,5 Alerts https://scholar.google.com/scholar alerts? view op list alerts&hl en Metrics https://scholar.google.com/citations? view op metrics intro&hl en Advanced search javascript:void 0",
+      "position": 739,
+      "chunk_id_original": "chunk_12_1970742835986828397",
+      "sentence_count": 4,
+      "sentence_indices": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "scores": {}
+    },
+    "1-chunk_13_-1504748755592607170": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Advanced search javascript:void 0 Settings https://scholar.google.com/scholar settings? sciifh 1&hl en&as sdt 0,5 Sign in https://accounts.google.com/Login?hl en&continue https://scholar.google.com/",
+      "position": 890,
+      "chunk_id_original": "chunk_13_-1504748755592607170",
+      "sentence_count": 4,
+      "sentence_indices": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "scores": {}
+    },
+    "1-chunk_14_-1327582712132749766": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Sign in https://accounts.google.com/Login?hl en&continue https://scholar.google.com/ javascript:void 0 https://scholar.google.com/schhp? hl en&as sdt 0,5 My profile https://scholar.google.com/citations?",
+      "position": 995,
+      "chunk_id_original": "chunk_14_-1327582712132749766",
+      "sentence_count": 4,
+      "sentence_indices": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "scores": {}
+    },
+    "1-chunk_15_-2859323322057288676": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "My profile https://scholar.google.com/citations? hl en My library https://scholar.google.com/scholar? scilib 1&hl en&as sdt 0,5 \n! Image 1 https://scholar.google.com/intl/en/scholar/images/1x/scholar logo 64dp.",
+      "position": 1107,
+      "chunk_id_original": "chunk_15_-2859323322057288676",
+      "sentence_count": 4,
+      "sentence_indices": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "scores": {}
+    },
+    "1-chunk_16_3311585233493896751": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "Image 1 https://scholar.google.com/intl/en/scholar/images/1x/scholar logo 64dp. png Sign in https://accounts.google.com/Login?hl en&continue https://scholar.google.com/ javascript:void 0",
+      "position": 1212,
+      "chunk_id_original": "chunk_16_3311585233493896751",
+      "sentence_count": 4,
+      "sentence_indices": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "scores": {}
+    },
+    "1-chunk_17_-257747919933220498": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "javascript:void 0 Articles Case law Federal courts California courts Select courts... https://scholar.google.com/scholar courts?",
+      "position": 1339,
+      "chunk_id_original": "chunk_17_-257747919933220498",
+      "sentence_count": 4,
+      "sentence_indices": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "scores": {}
+    },
+    "1-chunk_18_8661498716695821330": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "https://scholar.google.com/scholar courts? hl en&as sdt 0,5 Stand on the shoulders of giants EN javascript:void 0",
+      "position": 1427,
+      "chunk_id_original": "chunk_18_8661498716695821330",
+      "sentence_count": 4,
+      "sentence_indices": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "scores": {}
+    },
+    "1-chunk_19_8560836575269311106": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "EN javascript:void 0 Languages English javascript:void 0 Español https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl es Català https://scholar.google.com/scholar setlang?",
+      "position": 1509,
+      "chunk_id_original": "chunk_19_8560836575269311106",
+      "sentence_count": 4,
+      "sentence_indices": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "scores": {}
+    },
+    "1-chunk_20_-3091550229958934844": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl es Català https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ca Čeština https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl cs Dansk https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl da Deutsch https://scholar.google.com/scholar setlang?",
+      "position": 1609,
+      "chunk_id_original": "chunk_20_-3091550229958934844",
+      "sentence_count": 4,
+      "sentence_indices": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "scores": {}
+    },
+    "1-chunk_21_4188644375599310377": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl da Deutsch https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl de Filipino https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl tl Français https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl fr",
+      "position": 1915,
+      "chunk_id_original": "chunk_21_4188644375599310377",
+      "sentence_count": 4,
+      "sentence_indices": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "scores": {}
+    },
+    "1-chunk_22_8913515291313499372": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl fr Hrvatski https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl hr Indonesia https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl id Italiano https://scholar.google.com/scholar setlang?",
+      "position": 2226,
+      "chunk_id_original": "chunk_22_8913515291313499372",
+      "sentence_count": 4,
+      "sentence_indices": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "scores": {}
+    },
+    "1-chunk_23_-6321014600088374376": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl id Italiano https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl it Latviešu https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl lv Lietuvių https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl lt Magyar https://scholar.google.com/scholar setlang?",
+      "position": 2437,
+      "chunk_id_original": "chunk_23_-6321014600088374376",
+      "sentence_count": 4,
+      "sentence_indices": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "scores": {}
+    },
+    "1-chunk_24_-203646728731687176": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl lt Magyar https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl hu Nederlands https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl nl Norsk https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl no",
+      "position": 2749,
+      "chunk_id_original": "chunk_24_-203646728731687176",
+      "sentence_count": 4,
+      "sentence_indices": [
+        73,
+        74,
+        75,
+        76
+      ],
+      "scores": {}
+    },
+    "1-chunk_25_6403371716314627053": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl no Polski https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl pl Português Brasil https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl pt BR Português Portugal https://scholar.google.com/scholar setlang?",
+      "position": 3058,
+      "chunk_id_original": "chunk_25_6403371716314627053",
+      "sentence_count": 4,
+      "sentence_indices": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "scores": {}
+    },
+    "1-chunk_26_4288444447448977860": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl pt BR Português Portugal https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl pt PT Română https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ro Slovenčina https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sk Slovenščina https://scholar.google.com/scholar setlang?",
+      "position": 3274,
+      "chunk_id_original": "chunk_26_4288444447448977860",
+      "sentence_count": 4,
+      "sentence_indices": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "scores": {}
+    },
+    "1-chunk_27_-5558241534642982422": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sk Slovenščina https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sl Suomi https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl fi Svenska https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sv",
+      "position": 3602,
+      "chunk_id_original": "chunk_27_-5558241534642982422",
+      "sentence_count": 4,
+      "sentence_indices": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "scores": {}
+    },
+    "1-chunk_28_2689969741992241358": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sv Tiếng Việt https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl vi Türkçe https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl tr Ελληνικά https://scholar.google.com/scholar setlang?",
+      "position": 3913,
+      "chunk_id_original": "chunk_28_2689969741992241358",
+      "sentence_count": 4,
+      "sentence_indices": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "scores": {}
+    },
+    "1-chunk_29_6437033516574133936": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl tr Ελληνικά https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl el Български https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl bg Русский https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ru Српски https://scholar.google.com/scholar setlang?",
+      "position": 4123,
+      "chunk_id_original": "chunk_29_6437033516574133936",
+      "sentence_count": 4,
+      "sentence_indices": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "scores": {}
+    },
+    "1-chunk_30_-1390409678800500744": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ru Српски https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl sr Українська https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl uk עברית‎ https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl iw",
+      "position": 4435,
+      "chunk_id_original": "chunk_30_-1390409678800500744",
+      "sentence_count": 4,
+      "sentence_indices": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "scores": {}
+    },
+    "1-chunk_31_3222481843727505965": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl iw ﺎﻠﻋﺮﺒﻳﺓ‎ https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ar ﻑﺍﺮﺳی‎ https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl fa हिन्दी https://scholar.google.com/scholar setlang?",
+      "position": 4745,
+      "chunk_id_original": "chunk_31_3222481843727505965",
+      "sentence_count": 4,
+      "sentence_indices": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "scores": {}
+    },
+    "1-chunk_32_2549544478255088371": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl fa हिन्दी https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl hi ไทย https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl th 한국어 https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ko 中文 简体 https://scholar.google.com/scholar setlang?",
+      "position": 4953,
+      "chunk_id_original": "chunk_32_2549544478255088371",
+      "sentence_count": 4,
+      "sentence_indices": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "scores": {}
+    },
+    "1-chunk_33_-7795411079600704427": {
+      "url": "https://scholar.google.com",
+      "chunk_text": "scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ko 中文 简体 https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl zh CN 中文 繁體 https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl zh TW 日本語 https://scholar.google.com/scholar setlang? scisig AAZF9b8AAAAAaJ7s67mcqNK9kYYjr5AhnBX2G2Q&as sdt 0,5&hl ja",
+      "position": 5253,
+      "chunk_id_original": "chunk_33_-7795411079600704427",
+      "sentence_count": 4,
+      "sentence_indices": [
+        100,
+        101,
+        102,
+        103
+      ],
+      "scores": {}
+    }
+  },
+  "related_query": {}
+}

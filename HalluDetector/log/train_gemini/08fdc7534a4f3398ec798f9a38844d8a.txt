@@ -1,0 +1,4 @@
+Command: /home/anaconda3/envs/Yuhao_py39/bin/python evaluate.py /data2/yuhaoz/DeepResearch/HalluBench/data/train/close-source/gemini/json/08fdc7534a4f3398ec798f9a38844d8a.json
+Start time: 2025-08-17 19:49:09
+================================================================================
+

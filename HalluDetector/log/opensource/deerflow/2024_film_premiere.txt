@@ -1,0 +1,2728 @@
+
+==================================================
+INITIAL MEMORY STATUS
+==================================================
+💾 System Memory: 140.01GB / 251.50GB (56.4%)
+🎮 GPU 0: 0.00GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 0.65GB
+
+==================================================
+INITIALIZING GLOBAL BGESCORER (ONCE ONLY)
+==================================================
+🔧 Initializing global BGEScorer (this will load reranker models once)...
+🎯 This is the ONLY time you'll see 'initial target device' messages!
+🔧 Using 4 GPUs with conservative memory management
+🔍 GPU 0: 23.68GB available of 23.68GB total
+✅ Initialized reranker on GPU 0
+🔍 GPU 1: 23.68GB available of 23.68GB total
+✅ Initialized reranker on GPU 1
+🔍 GPU 2: 23.68GB available of 23.68GB total
+✅ Initialized reranker on GPU 2
+🔍 GPU 3: 23.68GB available of 23.68GB total
+✅ Initialized reranker on GPU 3
+🎯 Successfully initialized 4 GPU rerankers
+✅ Global BGEScorer initialized successfully
+🌐 Created global URL mapping for 15 URLs
+📝 Initialized results file: ../results/results_2024_film_premiere.json
+
+📥 Fetching and caching web content...
+📁 Found existing cache file: ../web_content_cache/cache_2024_film_premiere.json
+📖 Loaded 15 URLs from cache
+
+💾 Memory status after web content fetching:
+💾 System Memory: 141.45GB / 251.50GB (57.0%)
+🎮 GPU 0: 0.00GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 2.15GB
+
+🔍 Decomposing workflow...
+------------------------------------------------------------
+Cache file: ../json_cache/cache_2024_film_premiere.json
+
+📝 Decomposing report paragraphs to cache...
+
+🔍 Checking if report decomposition already exists in cache...
+📝 Report decomposition not found, decomposing paragraphs...
+  Found 30 paragraphs to decompose
+  Decomposing paragraph 1/30...
+    No extractable claims found in paragraph 1
+  Decomposing paragraph 2/30...
+    No extractable claims found in paragraph 2
+  Decomposing paragraph 3/30...
+
+🔍 Double-checking 3 observation items for non-atomic parts...
+✅ Double-check completed: 3 → 6 claims
+    Extracted 6 claims from paragraph 3
+      - "Avatar: The Next Chapter" premiered on January 5, 2024 in mainland China.
+      - "Avatar: The Next Chapter" premiered on January 5, 2024 in the United States.
+      - "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in mainland China.
+      - "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in the United States.
+      - "The Marvels" had a release on November 8, 2024 in mainland China.
+      - "The Marvels" had a release on November 8, 2024 in the United States.
+  Decomposing paragraph 4/30...
+    No extractable claims found in paragraph 4
+  Decomposing paragraph 5/30...
+
+🔍 Double-checking 3 observation items for non-atomic parts...
+✅ Double-check completed: 3 → 6 claims
+    Extracted 6 claims from paragraph 5
+      - "Avatar: The Next Chapter" premiered in 2024.
+      - "Avatar: The Next Chapter" had matching theatrical release dates in mainland China and the United States.
+      - "Mission: Impossible – Dead Reckoning Part Two" premiered in 2024.
+      - "Mission: Impossible – Dead Reckoning Part Two" had matching theatrical release dates in mainland China and the United States.
+      - "The Marvels" premiered in 2024.
+      - "The Marvels" had matching theatrical release dates in mainland China and the United States.
+  Decomposing paragraph 6/30...
+    No extractable claims found in paragraph 6
+  Decomposing paragraph 7/30...
+    No extractable claims found in paragraph 7
+  Decomposing paragraph 8/30...
+
+🔍 Double-checking 7 observation items for non-atomic parts...
+✅ Double-check completed: 7 → 6 claims
+    Extracted 6 claims from paragraph 8
+      - https://www.imdb.com/title/tt1630029/releaseinfo/
+      - "Avatar: The Next Chapter" premiered in 2024.
+      - "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in mainland China.
+      - "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in the United States.
+      - Official press releases from Disney confirmed the January 5, 2024 release date for "Avatar: The Next Chapter".
+      - Regional reports from Chinese cinema chains corroborated the January 5, 2024 release date for "Avatar: The Next Chapter".
+  Decomposing paragraph 9/30...
+    No extractable claims found in paragraph 9
+  Decomposing paragraph 10/30...
+    No extractable claims found in paragraph 10
+  Decomposing paragraph 11/30...
+
+🔍 Double-checking 6 observation items for non-atomic parts...
+✅ Double-check completed: 6 → 7 claims
+    Extracted 7 claims from paragraph 11
+      - Mission: Impossible – Dead Reckoning Part Two premiered in 2024.
+      - Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in mainland China.
+      - Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in the United States.
+      - Paramount Pictures announced the July 12, 2024 release date for Mission: Impossible – Dead Reckoning Part Two.
+      - Removed "https://www.boxofficemojo.com/" (not a claim).
+      - Removed "Box Office Mojo validated Mission: Impossible – Dead Reckoning Part Two's performance in mainland China and the United States." (non-atomic and weakly relevant to release date confirmation).
+      - The remaining claims are atomic and directly confirm the release dates. Source links (e.g., Paramount's announcement) would need to be explicitly provided for full compliance with the query.
+  Decomposing paragraph 12/30...
+    No extractable claims found in paragraph 12
+  Decomposing paragraph 13/30...
+    No extractable claims found in paragraph 13
+  Decomposing paragraph 14/30...
+
+🔍 Double-checking 5 observation items for non-atomic parts...
+✅ Double-check completed: 5 → 4 claims
+    Extracted 4 claims from paragraph 14
+      - https://www.marvel.com/movies/the-marvels
+      - The Marvels premiered in 2024.
+      - The Marvels had a theatrical release date of November 8, 2024 in mainland China.
+      - The Marvels had a theatrical release date of November 8, 2024 in the United States.
+  Decomposing paragraph 15/30...
+    No extractable claims found in paragraph 15
+  Decomposing paragraph 16/30...
+    No extractable claims found in paragraph 16
+  Decomposing paragraph 17/30...
+    No extractable claims found in paragraph 17
+  Decomposing paragraph 18/30...
+    No extractable claims found in paragraph 18
+  Decomposing paragraph 19/30...
+    No extractable claims found in paragraph 19
+  Decomposing paragraph 20/30...
+    No extractable claims found in paragraph 20
+  Decomposing paragraph 21/30...
+    No extractable claims found in paragraph 21
+  Decomposing paragraph 22/30...
+    No extractable claims found in paragraph 22
+  Decomposing paragraph 23/30...
+    No extractable claims found in paragraph 23
+  Decomposing paragraph 24/30...
+
+🔍 Double-checking 2 observation items for non-atomic parts...
+✅ Double-check completed: 2 → 4 claims
+    Extracted 4 claims from paragraph 24
+      - "Avatar: The Next Chapter" premiered in 2024
+      - "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in the United States
+      - "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in mainland China
+      - Source: https://www.disneystudios.com/avatar-next-chapter
+  Decomposing paragraph 25/30...
+
+🔍 Double-checking 2 observation items for non-atomic parts...
+✅ Double-check completed: 2 → 2 claims
+    Extracted 2 claims from paragraph 25
+      - "Mission: Impossible - Dead Reckoning Part Two" is scheduled for theatrical release on May 23, 2024.
+      - Source: https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two
+  Decomposing paragraph 26/30...
+    No extractable claims found in paragraph 26
+  Decomposing paragraph 27/30...
+
+🔍 Double-checking 5 observation items for non-atomic parts...
+✅ Double-check completed: 5 → 5 claims
+    Extracted 5 claims from paragraph 27
+      - [IMDb - Avatar: The Next Chapter Release Dates](https://www.imdb.com/title/tt1234567/releaseinfo)
+      - The movie "Avatar: The Next Chapter" premiered in 2024.
+      - The movie "Avatar: The Next Chapter" had a theatrical release date in mainland China.
+      - The movie "Avatar: The Next Chapter" had a theatrical release date in the United States.
+      - The theatrical release date for "Avatar: The Next Chapter" was shared between mainland China and the United States.
+  Decomposing paragraph 28/30...
+    No extractable claims found in paragraph 28
+  Decomposing paragraph 29/30...
+    No extractable claims found in paragraph 29
+  Decomposing paragraph 30/30...
+    No extractable claims found in paragraph 30
+✅ Report decomposition saved to cache file: ../json_cache/cache_2024_film_premiere.json
+  Saved 30 paragraphs with atomic claims
+
+🔄 Scoring all chunks upfront...
+✅ Skipping chunk scoring because cache file already exists: ../json_cache/cache_2024_film_premiere.json
+❌ No chunk scores found in cache file: ../json_cache/cache_2024_film_premiere.json
+
+==================================================
+SCORING ALL CHUNKS UPFRONT
+==================================================
+💾 Memory status before chunk scoring:
+💾 System Memory: 141.44GB / 251.50GB (57.0%)
+🎮 GPU 0: 0.00GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 2.16GB
+🔧 Initializing IntegratedChunkScorer for upfront scoring...
+📝 Note: Using global BGEScorer instance to avoid reloading reranker models
+🚀 This ensures 'initial target device' appears only once!
+🔧 Using provided reranker instance to avoid model reloading
+🔧 IntegratedChunkScorer initialized with dynamic batch sizes:
+  - GPU batch size: 500
+  - Query batch size: 5
+  - Memory config: {'max_gpu_batch_size': 500, 'max_query_batch_size': 5, 'max_documents': 100, 'max_chunks': 5000, 'gpu_memory_threshold': 0.7, 'cleanup_frequency': 10, 'max_gpu_memory_gb': 20, 'min_gpu_memory_buffer_gb': 4}
+📊 Scoring 12 queries against chunks from 15 URLs...
+💾 Web content cache contains 15 documents
+🚀 Starting upfront scoring of all chunks...
+💾 Using pre-loaded BGEScorer instance (no model reloading)
+🔍 GPU 0: 0.00GB / 23.68GB used before processing
+🔍 GPU 1: 0.00GB / 23.68GB used before processing
+🔍 GPU 2: 0.00GB / 23.68GB used before processing
+🔍 GPU 3: 0.00GB / 23.68GB used before processing
+❌ No chunk scores found in cache file: ../json_cache/cache_2024_film_premiere.json
+📊 Chunk analysis: 0 cached, 389 to score
+🚀 Processing 12 queries against 389 chunks
+🚀 MEMORY-EFFICIENT STREAMING MULTI-QUERY PROCESSING
+📊 12 queries × 389 chunks = 4668 total pairs
+🎯 Using streaming batch size: 1 queries per batch
+🔄 Processing batch 1: queries 1-1
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 1 completed. Memory cleaned up.
+🔄 Processing batch 2: queries 2-2
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 2 completed. Memory cleaned up.
+🔄 Processing batch 3: queries 3-3
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 3 completed. Memory cleaned up.
+🔄 Processing batch 4: queries 4-4
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 4 completed. Memory cleaned up.
+🔄 Processing batch 5: queries 5-5
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 5 completed. Memory cleaned up.
+🔄 Processing batch 6: queries 6-6
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 6 completed. Memory cleaned up.
+🔄 Processing batch 7: queries 7-7
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 7 completed. Memory cleaned up.
+🔄 Processing batch 8: queries 8-8
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 8 completed. Memory cleaned up.
+🔄 Processing batch 9: queries 9-9
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 9 completed. Memory cleaned up.
+🔄 Processing batch 10: queries 10-10
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 10 completed. Memory cleaned up.
+🔄 Processing batch 11: queries 11-11
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 11 completed. Memory cleaned up.
+🔄 Processing batch 12: queries 12-12
+🎯 Processing 389 pairs for 1 queries
+🚀 MEMORY-EFFICIENT PROCESSING: 389 pairs using 4 GPUs
+🎯 Using batch size: 98
+🎯 GPU Memory Distribution:
+  GPU 0: 23.68GB available, 0.00GB used
+  GPU 1: 23.68GB available, 0.00GB used
+  GPU 2: 23.68GB available, 0.00GB used
+  GPU 3: 23.68GB available, 0.00GB used
+📊 Work Distribution:
+  GPU 0: 97 tasks
+  GPU 1: 97 tasks
+  GPU 2: 97 tasks
+  GPU 3: 97 tasks
+🔒 Using 2 workers to prevent memory conflicts
+🎯 GPU 0 processing chunk 1 (97 pairs)
+🎯 GPU 1 processing chunk 1 (97 pairs)
+✅ GPU 1 completed 97 pairs in 1 chunks
+🎯 GPU 2 processing chunk 1 (97 pairs)
+✅ GPU 0 completed 97 pairs in 1 chunks
+🎯 GPU 3 processing chunk 1 (97 pairs)
+✅ GPU 2 completed 97 pairs in 1 chunks
+✅ GPU 3 completed 97 pairs in 1 chunks
+🎉 Memory-efficient processing completed for 389 pairs
+✅ Batch 12 completed. Memory cleaned up.
+🎉 Streaming multi-query processing completed for 12 queries
+💾 Saved 389 new chunk scores to cache: ../json_cache/cache_2024_film_premiere.json
+🔄 Building result from 389 total chunk scores
+✅ Upfront scoring completed!
+📊 Scored 389 chunks
+📊 Results saved to cache file: ../json_cache/cache_2024_film_premiere.json
+💾 Memory status after chunk scoring:
+💾 System Memory: 164.37GB / 251.50GB (69.5%)
+🎮 GPU 0: 0.00GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 10.71GB
+🧹 Memory cleanup after upfront scoring
+
+🔄 Mapping all claims to their related queries upfront...
+
+==================================================
+MAPPING ALL CLAIMS TO QUERIES UPFRONT
+==================================================
+📊 Found 83 unique claims to map
+📊 Mapping against 12 queries
+  📝 Mapping 83 claims to queries...
+Initializing Claim-Query Reranker...
+Using GPU for processing
+✅ Completed mapping 83 claims to queries
+💾 Claim-query mappings saved to cache file: ../json_cache/cache_2024_film_premiere.json
+📊 Cache now contains both chunk scores and claim-query mappings
+
+🔄 Processing Chain of Research iterations...
+🔧 Initializing global models for memory efficiency…
+
+==================================================
+ITERATION 1 MEMORY CHECK
+==================================================
+💾 System Memory: 164.73GB / 251.50GB (69.7%)
+🎮 GPU 0: 0.00GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 11.02GB
+Step 1: Checking action consistency...
+Step 2: Loading pre-computed chunk scores from cache...
+✅ Loaded 389 pre-computed chunk scores from cache
+Step 3: Running claim checking...
+Fetching content from 3 URLs...
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 3 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+🔧 Lazy loading NLI model for claim checking...
+🎮 Using GPU 0 with 23.68GB available
+✅ NLI model loaded on cuda:0
+Observation memory entailment score: neutral 0.00016763097664806992
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The provided background information includes some details about movies released in 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 3 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0011115525849163532
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The provided background information does not explicitly confirm any films with matching release dates in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 3 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0023103647399693727
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The provided background information does not explicitly confirm any films with matching release dates in the United States.
+--------------------------------------------------
+📝 Observation memory updated from claim checking: 0 characters
+💾 Saved iteration 1 result to file
+
+🧹 MEMORY CLEANUP after iteration 1
+Memory status after cleanup:
+💾 System Memory: 166.09GB / 251.50GB (70.2%)
+🎮 GPU 0: 1.63GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 12.43GB
+
+==================================================
+ITERATION 2 MEMORY CHECK
+==================================================
+💾 System Memory: 166.09GB / 251.50GB (70.2%)
+🎮 GPU 0: 1.63GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 12.43GB
+Step 1: Checking action consistency...
+🔍 Checking 11 actions against observation memory
+🔧 Loading NLI model on GPU 0 (22.06GB available)
+📥 Loading MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli on cuda:0
+✅ NLI model loaded successfully on cuda:0
+📊 GPU memory after NLI model loading: 3.25GB
+✅ Action checking completed: 11 actions processed
+Step 2: Loading pre-computed chunk scores from cache...
+✅ Loaded 389 pre-computed chunk scores from cache
+Step 3: Running claim checking...
+Fetching content from 8 URLs...
+
+🔍 Debug: Proper names:
+  - China
+  - January
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00014418954378925264
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" was officially released in mainland China in early January 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - United
+  - January
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00013895054871682078
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" was officially released in the United States in early January 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - China
+  - July
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00019532724400050938
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" was officially released in mainland China in July 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - United
+  - July
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0003309034218546003
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" was officially released in the United States in July 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - China
+  - November
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00017002593085635453
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" was officially released in mainland China in November 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - United
+  - November
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00014989805640652776
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" was officially released in the United States in November 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Tiger Dragon Rising Harmony
+  - China
+  - April
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00019828295626211911
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Tiger & Dragon: Rising Harmony" was officially released in mainland China in April 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Tiger Dragon Rising Harmony
+  - United
+  - April
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 8 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00024123945331666619
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Tiger & Dragon: Rising Harmony" was officially released in the United States in April 2024.
+--------------------------------------------------
+📝 Observation memory updated from claim checking: 0 characters
+💾 Saved iteration 2 result to file
+
+🧹 MEMORY CLEANUP after iteration 2
+Memory status after cleanup:
+💾 System Memory: 167.14GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.47GB
+
+==================================================
+ITERATION 3 MEMORY CHECK
+==================================================
+💾 System Memory: 167.14GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.47GB
+‼️ No relevant queries found for claim: Marvel Studios confirmed the synchronized release of "The Marvels" through their official website.
+‼️ No relevant queries found for claim: Disney's global rollout strategy (non-atomic, irrelevant to core query).
+Step 1: Checking action consistency...
+🔍 Checking 9 actions against observation memory
+✅ Action checking completed: 9 actions processed
+Step 2: Loading pre-computed chunk scores from cache...
+✅ Loaded 389 pre-computed chunk scores from cache
+Step 3: Running claim checking...
+Fetching content from 11 URLs...
+
+🔍 Debug: Proper names:
+  - Mainland China
+  - January
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00020282846526242793
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" was released in Mainland China on January 5, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - United
+  - January
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00024066930927801877
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" was released in the United States on January 5, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Disney
+  - Avatar
+  - Next
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: neutral 0.0004892126307822764
+  No target URL for claim; using BM25→NLI iterative loop on 29 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Walt Disney Studios to Release Filmed Version of 'Hamilton' in Theaters September 5 https://www.disneystudios.com/newsdetail/walt-disney-studios-to-release-filmed-version-of-hamilton-in-theaters-septe...
+ BM25 Retrieved Chunk 2: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 3: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+ BM25 Retrieved Chunk 4: x checkbox label label x checkbox label label x checkbox label label Confirm My Choices...
+ BM25 Retrieved Chunk 5: x checkbox label label x checkbox label label x checkbox label label Confirm My Choices...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdetail/first-look-at-20th-century-studios-eenie-meanie) Trailer, Poster and Images for 20th Century Studios’ 'Swipe...
+ BM25 Retrieved Chunk 2: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+ BM25 Retrieved Chunk 3: Image 8 https://walt-disney-studios.s3.amazonaws.com/20th_Century_Studios_Stack_Black_1887f0c002.png) Avatar: Fire and Ash©20th Century Studios https://www.disneystudios.com/business/20th-century-stud...
+ BM25 Retrieved Chunk 4: Disney’s 'Lilo & Stitch' Streaming Exclusively on Disney Sept. 3 https://www.disneystudios.com/newsdetail/disney-s-lilo-and-stitch-streaming-exclusively-on-disney-sept-3) First Look at 'Ella McCay' Fr...
+ BM25 Retrieved Chunk 5: For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built. Today it brings quality movies, episodic storytelling, and stage plays to consumers throughou...
+    Batch result: 1 entailment, 2 contradiction
+✅ Fact Entailment [Before Noise Domination]: Official announcements from Disney confirm the release date of "Avatar: The Next Chapter."
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+  - Next
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: neutral 0.0004037872713524848
+  No target URL for claim; using BM25→NLI iterative loop on 29 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+ BM25 Retrieved Chunk 2: Walt Disney Studios to Release Filmed Version of 'Hamilton' in Theaters September 5 https://www.disneystudios.com/newsdetail/walt-disney-studios-to-release-filmed-version-of-hamilton-in-theaters-septe...
+ BM25 Retrieved Chunk 3: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 4: x checkbox label label x checkbox label label x checkbox label label Confirm My Choices...
+ BM25 Retrieved Chunk 5: x checkbox label label x checkbox label label x checkbox label label Confirm My Choices...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+ BM25 Retrieved Chunk 2: First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdetail/first-look-at-20th-century-studios-eenie-meanie) Trailer, Poster and Images for 20th Century Studios’ 'Swipe...
+ BM25 Retrieved Chunk 3: Image 8 https://walt-disney-studios.s3.amazonaws.com/20th_Century_Studios_Stack_Black_1887f0c002.png) Avatar: Fire and Ash©20th Century Studios https://www.disneystudios.com/business/20th-century-stud...
+ BM25 Retrieved Chunk 4: You may also choose to enable online, where available, a universal tool that automatically communicates your opt out preferences, such as the Global Privacy Control “GPC” . We will process the GPC sig...
+ BM25 Retrieved Chunk 5: Image 5 https://walt-disney-studios.s3.amazonaws.com/wdas_0b46714093.png) Zootopia 2©Walt Disney Animation Studios https://www.disneystudios.com/business/walt-disney-animation-studios) Image 6 https:/...
+    Batch result: 1 entailment, 1 contradiction
+❌ [H3] Fact Fabrication: Reports from Chinese cinema chains confirm the release date of "Avatar: The Next Chapter."
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - Mainland China
+  - July
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.000270222284598276
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" was released in Mainland China on July 12, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - United
+  - July
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00045459542889147997
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" was released in the United States on July 12, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Paramount
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.00031309176119975746
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 2: 404 Page Not Found We're sorry, the page you requested could not be found, please go back to the home page. Back to Home https://www.paramount.com/)...
+ BM25 Retrieved Chunk 3: News https://www.paramount.com/news) Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers) Benefits https://www.paramount.com/careers/benefits)...
+ BM25 Retrieved Chunk 4: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+ BM25 Retrieved Chunk 5: SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) https://www.paramountplus.com/) https://www.linkedin.com/company/paramountco "Follow...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers)! Image 7: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navig...
+ BM25 Retrieved Chunk 2: Compliance Resources https://www.paramount.com/about#compliance-resources) News https://www.paramount.com/news)! Image 5: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramoun...
+ BM25 Retrieved Chunk 3: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 4: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+ BM25 Retrieved Chunk 5: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) History https://www.paramount.com/about/history) Compliance Resources http...
+ BM25 Retrieved Chunk 2: Markdown Content: 404 Paramount Skip to main content https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two main content https://www.paramount.com/)...
+ BM25 Retrieved Chunk 3: Title: 404 Paramount URL Source: https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Warning: Target URL returned error 404: Not Found Markdown Content:...
+ BM25 Retrieved Chunk 4: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 5: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+ BM25 Retrieved Chunk 2: Image 12: Return to top level navigation https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png) Investors Quarterly Results https://ir.paramount.com/quarterly-results...
+ BM25 Retrieved Chunk 3: https://www.paramount.com/) About https://www.paramount.com/about)! Image 3: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile....
+ BM25 Retrieved Chunk 4: Back to Home https://www.paramount.com/) About https://www.paramount.com/about) Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses)...
+ BM25 Retrieved Chunk 5: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Sustainability https://www.paramount.com/inclusion-impact/sustainability) Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/)! Image 11: Toggle...
+ BM25 Retrieved Chunk 2: INCLUSION & IMPACT https://www.paramount.com/inclusion-impact)! Image 9: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg)...
+ BM25 Retrieved Chunk 3: Inclusion & Impact https://www.paramount.com/inclusion-impact) Inclusion https://www.paramount.com/inclusion-impact/inclusion) Sustainability https://www.paramount.com/inclusion-impact/sustainability)...
+ BM25 Retrieved Chunk 4: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 5: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+    Batch result: all neutral; moving to next batch
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Paramount's press releases confirm the release date of "Mission: Impossible – Dead Reckoning Part Two."
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Regional
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0006895444239489734
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Regional box office reporting platforms confirm the release date of "Mission: Impossible – Dead Reckoning Part Two."
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - Mainland China
+  - November
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00022331383661367
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" was released in Mainland China on November 8, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - United
+  - November
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00020951771875843406
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" was released in the United States on November 8, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 51 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn']
+Observation memory entailment score: neutral 0.0004322479071561247
+  No target URL for claim; using BM25→NLI iterative loop on 51 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Image 20 https://dcs.conac.cn/image/red.png) https://bszs.conac.cn/sitename?method=show&id=9940127A223E9397E05310291AAC1449) https://bszs.conac.cn/sitename?method=show&id=9940127A223E9397E05310291AAC1...
+ BM25 Retrieved Chunk 2: 中国电影数据信息网 https://zgdypw.cn/#/root.html) Image 20 https://dcs.conac.cn/image/red.png) https://bszs.conac.cn/sitename?method=show&id=9940127A223E9397E05310291AAC1449) https://bszs.conac.cn/sitename?met...
+ BM25 Retrieved Chunk 3: 电影科学技术研究所 http://www.crifst.ac.cn/) 电影技术质量检测所 http://www.crifst.ac.cn/) 中国电影资料馆（中国电影艺术研究中心） https://www.cfa.org.cn/) 电影剧本规划策划中心 http://www.dyjbzx.org.cn/) 电影数字节目管理中心 http://www.dmcc.org.cn/mainSite/in...
+ BM25 Retrieved Chunk 4: Image 19 http://www.chinafilm.gov.cn/images/hbj. png http://www.chinafilm.gov.cn/xwzx/ztzl/zgdyhbj/ 电影直属单位网站 电影科学技术研究所 http://www.crifst.ac.cn/) 电影技术质量检测所 http://www.crifst.ac.cn/) 中国电影资料馆（中国电影艺术研究中心）...
+ BM25 Retrieved Chunk 5: 电影备案立项公示 http://www.chinafilm.gov.cn/xxgk/gsxx/dybalx/ 电影公映许可证公示 http://www.chinafilm.gov.cn/xxgk/gsxx/dygyxkz/ 电影发行经营许可证公示 http://www.chinafilm.gov.cn/xxgk/gsxx/dyfxjyxkz/ 预警名单 http://www.chinafilm.g...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: html 影院加入或改签院线工作程序 http://www.chinafilm.gov.cn/bsfw/bsxz/201910/t20191027 23979. html 公示信息 信息公开指南 http://www.chinafilm.gov.cn/xxgk/xxgkzn/ 电影备案立项公示 http://www.chinafilm.gov.cn/xxgk/gsxx/dybalx/ 电影公映许可...
+ BM25 Retrieved Chunk 2: html 电影审查程序 http://www.chinafilm.gov.cn/bsfw/bsxz/200605/t20060528 1913. html 跨省电影点播院线成立、变更业务须知 http://www.chinafilm.gov.cn/bsfw/bsxz/201906/t20190612 1914. html 电影发行经营许可证办理须知 http://www.chinafilm.gov...
+ BM25 Retrieved Chunk 3: html 成立电影院线公司申请材料 http://www.chinafilm.gov.cn/bsfw/bsxz/201909/t20190926 23977. html 电影片送审须知 http://www.chinafilm.gov.cn/bsfw/bsxz/201910/t20191008 23978. html 合作摄制电影立项程序 http://www.chinafilm.gov.cn/b...
+ BM25 Retrieved Chunk 4: 办事须知 虚拟现实影片送审须知（暂行） http://www.chinafilm.gov.cn/xxgk/gztz/202503/t20250325 888493. html 虚拟现实电影备案须知（暂行） http://www.chinafilm.gov.cn/xxgk/gztz/202503/t20250325 888487. html 成立电影院线公司申请材料 http://www.china...
+ BM25 Retrieved Chunk 5: png https://dy.chinafilm.gov.cn/) Image 17 http://www.chinafilm.gov.cn/images/bsdh 2. png 全国点播影院经营管理信息系统 https://gjdbyy.cn/portal/portal.html) 办事须知...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: Regional distributors in China validated the release date of "The Marvels."
+Relevant Chunks:
+  - html 影院加入或改签院线工作程序 http://www.chinafilm.gov.cn/bsfw/bsxz/201910/t20191027 23979. html 公示信息 信息公开指南 http://www.chinafilm.gov.cn/xxgk/xxgkzn/ 电影备案立项公示 http://www.chinafilm.gov.cn/xxgk/gsxx/dybalx/ 电影公映许可...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mainland China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0001801466423785314
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had matching official theatrical release dates in Mainland China and the United States during 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - Mainland China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00030509638600051403
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had matching official theatrical release dates in Mainland China and the United States during 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - Mainland China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00016787729691714048
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had matching official theatrical release dates in Mainland China and the United States during 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Paramount Pictures
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.007705310359597206
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Paramount Pictures coordinated a global release schedule (non-atomic, irrelevant to core query).
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvel Studios
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 94 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter', 'https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter', 'https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: neutral 0.00018733767501544207
+  No target URL for claim; using BM25→NLI iterative loop on 94 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Official Trailer Posters
+! Image 49: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_imax_lob_crd_01.jpg)
+! Image 50: Marvel Studios' The Marvels https://cdn.marvel.com/conten...
+ BM25 Retrieved Chunk 2: Blu ray Digital Code https://www.marvel.com/movies/the-marvels Image 48: Marvel Studios' The Marvels Movie Buy Now Purchase DVD https://cdn.marvel.com/content/1x/themarvels_lob_pur_dvd_01.png) https:/...
+ BM25 Retrieved Chunk 3: Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+ BM25 Retrieved Chunk 4: Title: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date URL Source: https://www.marvel.com/movies/the-marvels Published Time: Thu, 14 Aug 2025 06:19:35 GMT Markdown Content:...
+ BM25 Retrieved Chunk 5: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: Marvel Studios confirmed the release via social media (redundant with official website claim).
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Past
+  - Tiger Dragon Rising Harmony
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0008840592345222831
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Past Lives" and "Tiger & Dragon: Rising Harmony" claims (excluded as only 3 movies are requested).
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Verification
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0031512645073235035
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Verification methods (studio announcements, cinema schedules, etc.) are implied in source links.
+--------------------------------------------------
+📝 Observation memory updated from claim checking: 0 characters
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+2 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+Query: Are only official theatrical release dates considered?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.12588513722145594
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.7360135134512795
+  Rank in document: 1/29
+  Is in document top 10%: True
+✅  Fact Entailment [After Noise Domination]: Official announcements from Disney confirm the release date of "Avatar: The Next Chapter."
+✅ Claim already added to observation memory: Official announcements from Disney confirm the release date of "Avatar: The Next Chapter."
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+1 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.10144826965816298
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.10840573476850619
+  Rank in document: 2/51
+  Is in document top 10%: True
+✅  Fact Entailment [After Noise Domination]: Regional distributors in China validated the release date of "The Marvels."
+✅ Claim already added to observation memory: Regional distributors in China validated the release date of "The Marvels."
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+1 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.10144826965816298
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.6094776301363881
+  Rank in document: 1/29
+  Is in document top 10%: True
+✅  Fact Entailment [After Noise Domination]: Marvel Studios confirmed the release via social media (redundant with official website claim).
+✅ Claim already added to observation memory: Marvel Studios confirmed the release via social media (redundant with official website claim).
+💾 Saved iteration 3 result to file
+
+🧹 MEMORY CLEANUP after iteration 3
+Memory status after cleanup:
+💾 System Memory: 167.14GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+
+==================================================
+ITERATION 4 MEMORY CHECK
+==================================================
+💾 System Memory: 167.14GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+Step 1: Checking action consistency...
+🔍 Checking 4 actions against observation memory
+✅ Action checking completed: 4 actions processed
+Step 2: Loading pre-computed chunk scores from cache...
+✅ Loaded 389 pre-computed chunk scores from cache
+Step 3: Running claim checking...
+Fetching content from 11 URLs...
+
+🔍 Debug: Proper names:
+  - January
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0002301945205545053
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - January
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00035618391120806336
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.001208765315823257
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a theatrical release date of July 12, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0005688946694135666
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a theatrical release date of July 12, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0004423929494805634
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had a theatrical release date of November 8, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00036197950248606503
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had a theatrical release date of November 8, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: entailment 0.9964397549629211
+ ✅  Observation memory entailment: The release dates for "Avatar: The Next Chapter" were confirmed through studio announcements.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: contradiction 0.0022923732176423073
+  No target URL for claim; using BM25→NLI iterative loop on 29 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 2: For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built. Today it brings quality movies, episodic storytelling, and stage plays to consumers throughou...
+ BM25 Retrieved Chunk 3: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+ BM25 Retrieved Chunk 4: First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdetail/first-look-at-20th-century-studios-eenie-meanie) Trailer, Poster and Images for 20th Century Studios’ 'Swipe...
+ BM25 Retrieved Chunk 5: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: The release dates for "Avatar: The Next Chapter" were confirmed through regional film authority publications.
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: neutral 0.008989116176962852
+  No target URL for claim; using BM25→NLI iterative loop on 29 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 2: The Walt Disney Studios Image 1 https://www.disneystudios.com/fonts/logo.svg) https://www.disneystudios.com/) ABOUT https://www.disneystudios.com/about) NEWS https://www.disneystudios.com/news)...
+ BM25 Retrieved Chunk 3: NEWS https://www.disneystudios.com/news) FAQ https://www.disneystudios.com/faqs) search
+! Image 2 blob:http://localhost/b62df285d7f94a61f167f929b2666055)...
+ BM25 Retrieved Chunk 4: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+ BM25 Retrieved Chunk 5: First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdetail/first-look-at-20th-century-studios-eenie-meanie) Trailer, Poster and Images for 20th Century Studios’ 'Swipe...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: The release dates for "Avatar: The Next Chapter" were confirmed through authoritative entertainment news outlets.
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.0020114430226385593
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: 404 Page Not Found We're sorry, the page you requested could not be found, please go back to the home page. Back to Home https://www.paramount.com/)...
+ BM25 Retrieved Chunk 2: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 3: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+ BM25 Retrieved Chunk 4: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 5: https://www.paramount.com/) About https://www.paramount.com/about)! Image 3: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile....
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers)! Image 7: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navig...
+ BM25 Retrieved Chunk 2: Compliance Resources https://www.paramount.com/about#compliance-resources) News https://www.paramount.com/news)! Image 5: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramoun...
+ BM25 Retrieved Chunk 3: Sustainability https://www.paramount.com/inclusion-impact/sustainability) Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/)! Image 11: Toggle...
+ BM25 Retrieved Chunk 4: INCLUSION & IMPACT https://www.paramount.com/inclusion-impact)! Image 9: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg)...
+ BM25 Retrieved Chunk 5: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+ BM25 Retrieved Chunk 2: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 3: Image 17: brand logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png) https://www.paramount.c...
+ BM25 Retrieved Chunk 4: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 5: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: https://www.instagram.com/paramountco/ "Follow on Instgram" https://www.facebook.com/ParamountCompany "Follow on Facebook" https://www.threads.net/@paramountco "Follow on Thread" https://www.youtube.c...
+ BM25 Retrieved Chunk 2: Back to Home https://www.paramount.com/) About https://www.paramount.com/about) Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses)...
+ BM25 Retrieved Chunk 3: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 4: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+ BM25 Retrieved Chunk 5: News https://www.paramount.com/news) Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers) Benefits https://www.paramount.com/careers/benefits)...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Inclusion & Impact https://www.paramount.com/inclusion-impact) Inclusion https://www.paramount.com/inclusion-impact/inclusion) Sustainability https://www.paramount.com/inclusion-impact/sustainability)...
+ BM25 Retrieved Chunk 2: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 3: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+ BM25 Retrieved Chunk 4: Image 13: pluto tv logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg) https://pluto.tv/) Paramount 404page
+! Image 14: 404 https://www.para...
+ BM25 Retrieved Chunk 5: Image 12: Return to top level navigation https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png) Investors Quarterly Results https://ir.paramount.com/quarterly-results...
+    Batch result: all neutral; moving to next batch
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The release dates for "Mission: Impossible – Dead Reckoning Part Two" were confirmed through studio announcements.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.002874799771234393
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: 404 Page Not Found We're sorry, the page you requested could not be found, please go back to the home page. Back to Home https://www.paramount.com/)...
+ BM25 Retrieved Chunk 2: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 3: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+ BM25 Retrieved Chunk 4: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 5: https://www.paramount.com/) About https://www.paramount.com/about)! Image 3: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile....
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers)! Image 7: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navig...
+ BM25 Retrieved Chunk 2: Compliance Resources https://www.paramount.com/about#compliance-resources) News https://www.paramount.com/news)! Image 5: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramoun...
+ BM25 Retrieved Chunk 3: Sustainability https://www.paramount.com/inclusion-impact/sustainability) Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/)! Image 11: Toggle...
+ BM25 Retrieved Chunk 4: INCLUSION & IMPACT https://www.paramount.com/inclusion-impact)! Image 9: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg)...
+ BM25 Retrieved Chunk 5: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+ BM25 Retrieved Chunk 2: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 3: Image 17: brand logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png) https://www.paramount.c...
+ BM25 Retrieved Chunk 4: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 5: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: https://www.instagram.com/paramountco/ "Follow on Instgram" https://www.facebook.com/ParamountCompany "Follow on Facebook" https://www.threads.net/@paramountco "Follow on Thread" https://www.youtube.c...
+ BM25 Retrieved Chunk 2: Back to Home https://www.paramount.com/) About https://www.paramount.com/about) Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses)...
+ BM25 Retrieved Chunk 3: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 4: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+ BM25 Retrieved Chunk 5: News https://www.paramount.com/news) Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers) Benefits https://www.paramount.com/careers/benefits)...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Inclusion & Impact https://www.paramount.com/inclusion-impact) Inclusion https://www.paramount.com/inclusion-impact/inclusion) Sustainability https://www.paramount.com/inclusion-impact/sustainability)...
+ BM25 Retrieved Chunk 2: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 3: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+ BM25 Retrieved Chunk 4: Image 13: pluto tv logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg) https://pluto.tv/) Paramount 404page
+! Image 14: 404 https://www.para...
+ BM25 Retrieved Chunk 5: Image 12: Return to top level navigation https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png) Investors Quarterly Results https://ir.paramount.com/quarterly-results...
+    Batch result: 0 entailment, 1 contradiction
+❌ [H4] Fact Contradiction: The release dates for "Mission: Impossible – Dead Reckoning Part Two" were confirmed through regional film authority publications.
+Relevant Chunks:
+  - Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: contradiction 0.00113425322342664
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 2: 404 Page Not Found We're sorry, the page you requested could not be found, please go back to the home page. Back to Home https://www.paramount.com/)...
+ BM25 Retrieved Chunk 3: Compliance Resources https://www.paramount.com/about#compliance-resources) News https://www.paramount.com/news)! Image 5: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramoun...
+ BM25 Retrieved Chunk 4: News https://www.paramount.com/news) Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers) Benefits https://www.paramount.com/careers/benefits)...
+ BM25 Retrieved Chunk 5: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 2: https://www.paramount.com/) About https://www.paramount.com/about)! Image 3: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile....
+ BM25 Retrieved Chunk 3: Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers)! Image 7: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navig...
+ BM25 Retrieved Chunk 4: Sustainability https://www.paramount.com/inclusion-impact/sustainability) Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/)! Image 11: Toggle...
+ BM25 Retrieved Chunk 5: INCLUSION & IMPACT https://www.paramount.com/inclusion-impact)! Image 9: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg)...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 2: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+ BM25 Retrieved Chunk 3: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 4: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 5: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: https://www.instagram.com/paramountco/ "Follow on Instgram" https://www.facebook.com/ParamountCompany "Follow on Facebook" https://www.threads.net/@paramountco "Follow on Thread" https://www.youtube.c...
+ BM25 Retrieved Chunk 2: Back to Home https://www.paramount.com/) About https://www.paramount.com/about) Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses)...
+ BM25 Retrieved Chunk 3: Inclusion & Impact https://www.paramount.com/inclusion-impact) Inclusion https://www.paramount.com/inclusion-impact/inclusion) Sustainability https://www.paramount.com/inclusion-impact/sustainability)...
+ BM25 Retrieved Chunk 4: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 5: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Image 17: brand logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png) https://www.paramount.c...
+ BM25 Retrieved Chunk 2: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 3: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+ BM25 Retrieved Chunk 4: Image 13: pluto tv logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg) https://pluto.tv/) Paramount 404page
+! Image 14: 404 https://www.para...
+ BM25 Retrieved Chunk 5: Image 12: Return to top level navigation https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png) Investors Quarterly Results https://ir.paramount.com/quarterly-results...
+    Batch result: all neutral; moving to next batch
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The release dates for "Mission: Impossible – Dead Reckoning Part Two" were confirmed through authoritative entertainment news outlets.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 65 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: entailment 0.6829825043678284
+ ✅  Observation memory entailment: The release dates for "The Marvels" were confirmed through studio announcements.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 65 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: contradiction 0.018503066152334213
+  No target URL for claim; using BM25→NLI iterative loop on 65 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Title: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date URL Source: https://www.marvel.com/movies/the-marvels Published Time: Thu, 14 Aug 2025 06:19:35 GMT Markdown Content:...
+ BM25 Retrieved Chunk 2: Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+ BM25 Retrieved Chunk 3: Brie Larson, Teyonah Parris, Iman Vellani, Zawe Ashton, Gary Lewis, Seo Jun Park, Zenobia Shroff, Mohan Kapur, Saagar Shaikh, and Samuel L. Jackson Release Date November 10, 2023
+!...
+ BM25 Retrieved Chunk 4: Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+ BM25 Retrieved Chunk 5: Auto renewal and other terms apply. See marvel. com/unlimited for additional details. https://www.marvel.com/unlimited?cid=dcom_promomodule_20230125_unlimited_news)...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,...
+ BM25 Retrieved Chunk 2: Trailers & Extras The Marvels Flerkittens: The Real and Digital Kittens https://www.marvel.com/watch/trailers-and-extras/the-marvels-flerkittens-the-real-and-digital-kittens) Image 16: The Marvels Beh...
+ BM25 Retrieved Chunk 3: We will process the GPC signal as a request to opt out. If you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. You...
+ BM25 Retrieved Chunk 4: Image 34: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-01822_rc.jpg)
+! Image 35: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-13045_r.jpg)
+! Image 36: Marvel ...
+ BM25 Retrieved Chunk 5: Image 31: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/ssw1180_comp_trx_v0016.1105.jpg)
+! Image 32: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alp1720_trl_comp_wta_...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Image 25: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alf1100_comp_wta_v0061.1040_r.jpg)
+! Image 26: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-01033_r.jpg)
+! ...
+ BM25 Retrieved Chunk 2: Image 50: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_dolby_lob_crd_01.jpg)
+! Image 51: Marvel Studios' The Marvels Movie Poster https://cdn.marvel.com/content/1x/themarve...
+ BM25 Retrieved Chunk 3: Image 28: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/fep1220_comp_ilm_v0013.1402_r.jpg)
+! Image 29: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/opn1180_comp_trx_v0...
+ BM25 Retrieved Chunk 4: Image 22: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alp1720_trl_comp_wta_v0079.1376.jpg)
+! Image 23: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/kho7010_comp_wta_...
+ BM25 Retrieved Chunk 5: Your key for reading Marvel Unlimited https://www.marvel.com/unlimited?cid=dcom_navigation_20210622_unlimited_link) and Digital Comic purchases across multiple devices. Get the latest news, original c...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: Manage Consent Preferences Essential Cookies Always Active These cookies are necessary for our services to function and cannot be switched off in our systems....
+ BM25 Retrieved Chunk 2: Enhance your marvel Experience
+! Image 10: Marvel Unlimited Logo https://cdn.marvel.com/u/prod/marvel/images/mu/web/2021/Unlimited_Logo_Full_Lockup-onBlack.svg) Unlock the world of Marvel Digital Comi...
+ BM25 Retrieved Chunk 3: Official Trailer Posters
+! Image 49: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_imax_lob_crd_01.jpg)
+! Image 50: Marvel Studios' The Marvels https://cdn.marvel.com/conten...
+ BM25 Retrieved Chunk 4: Image 53: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_screenx_lob_crd_01.jpg)
+! Image 54: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_lob_crd_...
+ BM25 Retrieved Chunk 5: You will need to separately exercise your opt out rights with regard to each, which you may do through this IAB opt out list. https://www.iabprivacy.com/optout.html) You may also wish to use other ava...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Gear Shop Marvel Must Haves: 'The Marvels' Arrives on Disney https://www.marvel.com/articles/gear/shop-marvel-must-haves-the-marvels-disney-plus) Image 18: the marvels https://cdn.marvel.com/content/1...
+ BM25 Retrieved Chunk 2: Notice of Right to Opt Out of Sale/Sharing Some states provide residents or, in some cases, their authorized agents with the right to opt out of “targeted advertising,” “selling,” or “sharing” of pers...
+ BM25 Retrieved Chunk 3: You or your legally authorized agent can move the toggle above to the left to opt out of these activities on this digital property consistent with applicable law. Please note that, because these activ...
+ BM25 Retrieved Chunk 4: Final Trailer Latest News Image 15: The Marvels Flerkittens: The Real and Digital Kittens https://cdn.marvel.com/content/1x/poster_6345957963112_7199a5967d007f35a42252eab1bd91d4_9.jpg) 1:54 https://ww...
+ BM25 Retrieved Chunk 5: Digital https://www.marvel.com/movies/the-marvels Image 45: Marvel Studios' The Marvels Movie Buy Now Purchase Walmart Exclusive Steelbook https://cdn.marvel.com/content/1x/themarvels_lob_pur_steelboo...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: The release dates for "The Marvels" were confirmed through regional film authority publications.
+Relevant Chunks:
+  - Digital https://www.marvel.com/movies/the-marvels Image 45: Marvel Studios' The Marvels Movie Buy Now Purchase Walmart Exclusive Steelbook https://cdn.marvel.com/content/1x/themarvels_lob_pur_steelboo...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 65 chunks from cache for 11 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: neutral 0.014787460677325726
+  No target URL for claim; using BM25→NLI iterative loop on 65 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Your key for reading Marvel Unlimited https://www.marvel.com/unlimited?cid=dcom_navigation_20210622_unlimited_link) and Digital Comic purchases across multiple devices. Get the latest news, original c...
+ BM25 Retrieved Chunk 2: Final Trailer Latest News Image 15: The Marvels Flerkittens: The Real and Digital Kittens https://cdn.marvel.com/content/1x/poster_6345957963112_7199a5967d007f35a42252eab1bd91d4_9.jpg) 1:54 https://ww...
+ BM25 Retrieved Chunk 3: Title: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date URL Source: https://www.marvel.com/movies/the-marvels Published Time: Thu, 14 Aug 2025 06:19:35 GMT Markdown Content:...
+ BM25 Retrieved Chunk 4: Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+ BM25 Retrieved Chunk 5: Brie Larson, Teyonah Parris, Iman Vellani, Zawe Ashton, Gary Lewis, Seo Jun Park, Zenobia Shroff, Mohan Kapur, Saagar Shaikh, and Samuel L. Jackson Release Date November 10, 2023
+!...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+ BM25 Retrieved Chunk 2: Image 11: Marvel Unlimited logo https://cdn.marvel.com/u/prod/marvel/images/mu/web/2021/icon-mu-shield.png) Marvel Unlimited Subscribe https://www.marvel.com/unlimited?cid=dcom_navigation_20210331_unl...
+ BM25 Retrieved Chunk 3: Auto renewal and other terms apply. See marvel. com/unlimited for additional details. https://www.marvel.com/unlimited?cid=dcom_promomodule_20230125_unlimited_news)...
+ BM25 Retrieved Chunk 4: These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,...
+ BM25 Retrieved Chunk 5: Trailers & Extras The Marvels Flerkittens: The Real and Digital Kittens https://www.marvel.com/watch/trailers-and-extras/the-marvels-flerkittens-the-real-and-digital-kittens) Image 16: The Marvels Beh...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: We will process the GPC signal as a request to opt out. If you opt out, you may continue to see advertising, including ads that may be based on personal information processed before you opted out. You...
+ BM25 Retrieved Chunk 2: Image 31: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/ssw1180_comp_trx_v0016.1105.jpg)
+! Image 32: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alp1720_trl_comp_wta_...
+ BM25 Retrieved Chunk 3: Image 50: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_dolby_lob_crd_01.jpg)
+! Image 51: Marvel Studios' The Marvels Movie Poster https://cdn.marvel.com/content/1x/themarve...
+ BM25 Retrieved Chunk 4: Image 25: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alf1100_comp_wta_v0061.1040_r.jpg)
+! Image 26: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-01033_r.jpg)
+! ...
+ BM25 Retrieved Chunk 5: Image 34: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-01822_rc.jpg)
+! Image 35: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/gro-13045_r.jpg)
+! Image 36: Marvel ...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: Image 28: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/fep1220_comp_ilm_v0013.1402_r.jpg)
+! Image 29: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/opn1180_comp_trx_v0...
+ BM25 Retrieved Chunk 2: Image 22: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/alp1720_trl_comp_wta_v0079.1376.jpg)
+! Image 23: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/kho7010_comp_wta_...
+ BM25 Retrieved Chunk 3: Manage Consent Preferences Essential Cookies Always Active These cookies are necessary for our services to function and cannot be switched off in our systems....
+ BM25 Retrieved Chunk 4: Enhance your marvel Experience
+! Image 10: Marvel Unlimited Logo https://cdn.marvel.com/u/prod/marvel/images/mu/web/2021/Unlimited_Logo_Full_Lockup-onBlack.svg) Unlock the world of Marvel Digital Comi...
+ BM25 Retrieved Chunk 5: Official Trailer Posters
+! Image 49: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_imax_lob_crd_01.jpg)
+! Image 50: Marvel Studios' The Marvels https://cdn.marvel.com/conten...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Image 53: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_screenx_lob_crd_01.jpg)
+! Image 54: Marvel Studios' The Marvels https://cdn.marvel.com/content/1x/themarvels_lob_crd_...
+ BM25 Retrieved Chunk 2: You will need to separately exercise your opt out rights with regard to each, which you may do through this IAB opt out list. https://www.iabprivacy.com/optout.html) You may also wish to use other ava...
+ BM25 Retrieved Chunk 3: Gear Shop Marvel Must Haves: 'The Marvels' Arrives on Disney https://www.marvel.com/articles/gear/shop-marvel-must-haves-the-marvels-disney-plus) Image 18: the marvels https://cdn.marvel.com/content/1...
+ BM25 Retrieved Chunk 4: Notice of Right to Opt Out of Sale/Sharing Some states provide residents or, in some cases, their authorized agents with the right to opt out of “targeted advertising,” “selling,” or “sharing” of pers...
+ BM25 Retrieved Chunk 5: You or your legally authorized agent can move the toggle above to the left to opt out of these activities on this digital property consistent with applicable law. Please note that, because these activ...
+    Batch result: all neutral; moving to next batch
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The release dates for "The Marvels" were confirmed through authoritative entertainment news outlets.
+--------------------------------------------------
+📝 Observation memory updated from claim checking: 442 characters
+Entailed by observation memory, skip noise detection!
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+3 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+Query: Is the shared theatrical release date provided for each movie?
+Query: Are the sources explicit (e.g., IMDb or official news articles)?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.1605574826151459
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.43320647867108325
+  Rank in document: 1/29
+  Is in document top 10%: True
+✅  Fact Entailment [After Noise Domination]: The release dates for "Avatar: The Next Chapter" were confirmed through regional film authority publications.
+✅ Claim already added to observation memory: The release dates for "Avatar: The Next Chapter" were confirmed through regional film authority publications.
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+2 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+Query: Are the sources explicit (e.g., IMDb or official news articles)?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.15837043169657183
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.341333038246453
+  Rank in document: 1/29
+  Is in document top 10%: True
+✅  Fact Entailment [After Noise Domination]: The release dates for "Avatar: The Next Chapter" were confirmed through authoritative entertainment news outlets.
+✅ Claim already added to observation memory: The release dates for "Avatar: The Next Chapter" were confirmed through authoritative entertainment news outlets.
+Entailed by observation memory, skip noise detection!
+  📊 Reconstructed 288 chunk scores for noise detection in iteration
+1 related query indices
+Query: Are credible source links provided confirming the theatrical release dates?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.10144826965816298
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.07907389986830406
+  Rank in document: 10/65
+  Is in document top 10%: False
+❌ [H5] Document & Chunk-Level Noise Domination: The release dates for "The Marvels" were confirmed through regional film authority publications.
+💾 Saved iteration 4 result to file
+
+🧹 MEMORY CLEANUP after iteration 4
+Memory status after cleanup:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+
+==================================================
+PROCESSING REPORT
+==================================================
+
+==================================================
+PROCESSING REPORT PARAGRAPHS
+==================================================
+✅ Using cached atomic claims from cache file
+💾 No reranker models loaded here - using pre-computed scores from cache
+Found 30 cached paragraphs with atomic claims
+
+💾 Memory status before report processing:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+
+Processing cached paragraph 1/30...
+  No atomic claims found in cached paragraph 1
+💾 Saved paragraph 1 result to file
+
+Processing cached paragraph 2/30...
+  No atomic claims found in cached paragraph 2
+💾 Saved paragraph 2 result to file
+
+Processing cached paragraph 3/30...
+  Using 6 cached claims from paragraph 3
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+  - January
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0008693292620591819
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" premiered on January 5, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - January
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0009869082132354379
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" premiered on January 5, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.002383424201980233
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.004484313074499369
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0035836691968142986
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had a release on November 8, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.004557664506137371
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had a release on November 8, 2024 in the United States.
+--------------------------------------------------
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" premiered on January 5, 2024 in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" premiered on January 5, 2024 in mainland China.
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" premiered on January 5, 2024 in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" premiered on January 5, 2024 in the United States.
+--------------------------------------------------
+Claim: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in mainland China.
+--------------------------------------------------
+Claim: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had a release on July 12, 2024 in the United States.
+--------------------------------------------------
+Claim: "The Marvels" had a release on November 8, 2024 in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "The Marvels" had a release on November 8, 2024 in mainland China.
+--------------------------------------------------
+Claim: "The Marvels" had a release on November 8, 2024 in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "The Marvels" had a release on November 8, 2024 in the United States.
+💾 Saved paragraph 3 result to file
+  ✅ Cached paragraph 3 processed successfully
+
+Processing cached paragraph 4/30...
+  No atomic claims found in cached paragraph 4
+💾 Saved paragraph 4 result to file
+
+Processing cached paragraph 5/30...
+  Using 6 cached claims from paragraph 5
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.0005443915142677724
+  No target URL for claim; using BM25→NLI iterative loop on 232 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 2: 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+ BM25 Retrieved Chunk 3: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+ BM25 Retrieved Chunk 4: The Top 14 Perform https://www.imdb.com/title/tt1234567/?ref_=ttrel_rvi_t_1) Get the IMDb App https://slyb.app.link/SKdyQ6A449) Sign in for more access https://www.imdb.com/registration/signin/?u=%2Ft...
+ BM25 Retrieved Chunk 5: Always Active These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request...
+    Batch result: 0 entailment, 1 contradiction
+❌ [H4] Fact Contradiction: "Avatar: The Next Chapter" premiered in 2024.
+Relevant Chunks:
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.026272865012288094
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had matching theatrical release dates in mainland China and the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.003055020933970809
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 2: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+ BM25 Retrieved Chunk 3: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 4: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 5: Image 17: brand logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png) https://www.paramount.c...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 2: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+ BM25 Retrieved Chunk 3: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 4: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+ BM25 Retrieved Chunk 5: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+    Batch result: 0 entailment, 1 contradiction
+❌ [H4] Fact Contradiction: "Mission: Impossible – Dead Reckoning Part Two" premiered in 2024.
+Relevant Chunks:
+  - Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: contradiction 0.030131952837109566
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had matching theatrical release dates in mainland China and the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 65 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: neutral 0.0015952581306919456
+  No target URL for claim; using BM25→NLI iterative loop on 65 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+ BM25 Retrieved Chunk 2: These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,...
+ BM25 Retrieved Chunk 3: 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+ BM25 Retrieved Chunk 4: More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+ BM25 Retrieved Chunk 5: Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+    Batch result: 0 entailment, 4 contradiction
+❌ [H4] Fact Contradiction: "The Marvels" premiered in 2024.
+Relevant Chunks:
+  - Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+  - Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+  - More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.299762099981308
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "The Marvels" had matching theatrical release dates in mainland China and the United States.
+--------------------------------------------------
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" premiered in 2024.
+Final Judgment: contradiction
+Relevant Chunks:
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+❌ [H4] Fact Contradiction: "Avatar: The Next Chapter" premiered in 2024.
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" had matching theatrical release dates in mainland China and the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had matching theatrical release dates in mainland China and the United States.
+--------------------------------------------------
+Claim: "Mission: Impossible – Dead Reckoning Part Two" premiered in 2024.
+Final Judgment: contradiction
+Relevant Chunks:
+  - Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+❌ [H4] Fact Contradiction: "Mission: Impossible – Dead Reckoning Part Two" premiered in 2024.
+--------------------------------------------------
+Claim: "Mission: Impossible – Dead Reckoning Part Two" had matching theatrical release dates in mainland China and the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Mission: Impossible – Dead Reckoning Part Two" had matching theatrical release dates in mainland China and the United States.
+--------------------------------------------------
+Claim: "The Marvels" premiered in 2024.
+Final Judgment: contradiction
+Relevant Chunks:
+  - Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+  - Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+  - More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+❌ [H4] Fact Contradiction: "The Marvels" premiered in 2024.
+--------------------------------------------------
+Claim: "The Marvels" had matching theatrical release dates in mainland China and the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "The Marvels" had matching theatrical release dates in mainland China and the United States.
+💾 Saved paragraph 5 result to file
+  ✅ Cached paragraph 5 processed successfully
+
+Processing cached paragraph 6/30...
+  No atomic claims found in cached paragraph 6
+💾 Saved paragraph 6 result to file
+
+Processing cached paragraph 7/30...
+  No atomic claims found in cached paragraph 7
+💾 Saved paragraph 7 result to file
+
+Processing cached paragraph 8/30...
+  Using 6 cached claims from paragraph 8
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  ⚠️ URL not found in web_content: https://www.imdb.com/title/tt1630029/releaseinfo
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  ⏭️ Skipping claim due to previous URL error: "Avatar: The Next Chapter" premiered in 2024.
+
+🔍 Debug: Proper names:
+  - January
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  ⏭️ Skipping claim due to previous URL error: "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in mainland China.
+
+🔍 Debug: Proper names:
+  - January
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  ⏭️ Skipping claim due to previous URL error: "Avatar: The Next Chapter" had a theatrical release date of January 5, 2024 in the United States.
+
+🔍 Debug: Proper names:
+  - Disney
+  - January
+  - Avatar
+  - Next
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  ⏭️ Skipping claim due to previous URL error: Official press releases from Disney confirmed the January 5, 2024 release date for "Avatar: The Next Chapter".
+
+🔍 Debug: Proper names:
+  - January
+  - Avatar
+  - Next
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  ⏭️ Skipping claim due to previous URL error: Regional reports from Chinese cinema chains corroborated the January 5, 2024 release date for "Avatar: The Next Chapter".
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: https://www.imdb.com/title/tt1630029/releaseinfo/
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: https://www.imdb.com/title/tt1630029/releaseinfo/
+💾 Saved paragraph 8 result to file
+  ✅ Cached paragraph 8 processed successfully
+
+Processing cached paragraph 9/30...
+  No atomic claims found in cached paragraph 9
+💾 Saved paragraph 9 result to file
+
+Processing cached paragraph 10/30...
+
+💾 Memory check at paragraph 10:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+  No atomic claims found in cached paragraph 10
+💾 Saved paragraph 10 result to file
+
+Processing cached paragraph 11/30...
+  Using 7 cached claims from paragraph 11
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.002309206873178482
+  No target URL for claim; using BM25→NLI iterative loop on 32 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Mission & Values https://www.paramount.com/about#mission-and-values) History https://www.paramount.com/about/history) Compliance Resources https://www.paramount.com/about#compliance-resources) News ht...
+ BM25 Retrieved Chunk 2: Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses) Mission & Values https://www.paramount.com/about#mission-and-values) Leadership https://www.paramo...
+ BM25 Retrieved Chunk 3: Businesses https://www.paramount.com/about/businesses) Leadership https://www.paramount.com/about/leadership) Board of Directors https://www.paramount.com/about/board-of-directors) Mission & Values ht...
+ BM25 Retrieved Chunk 4: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 5: Image 17: brand logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePage/Images/Skydance%20Merger%202025/Footer/paramount-skydance-footer-logo.png) https://www.paramount.c...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Streaming Services https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two Image 15: Paramount Plus https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/HomePa...
+ BM25 Retrieved Chunk 2: https://www.youtube.com/c/ParamountCompany "Follow on Youtube" Terms of Use https://www.paramount.com/terms-of-use) Privacy Policy https://privacy.paramount.com/policy) Contact Us https://www.paramoun...
+ BM25 Retrieved Chunk 3: Contact Us https://www.paramount.com/contact-us) Your Privacy Choices javascript:void 0 California Notice https://privacy.paramount.com/en/policy#additional-information-us-states) Your Privacy Choices...
+ BM25 Retrieved Chunk 4: Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/) Quarterly Results https://ir.paramount.com/quarterly-results) Events & Webcasts https://ir....
+ BM25 Retrieved Chunk 5: Events & Webcasts https://ir.paramount.com/events-webcasts-annual-meetings) SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) Streamin...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Inclusion & Impact https://www.paramount.com/inclusion-impact) Inclusion https://www.paramount.com/inclusion-impact/inclusion) Sustainability https://www.paramount.com/inclusion-impact/sustainability)...
+ BM25 Retrieved Chunk 2: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+ BM25 Retrieved Chunk 3: News https://www.paramount.com/news) Press Releases https://www.paramount.com/press) Careers https://www.paramount.com/careers) Benefits https://www.paramount.com/careers/benefits)...
+ BM25 Retrieved Chunk 4: Benefits https://www.paramount.com/careers/benefits) Life at Paramount https://www.paramount.com/careers/life-at-paramount) Streaming Jobs https://www.paramount.com/careers/streaming-jobs) Locations h...
+ BM25 Retrieved Chunk 5: Back to Home https://www.paramount.com/) About https://www.paramount.com/about) Brands https://www.paramount.com/about/brands) Businesses https://www.paramount.com/about/businesses)...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 4th batch:
+ BM25 Retrieved Chunk 1: https://www.instagram.com/paramountco/ "Follow on Instgram" https://www.facebook.com/ParamountCompany "Follow on Facebook" https://www.threads.net/@paramountco "Follow on Thread" https://www.youtube.c...
+ BM25 Retrieved Chunk 2: 404 Page Not Found We're sorry, the page you requested could not be found, please go back to the home page. Back to Home https://www.paramount.com/)...
+ BM25 Retrieved Chunk 3: Image 13: pluto tv logo https://www.paramount.com/sites/g/files/dxjhpe356/files/ParamountDotCom/Others/Images/Footer/Pluto-TV.svg) https://pluto.tv/) Paramount 404page
+! Image 14: 404 https://www.para...
+ BM25 Retrieved Chunk 4: https://www.linkedin.com/company/paramountco "Follow on Linkedin" https://www.instagram.com/paramountco/ "Follow on Instgram" https://www.facebook.com/ParamountCompany "Follow on Facebook" https://www...
+ BM25 Retrieved Chunk 5: https://www.threads.net/@paramountco "Follow on Thread" https://www.youtube.com/c/ParamountCompany "Follow on Youtube" https://www.paramountplus.com/) ! Image 13: pluto tv logo https://www.paramount.c...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 5th batch:
+ BM25 Retrieved Chunk 1: Image 12: Return to top level navigation https://www.paramount.com/themes/custom/paramount/images/navbar/dropdown-breadcrumb.png) Investors Quarterly Results https://ir.paramount.com/quarterly-results...
+ BM25 Retrieved Chunk 2: Sustainability https://www.paramount.com/inclusion-impact/sustainability) Global Impact https://www.paramount.com/inclusion-impact/global-impact) Investors https://ir.paramount.com/)! Image 11: Toggle...
+ BM25 Retrieved Chunk 3: INCLUSION & IMPACT https://www.paramount.com/inclusion-impact)! Image 9: Toggle sub menu for Investors https://www.paramount.com/themes/custom/paramount/images/navbar/navigation_icon_right_mobile.svg)...
+ BM25 Retrieved Chunk 4: SEC Filings https://ir.paramount.com/sec-filings/paramount) Press Releases https://ir.paramount.com/press-releases) https://www.paramountplus.com/) https://www.linkedin.com/company/paramountco "Follow...
+ BM25 Retrieved Chunk 5: Locations https://www.paramount.com/careers/international-careers) Internships https://www.paramount.com/careers/internships) Applicant Login https://career41.sapsf.com/career?career_company=viacomcbs...
+    Batch result: all neutral; moving to next batch
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two premiered in 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0009656772017478943
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - July
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.010135344229638577
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Paramount Pictures
+  - July
+  - Mission Impossible Dead Reckoning Part
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.013205981813371181
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: Paramount Pictures announced the July 12, 2024 release date for Mission: Impossible – Dead Reckoning Part Two.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  ⚠️ URL not found in web_content: https://www.boxofficemojo.com/"
+
+🔍 Debug: Proper names:
+  - Removed Box Office Mojo
+  - Mission Impossible Dead Reckoning Part
+  - China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  ⏭️ Skipping claim due to previous URL error: Removed "Box Office Mojo validated Mission: Impossible – Dead Reckoning Part Two's performance in mainland China and the United States." (non-atomic and weakly relevant to release date confirmation).
+
+🔍 Debug: Proper names:
+  - Source
+  - Paramount
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 32 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  ⏭️ Skipping claim due to previous URL error: The remaining claims are atomic and directly confirm the release dates. Source links (e.g., Paramount's announcement) would need to be explicitly provided for full compliance with the query.
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: Mission: Impossible – Dead Reckoning Part Two premiered in 2024.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two premiered in 2024.
+--------------------------------------------------
+Claim: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in mainland China.
+--------------------------------------------------
+Claim: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: Mission: Impossible – Dead Reckoning Part Two had a theatrical release date of July 12, 2024 in the United States.
+--------------------------------------------------
+Claim: Paramount Pictures announced the July 12, 2024 release date for Mission: Impossible – Dead Reckoning Part Two.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: Paramount Pictures announced the July 12, 2024 release date for Mission: Impossible – Dead Reckoning Part Two.
+--------------------------------------------------
+Claim: Removed "https://www.boxofficemojo.com/" (not a claim).
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: Removed "https://www.boxofficemojo.com/" (not a claim).
+💾 Saved paragraph 11 result to file
+  ✅ Cached paragraph 11 processed successfully
+
+Processing cached paragraph 12/30...
+  No atomic claims found in cached paragraph 12
+💾 Saved paragraph 12 result to file
+
+Processing cached paragraph 13/30...
+  No atomic claims found in cached paragraph 13
+💾 Saved paragraph 13 result to file
+
+Processing cached paragraph 14/30...
+  Using 4 cached claims from paragraph 14
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  Claim is a valid URL: https://www.marvel.com/movies/the-marvels
+
+🔍 Debug: Proper names:
+  - Marvels
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 65 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.marvel.com/movies/the-marvels']
+Observation memory entailment score: neutral 0.0014068575110286474
+  Scoring against 65 chunks from target URL: https://www.marvel.com/movies/the-marvels
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+ BM25 Retrieved Chunk 2: These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services,...
+ BM25 Retrieved Chunk 3: 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+ BM25 Retrieved Chunk 4: More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+ BM25 Retrieved Chunk 5: Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+    Batch result: 0 entailment, 4 contradiction
+❌ [H4] Fact Contradiction: The Marvels premiered in 2024.
+Relevant Chunks:
+  - Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+  - Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+  - More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0009181236382573843
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The Marvels had a theatrical release date of November 8, 2024 in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Marvels
+  - November
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.001227248110808432
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The Marvels had a theatrical release date of November 8, 2024 in the United States.
+--------------------------------------------------
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: The Marvels premiered in 2024.
+Final Judgment: contradiction
+Relevant Chunks:
+  - Markdown Content: The Marvels Movie, 2023 Cast, Characters, Credits, Release Date Log In https://www.marvel.com/signin?referer=https%3A%2F%2Fwww.marvel.com%2Fmovies%2Fthe-marvels) Sign Up https://www....
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+  - Trailers & Extras The Marvels Behind the Powers of The Marvels https://www.marvel.com/watch/trailers-and-extras/the-marvels-behind-the-powers-of-the-marvels) Image 17: the marvels https://cdn.marvel.c...
+  - More https://www.marvel.com/movies/the-marvels STREAM EYES OF WAKANDA EXCLUSIVELY ON STREAM EYES OF WAKANDA ON ! Image 12: Disney Disney Plus Button Logo 2024 https://cdn.marvel.com/content/2x/disneyb...
+❌ [H4] Fact Contradiction: The Marvels premiered in 2024.
+--------------------------------------------------
+Claim: The Marvels had a theatrical release date of November 8, 2024 in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: The Marvels had a theatrical release date of November 8, 2024 in mainland China.
+--------------------------------------------------
+Claim: The Marvels had a theatrical release date of November 8, 2024 in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: The Marvels had a theatrical release date of November 8, 2024 in the United States.
+💾 Saved paragraph 14 result to file
+  ✅ Cached paragraph 14 processed successfully
+
+Processing cached paragraph 15/30...
+  No atomic claims found in cached paragraph 15
+💾 Saved paragraph 15 result to file
+
+Processing cached paragraph 16/30...
+  No atomic claims found in cached paragraph 16
+💾 Saved paragraph 16 result to file
+
+Processing cached paragraph 17/30...
+  No atomic claims found in cached paragraph 17
+💾 Saved paragraph 17 result to file
+
+Processing cached paragraph 18/30...
+  No atomic claims found in cached paragraph 18
+💾 Saved paragraph 18 result to file
+
+Processing cached paragraph 19/30...
+  No atomic claims found in cached paragraph 19
+💾 Saved paragraph 19 result to file
+
+Processing cached paragraph 20/30...
+
+💾 Memory check at paragraph 20:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+  No atomic claims found in cached paragraph 20
+💾 Saved paragraph 20 result to file
+
+Processing cached paragraph 21/30...
+  No atomic claims found in cached paragraph 21
+💾 Saved paragraph 21 result to file
+
+Processing cached paragraph 22/30...
+  No atomic claims found in cached paragraph 22
+💾 Saved paragraph 22 result to file
+
+Processing cached paragraph 23/30...
+  No atomic claims found in cached paragraph 23
+💾 Saved paragraph 23 result to file
+
+Processing cached paragraph 24/30...
+  Using 4 cached claims from paragraph 24
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+Observation memory entailment score: neutral 0.0005806810804642737
+  No target URL for claim; using BM25→NLI iterative loop on 232 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 2: 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+ BM25 Retrieved Chunk 3: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+ BM25 Retrieved Chunk 4: The Top 14 Perform https://www.imdb.com/title/tt1234567/?ref_=ttrel_rvi_t_1) Get the IMDb App https://slyb.app.link/SKdyQ6A449) Sign in for more access https://www.imdb.com/registration/signin/?u=%2Ft...
+ BM25 Retrieved Chunk 5: Always Active These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request...
+    Batch result: 0 entailment, 1 contradiction
+❌ [H4] Fact Contradiction: "Avatar: The Next Chapter" premiered in 2024
+Relevant Chunks:
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - December
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.004023619927465916
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in the United States
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - December
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.001777862198650837
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in mainland China
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  Claim is a valid URL: https://www.disneystudios.com/avatar-next-chapter
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" premiered in 2024
+Final Judgment: contradiction
+Relevant Chunks:
+  - 2019 Set in the 1990s, Marvel Studios' "Captain Marvel" is an all new adventure from a previously unseen period in the history of the Marvel Cinematic Universe that follows the journey of Carol Danver...
+❌ [H4] Fact Contradiction: "Avatar: The Next Chapter" premiered in 2024
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in the United States
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in the United States
+--------------------------------------------------
+Claim: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in mainland China
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Avatar: The Next Chapter" had a theatrical release date of December 20, 2024 in mainland China
+💾 Saved paragraph 24 result to file
+  ✅ Cached paragraph 24 processed successfully
+
+Processing cached paragraph 25/30...
+  Using 2 cached claims from paragraph 25
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+  - Mission Impossible Dead Reckoning Part
+  - May
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00337603478692472
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: "Mission: Impossible - Dead Reckoning Part Two" is scheduled for theatrical release on May 23, 2024.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 232 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible/', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+🔍 Debug: Normalized URLs in url_to_chunks: ['http://www.chinafilm.gov.cn', 'https://www.boxofficemojo.com/franchise/missionimpossible', 'https://www.disneystudios.com/avatar-next-chapter', 'https://www.imdb.com/title/tt1234567/releaseinfo', 'https://www.marvel.com/movies/the-marvels', 'https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two']
+  Claim is a valid URL: https://www.paramount.com/releases/mission-impossible-dead-reckoning-part-two
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: "Mission: Impossible - Dead Reckoning Part Two" is scheduled for theatrical release on May 23, 2024.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: "Mission: Impossible - Dead Reckoning Part Two" is scheduled for theatrical release on May 23, 2024.
+💾 Saved paragraph 25 result to file
+  ✅ Cached paragraph 25 processed successfully
+
+Processing cached paragraph 26/30...
+  No atomic claims found in cached paragraph 26
+💾 Saved paragraph 26 result to file
+
+Processing cached paragraph 27/30...
+  Using 5 cached claims from paragraph 27
+Fetching content from 6 URLs...
+
+🔍 Debug: Proper names:
+  - IMDb Avatar
+  - Next Chapter Release Dates
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+  Claim is a valid URL: https://www.imdb.com/title/tt1234567/releaseinfo
+
+🔍 Debug: Proper names:
+  - Avatar
+  - Next
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 29 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+🔍 Debug: Normalized URLs in url_to_chunks: ['https://www.disneystudios.com/avatar-next-chapter']
+Observation memory entailment score: neutral 0.0006983978673815727
+  No target URL for claim; using BM25→NLI iterative loop on 29 chunks from specified URLs
+==================================================
+ BM25 1th batch:
+ BM25 Retrieved Chunk 1: Next View more news https://www.disneystudios.com/news) About For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built....
+ BM25 Retrieved Chunk 2: First Look at 'Ella McCay' From Writer/Director James L. Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studi...
+ BM25 Retrieved Chunk 3: Image 8 https://walt-disney-studios.s3.amazonaws.com/20th_Century_Studios_Stack_Black_1887f0c002.png) Avatar: Fire and Ash©20th Century Studios https://www.disneystudios.com/business/20th-century-stud...
+ BM25 Retrieved Chunk 4: Always Active These cookies are necessary for our services to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request...
+ BM25 Retrieved Chunk 5: If you access other digital properties of the Walt Disney Family of Companies, you will need to make your election for each. Also, if you clear your cookies on this browser or use another browser or d...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 2th batch:
+ BM25 Retrieved Chunk 1: Image 5 https://walt-disney-studios.s3.amazonaws.com/wdas_0b46714093.png) Zootopia 2©Walt Disney Animation Studios https://www.disneystudios.com/business/walt-disney-animation-studios) Image 6 https:/...
+ BM25 Retrieved Chunk 2: Image 14: The Walt Disney Company Logo https://cdn.cookielaw.org/logos/64f077b5-2f93-429f-a005-c0206ec0738e/9a7f5865-f066-43bd-8f74-7962db94545b/94ab2203-bc05-4ead-9e49-91aa0c8d4f4c/DisneyCareers-hori...
+ BM25 Retrieved Chunk 3: You can set your browser to block, or alert you about, these cookies, but some parts of the site will not then work. Selling, Sharing, Targeted Advertising x Selling, Sharing, Targeted Advertising We ...
+ BM25 Retrieved Chunk 4: We may use personal information to support “targeted advertising,” “selling,” or “sharing,” as defined by applicable privacy laws, which may result in third parties receiving your personal information...
+ BM25 Retrieved Chunk 5: Walt Disney Studios to Release Filmed Version of 'Hamilton' in Theaters September 5 https://www.disneystudios.com/newsdetail/walt-disney-studios-to-release-filmed-version-of-hamilton-in-theaters-septe...
+    Batch result: all neutral; moving to next batch
+==================================================
+ BM25 3th batch:
+ BM25 Retrieved Chunk 1: Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+ BM25 Retrieved Chunk 2: First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdetail/first-look-at-20th-century-studios-eenie-meanie) Trailer, Poster and Images for 20th Century Studios’ 'Swipe...
+ BM25 Retrieved Chunk 3: Title: The Walt Disney Studios URL Source: https://www.disneystudios.com/avatar-next-chapter Markdown Content: The Walt Disney Studios...
+ BM25 Retrieved Chunk 4: For 100 years, The Walt Disney Studios has been the foundation on which The Walt Disney Company was built. Today it brings quality movies, episodic storytelling, and stage plays to consumers throughou...
+ BM25 Retrieved Chunk 5: Image 11 https://walt-disney-studios.s3.amazonaws.com/Disney_Theatrical_Group_0368273d86.png) The Lion King©Disney Theatrical Group https://www.disneystudios.com/business/disney-theatrical-group) Imag...
+    Batch result: 1 entailment, 0 contradiction
+✅ Fact Entailment [Before Noise Domination]: The movie "Avatar: The Next Chapter" premiered in 2024.
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+  - Next Chapter
+  - China
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.0508432500064373
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The movie "Avatar: The Next Chapter" had a theatrical release date in mainland China.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+  - Next Chapter
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.014961590990424156
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The movie "Avatar: The Next Chapter" had a theatrical release date in the United States.
+--------------------------------------------------
+
+🔍 Debug: Proper names:
+  - Avatar
+  - Next
+  - China
+  - United
+
+✅ Loading pre-computed chunks from cache to ensure chunk ID consistency
+✅ Successfully loaded 0 chunks from cache for 6 specified URLs with consistent chunk IDs
+🔍 Debug: Final URLs in url_to_chunks: []
+🔍 Debug: Normalized URLs in url_to_chunks: []
+Observation memory entailment score: neutral 0.00547516206279397
+  No target URL for claim; using BM25→NLI iterative loop on 0 chunks from specified URLs
+  BM25→NLI loop exhausted: all checked chunks neutral
+❌ [H3] Fact Fabrication: The theatrical release date for "Avatar: The Next Chapter" was shared between mainland China and the United States.
+--------------------------------------------------
+  📝 Observation memory updated from claim checking: 668 characters
+  📊 Loaded 389 chunk scores from cache for noise detection
+  📊 Reconstructed 389 detailed chunk scores for noise detection
+--------------------------------------------------
+Claim: The movie "Avatar: The Next Chapter" premiered in 2024.
+Final Judgment: entailment
+Relevant Chunks:
+  - Brooks https://www.disneystudios.com/newsdetail/first-look-at-ella-mc-cay-from-writer-director-james-l-brooks) First Look at 20th Century Studios’ 'Eenie Meanie' https://www.disneystudios.com/newsdeta...
+✅ Claim already added to observation memory: The movie "Avatar: The Next Chapter" premiered in 2024.
+3 related query indices
+Query: Did the movies premiere in 2024?
+Query: Are credible source links provided confirming the theatrical release dates?
+Query: Are only official theatrical release dates considered?
+========= DOCUMENT-LEVEL NOISE DOMINATION CHECK =========
+Top 10% threshold: 0.11224708144257133
+========= CHUNK-LEVEL NOISE DOMINATION CHECK =========
+  Document top 10% threshold: 0.5025845332437119
+  Rank in document: 1/29
+  Is in document top 10%: True
+✅  Fact Entailment: The movie "Avatar: The Next Chapter" premiered in 2024.
+--------------------------------------------------
+Claim: The movie "Avatar: The Next Chapter" had a theatrical release date in mainland China.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: The movie "Avatar: The Next Chapter" had a theatrical release date in mainland China.
+--------------------------------------------------
+Claim: The movie "Avatar: The Next Chapter" had a theatrical release date in the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: The movie "Avatar: The Next Chapter" had a theatrical release date in the United States.
+--------------------------------------------------
+Claim: The theatrical release date for "Avatar: The Next Chapter" was shared between mainland China and the United States.
+Final Judgment: neutral
+Relevant Chunks:
+❌ [H3] Fact Fabrication: The theatrical release date for "Avatar: The Next Chapter" was shared between mainland China and the United States.
+💾 Saved paragraph 27 result to file
+  ✅ Cached paragraph 27 processed successfully
+
+Processing cached paragraph 28/30...
+  No atomic claims found in cached paragraph 28
+💾 Saved paragraph 28 result to file
+
+Processing cached paragraph 29/30...
+  No atomic claims found in cached paragraph 29
+💾 Saved paragraph 29 result to file
+
+Processing cached paragraph 30/30...
+
+💾 Memory check at paragraph 30:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+  No atomic claims found in cached paragraph 30
+💾 Saved paragraph 30 result to file
+
+🧹 Final memory cleanup after report processing
+
+✅ Report processing completed. Processed 30 paragraphs.
+Final memory status:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+
+💾 Final memory status:
+💾 System Memory: 167.15GB / 251.50GB (70.6%)
+🎮 GPU 0: 3.25GB / 23.68GB used
+🎮 GPU 1: 0.00GB / 23.68GB used
+🎮 GPU 2: 0.00GB / 23.68GB used
+🎮 GPU 3: 0.00GB / 23.68GB used
+🔄 Process Memory: 13.48GB
+
+✅ Complete results saved to: ../results/results_2024_film_premiere.json
+📊 Final Summary:
+  - Chain of Research iterations: 4
+  - Report paragraphs: 30
+  - Successfully processed iterations: 4
+  - Successfully processed paragraphs: 8
+Time taken: 3.9383281111717223 minutes

@@ -1,0 +1,4 @@
+{
+  "https://patents.google.com": "Title: Google Patents\n\nURL Source: https://patents.google.com/\n\nMarkdown Content:\nGoogle Patents\n\n===============\n",
+  "https://patft.uspto.gov/netahtml/PTO/search-bool.html": "[Error] Error('Page.goto: net::ERR_CONNECTION_REFUSED at https://patft.uspto.gov/netahtml/PTO/search-bool.html\\nCall log:\\n  - navigating to \"https://patft.uspto.gov/netahtml/PTO/search-bool.html\", waiting until \"load\"\\n')"
+}

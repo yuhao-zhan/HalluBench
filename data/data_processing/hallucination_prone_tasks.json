@@ -1,0 +1,18 @@
+{
+  "total_tasks_analyzed": 10,
+  "hallucination_prone_tasks": 5,
+  "task_ids": [
+    "2024_film_premiere",
+    "active_stock",
+    "ad_patent",
+    "apple_watch",
+    "baltimore_marc_station"
+  ],
+  "task_details": {
+    "2024_film_premiere": "Find 3 movies that premiered in 2024 and had matching theatrical release dates in both mainland China and the United States. For each movie, clearly provide the title, the shared theatrical release date, and credible source links (such as IMDb or official news articles) explicitly confirming these theatrical release dates. Consider only official theatrical release dates—exclude film festival premieres, limited screenings, digital releases, special events, or any other non-standard releases.",
+    "active_stock": "Find 10 U.S. exchange-listed companies with an average trading volume of over 10 million shares and a market capitalization of no more than $15 billion. For each company, provide its stock ticker symbol, CIK code, and also a webpage that display its trading volume and market cap information.",
+    "ad_patent": "Find three U.S. patents or patent applications in the field of autonomous driving that were published in 2024, regardless of whether they have been granted. For each, include the title, the inventors' names, the organization or assignee, the filing date, the publication date, and a link to the corresponding Google Patents page.",
+    "apple_watch": "I am compiling a list of 6 news reports about incidents where an Apple Watch helped save someone's life. Please help me identify 6 distinct incidents covered by reputable news sources. The incidents should meet the following criteria:\n\n1. All incidents must have occurred in the United States.\n2. Each incident must have occurred in a different U.S. state.\n3. The news report should explicitly include:\n- The time (at least the month) of the incident\n- The specific location (city)\n- The nature of the incident or medical emergency\n- The Apple Watch features involved, clearly stating if multiple features contributed.\n4. The news reports should be from independent, reputable news sources and not from Apple’s official communications or PR releases.\n\nFor each incident, please provide:\n\n- The required information as specified above.\n- A direct link to the news article reporting the incident.\n\nEnsure all links provided clearly mention and verify the Apple Watch's role in the described incidents.",
+    "baltimore_marc_station": "I'm moving to Baltimore soon and have heard great things about the MARC Train between Camden Station in Baltimore and Union Station in DC. I'd like to get a place in a suburb close to a MARC train stop.\nCould you first find all the MARC train stops between these two stations and clearly provide the name of the town or city where each stop is located, as well as its specific address. Then, for each unique town or city identified, find the Total Crime Index from NeighborhoodScout. "
+  }
+}

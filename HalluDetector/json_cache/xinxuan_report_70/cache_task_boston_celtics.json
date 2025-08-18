@@ -1,0 +1,235 @@
+{
+  "report": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "# A Quantitative Analysis of Player Field Goal Efficiency for the Boston Celtics in the 2019-2020 NBA Playoffs",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 2,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 3,
+      "paragraph_text": "### Key Points",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "*   Four players on the 2019-2020 Boston Celtics playoff roster met the specified performance criteria of a minimum of 10 Field Goal Attempts (FGA) and a Field Goal Percentage (FG%) of 50% or greater....",
+      "atomic_claims": [
+        "https://www.basketball-reference.com",
+        "Four players on the 2019-2020 Boston Celtics playoff roster had at least 10 field goal attempts.",
+        "Four players on the 2019-2020 Boston Celtics playoff roster had a field goal percentage of 50% or greater.",
+        "Daniel Theis had 100 field goal attempts in the 2019-2020 playoffs.",
+        "Daniel Theis had a field goal percentage of 52.0% in the 2019-2020 playoffs.",
+        "Robert Williams had 42 field goal attempts in the 2019-2020 playoffs.",
+        "Robert Williams had a field goal percentage of 73.8% in the 2019-2020 playoffs.",
+        "Enes Kanter had 25 field goal attempts in the 2019-2020 playoffs.",
+        "Enes Kanter had a field goal percentage of 52.0% in the 2019-2020 playoffs.",
+        "Grant Williams had 37 field goal attempts in the 2019-2020 playoffs.",
+        "Grant Williams had a field goal percentage of 56.8% in the 2019-2020 playoffs.",
+        "Robert Williams had the highest field goal percentage on the team in the 2019-2020 playoffs.",
+        "Robert Williams had at least 10 field goal attempts in the 2019-2020 playoffs."
+      ]
+    },
+    {
+      "paragraph_index": 5,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "### Overview",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "This report provides a detailed statistical analysis of the individual player performances for the Boston Celtics during the 2019-2020 National Basketball Association (NBA) Playoffs. The primary objec...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "This investigation utilizes a complete statistical dataset for the entire roster to ensure a comprehensive evaluation. By filtering player performance against these precise criteria, the analysis diff...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "### Detailed Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "#### **Methodology and Selection Criteria**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "The analytical framework for this study is predicated on quantitative filtering based on two specific performance metrics from the 2020 NBA Playoffs:\n1.  **Minimum Field Goal Attempts (FGA):** A playe...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 13,
+      "paragraph_text": "Data was compiled for all 16 players on the Boston Celtics' 2019-2020 playoff roster to form a complete dataset for the evaluation.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 14,
+      "paragraph_text": "#### **Players Meeting Performance Benchmarks**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "Application of the specified criteria to the roster's playoff statistics yielded four players who met or exceeded the performance benchmarks. These individuals are detailed in the table below.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "| Player | FGA | FG% |\n| :--- | :-- | :--- |\n| Daniel Theis | 100 | .520 |\n| Robert Williams | 42 | .738 |\n| Grant Williams | 37 | .568 |\n| Enes Kanter | 25 | .520 |",
+      "atomic_claims": [
+        "Daniel Theis recorded a field goal percentage of 52.0%",
+        "Daniel Theis attempted 100 field goals",
+        "Robert Williams recorded a field goal percentage of 73.8%",
+        "Robert Williams attempted 42 field goals",
+        "Grant Williams recorded a field goal percentage of 56.8%",
+        "Grant Williams attempted 37 field goals",
+        "Enes Kanter recorded a field goal percentage of 52.0%",
+        "Enes Kanter attempted 25 field goals"
+      ]
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "Among this qualifying cohort, Robert Williams's performance is particularly noteworthy, as his .738 FG% was substantially higher than that of any other player on the roster with a significant number o...",
+      "atomic_claims": [
+        "Robert Williams had a field goal percentage of .738 in the 2019-2020 playoffs.",
+        "Daniel Theis had a total of 100 field goal attempts in the 2019-2020 playoffs.",
+        "Grant Williams scored efficiently off the bench in the 2019-2020 playoffs.",
+        "Enes Kanter scored efficiently off the bench in the 2019-2020 playoffs."
+      ]
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "#### **Comprehensive Roster Statistical Overview**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "For contextual purposes, the complete statistical data for all players on the 2019-2020 playoff roster is presented below. This table illustrates the performance distribution across the entire team an...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "| Player | FGA | FG% |\n| :--- | :-- | :--- |\n| Jayson Tatum | 345 | .435 |\n| Jaylen Brown | 282 | .475 |\n| Kemba Walker | 247 | .441 |\n| Marcus Smart | 193 | .394 |\n| Gordon Hayward | 88 | .409 |\n| Da...",
+      "atomic_claims": [
+        "Daniel Theis recorded a field goal percentage of .520 in the 2019-2020 playoffs.",
+        "Robert Williams recorded a field goal percentage of .738 in the 2019-2020 playoffs.",
+        "Grant Williams recorded a field goal percentage of .568 in the 2019-2020 playoffs.",
+        "Enes Kanter recorded a field goal percentage of .520 in the 2019-2020 playoffs.",
+        "Romeo Langford recorded a field goal percentage of .500 in the 2019-2020 playoffs.",
+        "Vincent Poirier recorded a field goal percentage of .500 in the 2019-2020 playoffs.",
+        "Tacko Fall recorded a field goal percentage of .750 in the 2019-2020 playoffs."
+      ]
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "As evidenced by the data, the team's leading scorers in terms of volume—Tatum, Brown, and Walker—all recorded field goal percentages below the .500 threshold. This finding is not unexpected, as primar...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 22,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "### Survey Note",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "#### **Literature Review & Theoretical Framework**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "The use of Field Goal Percentage (FG%) as a metric for offensive efficiency is foundational in basketball analytics. While widely used, it is considered a traditional statistic. Contemporary basketbal...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "#### **Methodology & Data Analysis**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "The methodology employed in this report is a straightforward quantitative filtering process. A complete dataset for the 2019-2020 Boston Celtics playoff roster was sourced from the reputable sports st...",
+      "atomic_claims": [
+        "A complete dataset for the 2019-2020 Boston Celtics playoff roster was sourced from Basketball-Reference.com",
+        "The analysis applied a numerical constraint: FGA ≥ 10",
+        "The analysis applied a numerical constraint: FG% ≥ .500",
+        "The methodology used a quantitative filtering process",
+        "The approach is transparent",
+        "The approach is replicable"
+      ]
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "#### **Critical Discussion**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "A primary limitation of this analysis is its reliance on FG% as the sole metric of efficiency. This measure does not differentiate between two-point and three-point shots, treating all made baskets eq...",
+      "atomic_claims": [
+        "Marcus Smart attempted 193 field goals in the playoffs.",
+        "Marcus Smart recorded a field goal percentage of .394 in the playoffs.",
+        "Robert Williams attempted 42 field goals in the playoffs.",
+        "Robert Williams recorded a field goal percentage of .738 in the playoffs.",
+        "Romeo Langford attempted 8 field goals in the playoffs.",
+        "Romeo Langford recorded a field goal percentage of .500 in the playoffs."
+      ]
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "#### **Future Research Directions**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "Future research could build upon this analysis by employing more sophisticated efficiency metrics. An investigation using eFG% and TS% would provide a more complete picture of each player's scoring co...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    }
+  ],
+  "related_query": {}
+}

@@ -1,0 +1,254 @@
+{
+  "report": [
+    {
+      "paragraph_index": 1,
+      "paragraph_text": "# A Methodological Framework for Identifying ZARA Women's Blazers by Specific Fabric Composition",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 2,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 3,
+      "paragraph_text": "### Key Points",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 4,
+      "paragraph_text": "*   The primary research objective is to identify three distinct women's blazers on the ZARA e-commerce platform where the outer shell and lining compositions each contain less than 50% combined Polye...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 5,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 6,
+      "paragraph_text": "### Overview",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 7,
+      "paragraph_text": "This report outlines a rigorous methodological plan to address a specific product inquiry: the identification of women's blazers from the retailer ZARA that adhere to strict fabric composition criteri...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 8,
+      "paragraph_text": "The principal challenge in this research is the lack of direct, automated access to the retailer's product database. E-commerce platforms like ZARA's are dynamic and typically not structured for advan...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 9,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 10,
+      "paragraph_text": "### Detailed Analysis",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 11,
+      "paragraph_text": "The research is structured into a four-phase sequential process to ensure systematic execution and verifiable outcomes.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 12,
+      "paragraph_text": "#### **Phase 1: Initial Search and Site Navigation**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 13,
+      "paragraph_text": "The initial phase focuses on efficiently locating the target product category on the ZARA e-commerce platform.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 14,
+      "paragraph_text": "1.  **Targeted Search Query**: Execute a web search using a high-precision query, such as `\"ZARA official site women's blazers\"`, to locate the primary landing page for this category.\n2.  **URL Verifi...",
+      "atomic_claims": [
+        "The search query used is \"ZARA official site women's blazers\".",
+        "The resulting URL must direct to the official ZARA domain.",
+        "The resulting URL must be for the relevant market.",
+        "Third-party resellers are not valid sources.",
+        "Aggregators are not valid sources.",
+        "The category navigation path is \"Women > Blazers\".",
+        "The category navigation path is on the ZARA website."
+      ]
+    },
+    {
+      "paragraph_index": 15,
+      "paragraph_text": "#### **Phase 2: Heuristic Filtering and Candidate Selection**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 16,
+      "paragraph_text": "This phase employs on-site tools and visual inspection to narrow the field of potential candidates, increasing the efficiency of the detailed analysis.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 17,
+      "paragraph_text": "1.  **Utilize On-Site Filters**: If available, apply material-based filters provided by the ZARA interface. Prioritize filters for natural fibers such as `Linen`, `Wool`, `Cotton`, or `Lyocell`, as pr...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 18,
+      "paragraph_text": "#### **Phase 3: Data Extraction and Compositional Analysis**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 19,
+      "paragraph_text": "This is the core analytical phase, where individual product pages are examined against the specific research criteria. This process must be repeated for each candidate until three qualifying blazers a...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 20,
+      "paragraph_text": "1.  **Locate Composition Data**: On the product page of a selected candidate, navigate to the detailed information section, typically labeled \"Composition & Care,\" \"Materials,\" or a similar descriptor...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 21,
+      "paragraph_text": "| Category | Fibers Included for Calculation | Threshold |\n| :--- | :--- | :--- |\n| Specified Synthetics | Polyester, Rayon (Viscose), Nylon (Polyamide), Spandex (Elastane) | **< 50%** |",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 22,
+      "paragraph_text": "4.  **Verification**:\n    *   **Outer Shell Check**: Sum the percentages of all fibers listed in the table for the outer shell. The total must be less than 50%.\n    *   **Lining Check**: Sum the perce...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 23,
+      "paragraph_text": "5.  **Data Recording**: For each successful finding, record the full product name, product URL, and the complete extracted composition for both layers.",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 24,
+      "paragraph_text": "---",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 25,
+      "paragraph_text": "### Survey Note",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 26,
+      "paragraph_text": "#### **Methodology & Data Analysis**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 27,
+      "paragraph_text": "The proposed research employs a directed content analysis methodology. The approach is qualitative in its manual selection and data extraction process but quantitative in its final verification step. ...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 28,
+      "paragraph_text": "The data analysis protocol is a deterministic, rule-based check against a pre-defined quantitative threshold. The primary independent variables are the fabric compositions of the outer shell and linin...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 29,
+      "paragraph_text": "#### **Critical Discussion & Limitations**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 30,
+      "paragraph_text": "The most significant limitation of this research design is its reliance on manual navigation and data extraction. This has several implications:",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 31,
+      "paragraph_text": "*   **Comprehensiveness**: The search is not exhaustive. It is possible that qualifying products may be missed, especially if they are not accurately categorized or described in a way that favors thei...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 32,
+      "paragraph_text": "#### **Future Research Directions**",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    },
+    {
+      "paragraph_index": 33,
+      "paragraph_text": "Should direct access to retailer databases via an API become available, future research could automate this process, allowing for a complete and instantaneous analysis of the entire product catalog. F...",
+      "atomic_claims": [],
+      "error": "No extractable claims found"
+    }
+  ],
+  "chunk_score": {
+    "0-chunk_0_-7615726104803841543": {
+      "url": "https://www.google.com/search?q=ZARA+official+site+women%27s+blazers",
+      "chunk_text": "Title: https://www.google.com/search?q=ZARA+official+site+women%27s+blazers&sei=dOWeaICWFqah0PEPk9fEgQU URL Source: https://www.google.com/search?q=ZARA+official+site+women%27s+blazers Warning: Target URL returned error 429: Too Many Requests Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.",
+      "position": 0,
+      "chunk_id_original": "chunk_0_-7615726104803841543",
+      "sentence_count": 4,
+      "sentence_indices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "scores": {}
+    },
+    "0-chunk_1_5916159971239612320": {
+      "url": "https://www.google.com/search?q=ZARA+official+site+women%27s+blazers",
+      "chunk_text": "Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page. Markdown Content: About this page Our systems have detected unusual traffic from your computer network.",
+      "position": 109,
+      "chunk_id_original": "chunk_1_5916159971239612320",
+      "sentence_count": 4,
+      "sentence_indices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "scores": {}
+    },
+    "0-chunk_2_-7351004844065088728": {
+      "url": "https://www.google.com/search?q=ZARA+official+site+women%27s+blazers",
+      "chunk_text": "Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot. Why did this happen? https://www.google.com/search?q=ZARA+official+site+women%27s+blazers",
+      "position": 246,
+      "chunk_id_original": "chunk_2_-7351004844065088728",
+      "sentence_count": 4,
+      "sentence_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "scores": {}
+    }
+  },
+  "related_query": {}
+}

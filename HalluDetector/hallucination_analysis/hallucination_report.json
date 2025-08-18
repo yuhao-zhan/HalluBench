@@ -1,0 +1,300 @@
+{
+  "summary": {
+    "total_actions": 0,
+    "total_claims": 7,
+    "h1_count": 0,
+    "h2_count": 6,
+    "h3_count": 1,
+    "h4_count": 0,
+    "total_claim_hallucinations": 7,
+    "iteration_h1_ratio": 0,
+    "iteration_claim_hallucination_ratio": 0,
+    "iteration_h2_ratio": 0,
+    "iteration_h3_ratio": 0,
+    "iteration_h4_ratio": 0,
+    "report_claim_hallucination_ratio": 1.0,
+    "report_h2_ratio": 0.8571428571428571,
+    "report_h3_ratio": 0.14285714285714285,
+    "report_h4_ratio": 0.0,
+    "overall_h1_ratio": 0,
+    "overall_claim_hallucination_ratio": 1.0,
+    "overall_h2_ratio": 0.8571428571428571,
+    "overall_h3_ratio": 0.14285714285714285,
+    "overall_h4_ratio": 0.0
+  },
+  "iteration_details": {
+    "h1_count": 0,
+    "h2_count": 0,
+    "h3_count": 0,
+    "h4_count": 0,
+    "total_actions": 0,
+    "total_claims": 0,
+    "entailments": 0
+  },
+  "report_details": {
+    "h2_count": 6,
+    "h3_count": 1,
+    "h4_count": 0,
+    "total_claims": 7,
+    "entailments": 0
+  },
+  "breakdown_by_iteration": [],
+  "breakdown_by_paragraph": [
+    {
+      "paragraph_id": 1,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 2,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 3,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 4,
+      "h2_count": 3,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 3,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 5,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 6,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 7,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 8,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 9,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 10,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 11,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 12,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 13,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 14,
+      "h2_count": 2,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 2,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 15,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 16,
+      "h2_count": 0,
+      "h3_count": 1,
+      "h4_count": 0,
+      "total_claims": 1,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 17,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 18,
+      "h2_count": 1,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 1,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 19,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 20,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 21,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 22,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 23,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 24,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 25,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 26,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 27,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 28,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 29,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 30,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 31,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    },
+    {
+      "paragraph_id": 32,
+      "h2_count": 0,
+      "h3_count": 0,
+      "h4_count": 0,
+      "total_claims": 0,
+      "entailments": 0
+    }
+  ]
+}
